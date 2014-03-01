@@ -1,0 +1,6 @@
+markdown: rdiscount
+
+analytics :
+  provider : google
+  google :
+      tracking_id : 'UA-47201105-1'
