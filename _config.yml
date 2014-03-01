@@ -4,3 +4,9 @@ analytics :
   provider : google
   google :
       tracking_id : 'UA-47201105-1'
+
+
+permalink: /:year/:month/:title/
+url: http://yangxd.org
+author: Xiaodong Yang
+pygments: true
