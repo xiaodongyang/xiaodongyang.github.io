@@ -3,7 +3,7 @@ markdown: rdiscount
 analytics :
   provider : google
   google :
-      tracking_id : 'UA-47201105-1'
+      tracking_id : 'UA-48554146-1'
 
 
 permalink: /:year/:month/:title/
