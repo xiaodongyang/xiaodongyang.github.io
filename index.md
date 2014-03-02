@@ -11,4 +11,4 @@ Xiaodong Yang is a Ph.D. student in [Media Lab](http://media-lab.engr.ccny.cuny.
 
 > 01/18/2014: One paper is accepted by IEEE Trans. on Human-Machine Systems.
 
-> 10/28/2013: Our team AT&T Research wins the first place on two tasks of TRECVID 2013 Surveillance Event Detection. 
+> 10/28/2013: Our team AT&T Research wins the first place on two tasks of TRECVID Surveillance Event Detection. 
