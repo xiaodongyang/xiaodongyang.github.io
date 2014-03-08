@@ -30,7 +30,7 @@ C. Mazuera, **X. Yang**, and Y. Tian. Visual Speech Learning Using Dynamic Lip M
 **X. Yang**, S. Yuan, and Y. Tian. Recognizing Clothes Patterns for Blind People by Confidence Margin based Feature Combination. ACM Multimedia (MM), 2011.
 
 **X. Yang**, Y. Tian, C. Yi, and A. Arditi. Context based Indoor Object Detection as An Aid to Blind Persons Accessing Unfamiliar Environments. ACM Multimedia (MM), 2010.
-<br>
+<br><br>
 
 ## Journals
 
