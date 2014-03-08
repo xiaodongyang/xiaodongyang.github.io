@@ -8,9 +8,8 @@ Here is a selected list of my publications.
 
 My complete publication list can be found [here](\publications). 
 
-My citations can be found on [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en) page.    
-<br><br><br><br>
-
+My citations can be found on [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en) page.
+<br>
 ## Conferences
 
 **X. Yang** and Y. Tian. Super Normal Vector for Activity Analysis Using Depth Sequences. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.
@@ -29,8 +28,8 @@ C. Mazuera, **X. Yang**, and Y. Tian. Visual Speech Learning Using Dynamic Lip M
 
 **X. Yang**, S. Yuan, and Y. Tian. Recognizing Clothes Patterns for Blind People by Confidence Margin based Feature Combination. ACM Multimedia (MM), 2011.
 
-**X. Yang**, Y. Tian, C. Yi, and A. Arditi. Context based Indoor Object Detection as An Aid to Blind Persons Accessing Unfamiliar Environments. ACM Multimedia (MM), 2010.    
-
+**X. Yang**, Y. Tian, C. Yi, and A. Arditi. Context based Indoor Object Detection as An Aid to Blind Persons Accessing Unfamiliar Environments. ACM Multimedia (MM), 2010.
+<br>
 ## Journals
 
 **X. Yang**, S. Yuan, and Y. Tian. Assistive Clothing Pattern Recognition for Visually Impaired People. IEEE Transactions on Human-Machine Systems (THMS), accpted.
