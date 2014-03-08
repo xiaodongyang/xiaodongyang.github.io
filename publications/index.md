@@ -9,8 +9,7 @@ Here is a selected list of my publications.
 My complete publication list can be found [here](\publications). 
 
 My citations can be found on [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en) page.    
-    
-    
+
 ## Conferences
 
 **X. Yang** and Y. Tian. Super Normal Vector for Activity Analysis Using Depth Sequences. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.
