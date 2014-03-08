@@ -1,3 +1,9 @@
+---
+layout: page
+title: Publications
+comments: no
+---
+
 # Conferences
 
 **X. Yang** and Y. Tian. Super Normal Vector for Activity Analysis Using Depth Sequences. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.
