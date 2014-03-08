@@ -35,7 +35,6 @@ comments: no
 14. Y. Tian, **X. Yang**, and A. Arditi. Computer Vision based Door Detection for Accessibility of Unfamiliar Environments to Blind Persons. International Conference on Computers Helping People with Special Needs (ICCHP), 2010.
 
 <br><br>
-
 ## Journals
 
 15. **X. Yang**, S. Yuan, and Y. Tian. Assistive Clothing Pattern Recognition for Visually Impaired People. IEEE Transactions on Human-Machine Systems (THMS), accpted.
