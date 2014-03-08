@@ -33,7 +33,6 @@ comments: no
 13. **X. Yang** and Y. Tian. Robust Door Detection in Unfamiliar Environments by Combining Edge and Corner Features. IEEE CVPR Workshop on Computer Vision Applications for Visually Impaired, 2010.
 
 14. Y. Tian, **X. Yang**, and A. Arditi. Computer Vision based Door Detection for Accessibility of Unfamiliar Environments to Blind Persons. International Conference on Computers Helping People with Special Needs (ICCHP), 2010.
-
 <br><br>
 
 ## Journals
