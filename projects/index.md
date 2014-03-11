@@ -4,11 +4,11 @@ title: Projects
 comments: no
 ---
 
-<table width="980" border="0">
+<table width="700" border="0">
 <tr>
 
 <th scope="col">
-<img src="/iSED.jpg" width="265" height="118">
+<img src="/projects/iSED.jpg" width="265" height="118">
 </th>
 
 <td width="400" align="center" scope="col">&nbsp;
