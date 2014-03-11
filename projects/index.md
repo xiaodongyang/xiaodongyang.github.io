@@ -19,7 +19,7 @@ comments: no
 
 <br>
 
-<table width="620" border="0">
+<table width="680" border="0">
 <tr>
 <th scope="col">
 <img src="/projects/ActionGestureRGBD.jpg" width="298" height="133">
@@ -33,7 +33,7 @@ comments: no
 
 <br>
 
-<table width="620" border="0">
+<table width="680" border="0">
 <tr>
 <th scope="col">
 <img src="/projects/AssistiveTech.jpg" width="298" height="133">
