@@ -6,7 +6,7 @@ comments: no
 
 <table width="650" border="0" align="center">
 <tr>
-<th align="left" bgcolor="#CCCCCC" scope="col">&nbsp;<strong>Abstract</strong></th>
+<th align="left" bgcolor="#CCCCCC" scope="col">&nbsp;<strong class="style16">Abstract</strong></th>
 </tr>
 </table>
 
@@ -20,7 +20,7 @@ comments: no
 
 <table width="650" border="0" align="center">
 <tr>
-<th align="left" bgcolor="#CCCCCC" scope="col">&nbsp;<strong>System Overview</strong></th>
+<th align="left" bgcolor="#CCCCCC" scope="col">&nbsp;<strong class="style16">System Overview</strong></th>
 </tr>
 </table>
 
@@ -38,7 +38,7 @@ comments: no
 
 <table width="650" border="0" align="center">
 <tr>
-<th align="left" bgcolor="#CCCCCC" scope="col">&nbsp;<strong>Feature Extraction and Fusion</strong></th>
+<th align="left" bgcolor="#CCCCCC" scope="col">&nbsp;<strong class="style16">Feature Extraction and Fusion</strong></th>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ comments: no
 
 <table width="650" border="0" align="center">
 <tr>
-<th align="left" bgcolor="#CCCCCC" scope="col">&nbsp;<strong>Human Interaction</strong></th>
+<th align="left" bgcolor="#CCCCCC" scope="col">&nbsp;<strong class="style16">Human Interaction</strong></th>
 </tr>
 </table>
 
@@ -82,7 +82,7 @@ comments: no
 
 <table width="650" border="0" align="center">
 <tr>
-<th align="left" bgcolor="#CCCCCC" scope="col">&nbsp;<strong>Experimental Results</strong></th>
+<th align="left" bgcolor="#CCCCCC" scope="col">&nbsp;<strong class="style16">Experimental Results</strong></th>
 </tr>
 </table>
 
@@ -100,7 +100,7 @@ comments: no
 
 <table width="650" border="0" align="center">
 <tr>
-<th align="left" bgcolor="#CCCCCC" scope="col">&nbsp;<strong>Related Publications</strong></th>
+<th align="left" bgcolor="#CCCCCC" scope="col">&nbsp;<strong class="style16">Related Publications</strong></th>
 </tr>
 </table>
 
