@@ -4,25 +4,27 @@ title: Projects
 comments: no
 ---
 
-<table width="680" border="0" align="center">
+<table width="650" border="0" align="center">
 <tr>
 <th align="left" bgcolor="#CCCCCC" scope="col">&nbsp;<strong>Abstract</strong></th>
 </tr>
 </table>
 
-We present an interactive surveillance event detection system. In the proposed system, a set of spatio-temporal features including STIP, MoSIFT, ActoinHOG, and Dense Trajectories are extracted, and a sliding temporal window is employed as the detection unit. Fisher Vector is used to encode low-level features as the representation of each sliding window. Both feature-level and decision-level fusions are used to combine multiple features. In order to deal with the highly imbalanced nature of surveillance data, the system performs detections using the CascadeSVMs algorithm according to each specific event and camera view. We develop two different interactive environments, one focuses on high throughput and the other includes related result expansion. In the primary run evaluations, our system ranks the first place on two event detection tasks.
-
-<table width="680" border="0" align="center">
+<table width="650" border="0" align="center">
 <tr>
 <th scope="col"><p align="justify">We present an interactive surveillance event detection system. In the proposed system, a set of spatio-temporal features including STIP, MoSIFT, ActoinHOG, and Dense Trajectories are extracted, and a sliding temporal window is employed as the detection unit. Fisher Vector is used to encode low-level features as the representation of each sliding window. Both feature-level and decision-level fusions are used to combine multiple features. In order to deal with the highly imbalanced nature of surveillance data, the system performs detections using the CascadeSVMs algorithm according to each specific event and camera view. We develop two different interactive environments, one focuses on high throughput and the other includes related result expansion. In the primary run evaluations, our system ranks the first place on two event detection tasks. </p></th>
 </tr>
 </table>
 
-<br>
 
-## System Overview
 
-<table width="680" border="0" align="center">
+<table width="650" border="0" align="center">
+<tr>
+<th align="left" bgcolor="#CCCCCC" scope="col">&nbsp;<strong>System Overview</strong></th>
+</tr>
+</table>
+
+<table width="650" border="0" align="center">
 <tr>
 <th scope="col"><img src="SED13_Overview.png" width="500" height="476"></th>
 </tr>
@@ -32,11 +34,15 @@ We present an interactive surveillance event detection system. In the proposed s
 </tr>
 </table>
 
-<br>
 
-## Feature Extraction and Fusion
 
-<table width="680" border="0" align="center">
+<table width="650" border="0" align="center">
+<tr>
+<th align="left" bgcolor="#CCCCCC" scope="col">&nbsp;<strong>Feature Extraction and Fusion</strong></th>
+</tr>
+</table>
+
+<table width="650" border="0" align="center">
 <tr>
 <th scope="col"><img src="SED13_Fusion.jpg" width="650" height="215"></th>
 </tr>
@@ -54,11 +60,15 @@ We present an interactive surveillance event detection system. In the proposed s
 </tr>
 </table>
 
-<br>
 
-## Human Interaction
 
-<table width="680" border="0" align="center">
+<table width="650" border="0" align="center">
+<tr>
+<th align="left" bgcolor="#CCCCCC" scope="col">&nbsp;<strong>Human Interaction</strong></th>
+</tr>
+</table>
+
+<table width="650" border="0" align="center">
 <tr>
 <th scope="col"><img src="SED13_Human.jpg" width="650" height="262"></th>
 </tr>
@@ -68,11 +78,15 @@ We present an interactive surveillance event detection system. In the proposed s
 </tr>
 </table>
 
-<br>
 
-## Experimental Results
 
-<table width="680" border="0" align="center">
+<table width="650" border="0" align="center">
+<tr>
+<th align="left" bgcolor="#CCCCCC" scope="col">&nbsp;<strong>Experimental Results</strong></th>
+</tr>
+</table>
+
+<table width="650" border="0" align="center">
 <tr>
 <th scope="col"><img src="SED13_Results.jpg" width="700" height="181"></th>
 </tr>
@@ -82,8 +96,12 @@ We present an interactive surveillance event detection system. In the proposed s
 </tr>
 </table>
 
-<br>
 
-## Related Publications
+
+<table width="650" border="0" align="center">
+<tr>
+<th align="left" bgcolor="#CCCCCC" scope="col">&nbsp;<strong>Related Publications</strong></th>
+</tr>
+</table>
 
 **X. Yang**, Z. Liu, E. Zavesky, D. Gibbon, B. Shahraray, and Y. Tian. AT&T Research at TRECVID 2013: Surveillance Event Detection. NIST TRECVID Workshop, 2013. [[PDF](/publications/papers/TRECVID_2013_SED.pdf)]
