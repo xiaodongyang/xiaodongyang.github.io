@@ -4,7 +4,11 @@ title: Projects
 comments: no
 ---
 
-## Abstract
+<table width="680" border="0" align="center">
+<tr>
+<th align="left" bgcolor="#CCCCCC" scope="col">&nbsp;<strong>Abstract</strong></th>
+</tr>
+</table>
 
 <table width="680" border="0" align="center">
 <tr>
