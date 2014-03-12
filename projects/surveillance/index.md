@@ -12,7 +12,7 @@ comments: no
 </th>
 <td width="350" align="center" scope="col">&nbsp;&nbsp;
 <strong><a href="./xyang/projects_page/Surveillance_Event_Detection/Surveillance_Event_Detection.htm">iSED TRECVID 2013</a></strong>
-<p align="justify">Our system ranked the first place on two event detection tasks.</p>
+<p align="justify">Our 2013 system ranked the first place on two event detection tasks.</p>
 </td>
 </tr>
 </table>
@@ -26,7 +26,7 @@ comments: no
 </th>
 <td width="350" align="center" scope="col">&nbsp;&nbsp;
 <strong><a href="./xyang/projects_page/Surveillance_Event_Detection/Surveillance_Event_Detection.htm">SED TRECVID 2012</a></strong>
-<p align="justify">Our system achieved TOP 3 performance in 5 out of 7 events.</p>
+<p align="justify">Our 2012 system achieved TOP 3 performance in 5 out of 7 events.</p>
 </td>
 </tr>
 </table>
