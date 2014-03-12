@@ -11,7 +11,7 @@ comments: no
 <img src="/projects/iSED.jpg" width="298" height="133">
 </th>
 <td width="350" align="center" scope="col">&nbsp;&nbsp;
-<strong><a href="./xyang/projects_page/Surveillance_Event_Detection/Surveillance_Event_Detection.htm">Surveillance Event Detection</a></strong>
+<strong><a href="/projects/surveillance/">Video Surveillance Event Detection</a></strong>
 <p align="justify">We presented the (interactive) surveillance event detection systems participated in the Surveillance Event Detection (SED) of TRECVID 2012 and 2013.</p>
 </td>
 </tr>
