@@ -11,7 +11,7 @@ comments: no
 <img src="/projects/surveillance/SED13.jpg" width="298" height="133">
 </th>
 <td width="350" align="center" scope="col">&nbsp;&nbsp;
-<strong><a href="./xyang/projects_page/Surveillance_Event_Detection/Surveillance_Event_Detection.htm">iSED TRECVID 2013</a></strong>
+<strong><a href="/projects/surveillance/SED13.md">iSED TRECVID 2013</a></strong>
 <p align="justify">Our 2013 system ranked the first place on two event detection tasks.</p>
 </td>
 </tr>
