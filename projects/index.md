@@ -39,7 +39,7 @@ comments: no
 <img src="/projects/AssistiveTech.jpg" width="298" height="133">
 </th>
 <td width="350" align="center" scope="col">&nbsp;&nbsp;
-<strong><a href="./xyang/projects_page/Surveillance_Event_Detection/Surveillance_Event_Detection.htm">Assistive Technology for Visually Impaired People</a></strong>
+<strong><a href="/projects/assistive">Assistive Technology for Visually Impaired People</a></strong>
 <p align="justify">We developed several assistive systems for visually impaired people, e.g., indoor object recognition augmented by scene text recognition, banknote recognition, and clothing pattern and color recognition</p>
 </td>
 </tr>
