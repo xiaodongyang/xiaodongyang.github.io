@@ -25,7 +25,7 @@ comments: no
 <img src="/projects/ActionGestureRGBD.jpg" width="298" height="133">
 </th>
 <td width="350" align="center" scope="col">&nbsp;&nbsp;
-<strong><a href="./xyang/projects_page/Surveillance_Event_Detection/Surveillance_Event_Detection.htm">Human Action Analysis Using RGB-D Camera</a></strong>
+<strong><a href="/projects/rgbd/">Human Action Analysis Using RGB-D Camera</a></strong>
 <p align="justify">We proposed three effective features: EigenJoints, DMM-HOG, and H3DF for human action and hand gesture recognition with RGB-D camera.</p>
 </td>
 </tr>

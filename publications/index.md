@@ -34,7 +34,7 @@ C. Mazuera, **X. Yang**, and Y. Tian. Visual Speech Learning Using Dynamic Lip M
 
 ## Journals
 
-**X. Yang**, S. Yuan, and Y. Tian. Assistive Clothing Pattern Recognition for Visually Impaired People. IEEE Transactions on Human-Machine Systems (THMS), 44(2), 234-243, 2014. [[PDF](/publications/papers/Clothing_Patters.pdf)]
+**X. Yang**, S. Yuan, and Y. Tian. Assistive Clothing Pattern Recognition for Visually Impaired People. IEEE Transactions on Human-Machine Systems (THMS), 44(2), 234-243, 2014. [[PDF](/publications/papers/Clothing_Patterns.pdf)]
 
 **X. Yang** and Y. Tian. Effective 3D Action Recognition Using EigenJoints. Journal of Visual Communication and Image Representation (JVCIR), 25(1), 2-11, 2014. [[PDF](/publications/papers/EigenJoints_JVCIR.pdf)]
 

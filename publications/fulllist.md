@@ -37,7 +37,7 @@ comments: no
 
 ## Journals
 
-15. **X. Yang**, S. Yuan, and Y. Tian. Assistive Clothing Pattern Recognition for Visually Impaired People. IEEE Transactions on Human-Machine Systems (THMS), accpted.
+15. **X. Yang**, S. Yuan, and Y. Tian. Assistive Clothing Pattern Recognition for Visually Impaired People. IEEE Transactions on Human-Machine Systems (THMS), 44(2), 234-243, 2014. [[PDF](/publications/papers/Clothing_Patterns.pdf)]
 
 16. **X. Yang** and Y. Tian. Effective 3D Action Recognition Using EigenJoints. Journal of Visual Communication and Image Representation (JVCIR), 25(1), 2-11, 2014. [[PDF](/publications/papers/EigenJoints_JVCIR.pdf)]
 
