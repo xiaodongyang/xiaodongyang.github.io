@@ -26,7 +26,7 @@ comments: no
 
 <table width="650" border="0" align="center">
 <tr>
-<th scope="col"><img src="SED12.jpg" width="650" height="618"></th>
+<th scope="col"><img src="SED12.jpg" width="650" height="250"></th>
 </tr>
 
 <tr>
@@ -44,7 +44,7 @@ comments: no
 
 <table width="650" border="0" align="center">
 <tr>
-<th scope="col"><img src="SED12_Feature.jpg" width="650" height="618"></th>
+<th scope="col"><img src="SED12_Feature.jpg" width="650" height="201"></th>
 </tr>
 
 <tr>
@@ -54,7 +54,7 @@ comments: no
 
 <table width="650" border="0" align="center">
 <tr>
-<th scope="col"><img src="SED12_Mask.jpg" width="650" height="618"></th>
+<th scope="col"><img src="SED12_Mask.jpg" width="650" height="214"></th>
 </tr>
 
 <tr>
@@ -72,7 +72,7 @@ comments: no
 
 <table width="650" border="0" align="center">
 <tr>
-<th scope="col"><img src="SED12_Representation.jpg" width="650" height="618"></th>
+<th scope="col"><img src="SED12_Representation.jpg" width="650" height="240"></th>
 </tr>
 
 <tr>
@@ -90,7 +90,7 @@ comments: no
 
 <table width="650" border="0" align="center">
 <tr>
-<th scope="col"><img src="SED12_Cascade.jpg" width="550" height="523"></th>
+<th scope="col"><img src="SED12_Cascade.jpg" width="550" height="371"></th>
 </tr>
 
 <tr>
@@ -108,7 +108,7 @@ comments: no
 
 <table width="650" border="0" align="center">
 <tr>
-<th scope="col"><img src="SED12_Results.jpg" width="650" height="618"></th>
+<th scope="col"><img src="SED12_Results.jpg" width="650" height="224"></th>
 </tr>
 
 <tr>
