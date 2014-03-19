@@ -30,7 +30,7 @@ comments: no
 </tr>
 
 <tr>
-<th><p align="justify">Our system includes four major components: (1) low-level feature extraction, (2) video representation based on Fisher Vector, (3) event learning and predictoin by CascadeSVMs, and (4) human interaction.</p></th>
+<th><p style="font-family: times" align="justify">Our system includes four major components: (1) low-level feature extraction, (2) video representation based on Fisher Vector, (3) event learning and predictoin by CascadeSVMs, and (4) human interaction.</p></th>
 </tr>
 </table>
 
@@ -48,7 +48,7 @@ comments: no
 </tr>
 
 <tr>
-<th><p align="justify">We extract and evaluate a set of local spatio-temporal features including STIP-HOG/HOF, MoSIFT, ActionHOG, DT-Trajectory, DT-HOG, DT-HOF, and DT-MBH. Both feature-level and decision-level fusions are used to combine the multiple features.</p></th>
+<th><p style="font-family: times" align="justify">We extract and evaluate a set of local spatio-temporal features including STIP-HOG/HOF, MoSIFT, ActionHOG, DT-Trajectory, DT-HOG, DT-HOF, and DT-MBH. Both feature-level and decision-level fusions are used to combine the multiple features.</p></th>
 </tr>
 
 <tr>
@@ -56,7 +56,7 @@ comments: no
 </tr>
 
 <tr>
-<th><p align="justify">We evaluate the performance of individual features and fusion schemes on a subset of the training set shown in the above figure. We keep STIP-HOG/HOF, DT-Trajectory, and DT-MBH in the final evaluation. Both early (feature-level) and late (decision-level) fusions significantly outperform any single feature. The performance can be further improved by the combination of early and late fusions.</p></th>
+<th><p style="font-family: times" align="justify">We evaluate the performance of individual features and fusion schemes on a subset of the training set shown in the above figure. We keep STIP-HOG/HOF, DT-Trajectory, and DT-MBH in the final evaluation. Both early (feature-level) and late (decision-level) fusions significantly outperform any single feature. The performance can be further improved by the combination of early and late fusions.</p></th>
 </tr>
 </table>
 
@@ -74,7 +74,7 @@ comments: no
 </tr>
 
 <tr>
-<th><p align="justify">We create two interactive environments: one focuses on high throughput (left UI) and the other (right UI) includes related result expansion.</p></th>
+<th><p style="font-family: times" align="justify">We create two interactive environments: one focuses on high throughput (left UI) and the other (right UI) includes related result expansion.</p></th>
 </tr>
 </table>
 
@@ -92,7 +92,7 @@ comments: no
 </tr>
 
 <tr>
-<th align="left"><p align="justify">The comparison between our system and other best systems in TRECVID iSED 2013 is listed in the above table. The rank column denotes our rankings among all participants in terms of the primary metric ADCR.</p></th>
+<th align="left"><p style="font-family: times" align="justify">The comparison between our system and other best systems in TRECVID iSED 2013 is listed in the above table. The rank column denotes our rankings among all participants in terms of the primary metric ADCR.</p></th>
 </tr>
 </table>
 
