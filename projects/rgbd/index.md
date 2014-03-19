@@ -44,7 +44,7 @@ comments: no
 
 <table width="650" border="0" align="center">
 <tr>
-<th scope="col"><img src="DMM_HOG.jpg" width="550" height="533"></th>
+<th scope="col"><img src="DMM_HOG.jpg" width="450" height="436"></th>
 </tr>
 
 <tr>
@@ -62,7 +62,7 @@ comments: no
 
 <table width="650" border="0" align="center">
 <tr>
-<th scope="col"><img src="H3DF.jpg" width="650" height="323"></th>
+<th scope="col"><img src="H3DF.jpg" width="550" height="273"></th>
 </tr>
 
 <tr>
