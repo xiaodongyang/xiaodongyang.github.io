@@ -11,7 +11,7 @@ comments: no
 
 </table>
 
-<table width="800" border="0" align="center">
+<table width="650" border="0" align="center">
     
 <tr><th scope="col"><p style="font-family: times" align="justify">We have human interaction involved in the interactive surveillance event detection process to refine automatic system detections. The high throughput user interface focuses on one event at a time and makes decision for the target event in a minimum amount of time. Following links are the online UIs for the seven events defined by TRECVID.</p></th></tr>
 
