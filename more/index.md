@@ -24,4 +24,4 @@ comments: no
 
 * [Computer Vision Related Conferences](http://conferences.visionbib.com/Iris-Conferences.html)
 
-* [CV Papers](http://www.cvpapers.com)    [NIPS Online](http://books.nips.cc)    [ACM MM](http://dl.acm.org/event.cfm?id=RE179&CFID=153216990&CFTOKEN=55908370)
+* [CV Papers](http://www.cvpapers.com) &nbsp;&nbsp; [NIPS Online](http://books.nips.cc) &nbsp;&nbsp; [ACM MM](http://dl.acm.org/event.cfm?id=RE179&CFID=153216990&CFTOKEN=55908370)
