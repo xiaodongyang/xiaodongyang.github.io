@@ -29,7 +29,7 @@ comments: no
 
 <table width="650" border="0" align="center">
 <tr>
-<th align="left" scope="col">&nbsp;<strong class="style16">Related Publications</strong></th>
+<th align="left" bgcolor="#CCCCCC" scope="col">&nbsp;<strong class="style16">Related Publications</strong></th>
 </tr>
 </table>
 
