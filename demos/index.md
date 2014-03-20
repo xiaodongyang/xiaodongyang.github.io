@@ -24,3 +24,13 @@ comments: no
  <tr><th scope="col"><p style="font-family: times" align="justify"><span class="style38">&#8226;</span> <a href="http://134.74.17.30:8091">CellToEar</a></p></th></tr>
   
 </table>
+
+
+
+<table width="650" border="0" align="center">
+<tr>
+<th align="left" bgcolor="#CCCCCC" scope="col">&nbsp;<strong class="style16">Related Publications</strong></th>
+</tr>
+</table>
+
+**X. Yang**, Z. Liu, E. Zavesky, D. Gibbon, B. Shahraray, and Y. Tian. AT&T Research at TRECVID 2013: Surveillance Event Detection. NIST TRECVID Workshop, 2013. [[PDF](/publications/papers/TRECVID_2013_SED.pdf)]
