@@ -16,3 +16,12 @@ comments: no
 ## Industrial Experience
 
 * Research Intern at AT&T Labs Research, 06-08/2013
+<br><br>
+
+## Links
+
+* [Personal Life](http://www.flickr.com/photos/yangxd)
+
+* [Computer Vision Related Conferences](http://conferences.visionbib.com/Iris-Conferences.html)
+
+* [CV Papers](http://www.cvpapers.com), [NIPS Online](http://books.nips.cc), [ACM MM](http://dl.acm.org/event.cfm?id=RE179&CFID=153216990&CFTOKEN=55908370)
