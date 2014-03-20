@@ -15,4 +15,4 @@ comments: no
 
 ## Industrial Experience
 
-* Research Intern at **AT&T Labs Research**, Middletown, NJ, 06-08/2013
+* Research Intern at AT&T Labs Research, 06-08/2013
