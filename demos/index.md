@@ -22,6 +22,4 @@ We have human interaction involved in the interactive surveillance event detecti
 
 * [CellToEar](http://134.74.17.30:8091)
 
-### Related Publication
-
 **X. Yang**, Z. Liu, E. Zavesky, D. Gibbon, B. Shahraray, and Y. Tian. AT&T Research at TRECVID 2013: Surveillance Event Detection. NIST TRECVID Workshop, 2013. [[PDF](/publications/papers/TRECVID_2013_SED.pdf)]
