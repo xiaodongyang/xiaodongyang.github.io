@@ -8,6 +8,8 @@ comments: no
 
 1. **X. Yang** and Y. Tian. Super Normal Vector for Activity Analysis Using Depth Sequences. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.
 
+2. Xuejian Rong, Chucai Yi, **Xiaodong Yang**, and YingLi Tian. Scene Text Recognition in Multiple Frames based on Text Tracking. IEEE International Conference on Multimedia & Expo (ICME), 2014.
+
 2. **X. Yang**, Z. Liu, E. Zavesky, D. Gibbon, B. Shahraray, and Y. Tian. AT&T Research at TRECVID 2013: Surveillance Event Detection. NIST TRECVID Workshop, 2013. [[PDF](/publications/papers/TRECVID_2013_SED.pdf)]
 
 3. C. Zhang, **X. Yang**, and Y. Tian. Histogram of 3D Facets: A Characteristic Descriptor for Hand Gesture Recognition. IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2013. (**Oral**) [[PDF](/publications/papers/FG13.pdf)]
