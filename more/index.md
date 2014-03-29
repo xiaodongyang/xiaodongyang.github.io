@@ -30,6 +30,9 @@ comments: no
 ## Contact
 
 Office: Steinman Hall 632
-	    City College of New York
+
+	    160 Convent Ave, New York, NY 10031
+
 Tel: (212) 650-8917
+
 Email: xyang02 [at] ccny [dot] cuny [dot] edu
