@@ -25,3 +25,11 @@ comments: no
 * [Computer Vision Related Conferences](http://conferences.visionbib.com/Iris-Conferences.html)
 
 * [CV Papers](http://www.cvpapers.com) &nbsp;&nbsp;&nbsp; [NIPS Online](http://books.nips.cc) &nbsp;&nbsp;&nbsp; [ACM MM](http://dl.acm.org/event.cfm?id=RE179&CFID=153216990&CFTOKEN=55908370)
+<br><br>
+
+## Contact
+
+Office: Steinman Hall 632
+	    City College of New York
+Tel: (212) 650-8917
+Email: xyang02 [at] ccny [dot] cuny [dot] edu

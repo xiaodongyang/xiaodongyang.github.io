@@ -7,6 +7,8 @@ Xiaodong Yang is a Ph.D. student in [Media Lab](http://media-lab.engr.ccny.cuny.
 
 ## News
 
+> 03/22/2014: One paper is accepted by ICME'2014.
+
 > 02/24/2014: One paper is accepted by CVPR'2014.
 
 > 01/18/2014: One paper is accepted by IEEE Trans. on Human-Machine Systems.
