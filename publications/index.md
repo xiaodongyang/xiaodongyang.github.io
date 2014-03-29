@@ -8,7 +8,7 @@ Here is a selected list of my publications.
 
 My full publication list can be found [here](/publications/fulllist). 
 
-My citations can be found on [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en) page.
+My citations can be found on [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en).
 <br><br>
 
 ## Conferences
