@@ -15,7 +15,7 @@ Special Recognition Award on Junior Scientist Conference, 2010
 
 ## Industrial Experience
 
-Research Intern at AT&T Labs Research, 06/2013-08/2013
+Research Intern at AT&T Labs Research, Middletown, NJ, 06/2013-08/2013
 <br><br>
 
 ## Links
