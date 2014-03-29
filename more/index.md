@@ -11,12 +11,14 @@ comments: no
 * Student Travel Award on ACM Multimedia, 2011
 
 * Special Recognition Award on Junior Scientist Conference, 2010
-<br><br>
+
+<br>
 
 ## Industrial Experience
 
 * Research Intern at AT&T Labs Research, 06/2013-08/2013
-<br><br>
+
+<br>
 
 ## Links
 
@@ -25,13 +27,14 @@ comments: no
 * [Computer Vision Related Conferences](http://conferences.visionbib.com/Iris-Conferences.html)
 
 * [CV Papers](http://www.cvpapers.com) &nbsp;&nbsp;&nbsp; [NIPS Online](http://books.nips.cc) &nbsp;&nbsp;&nbsp; [ACM MM](http://dl.acm.org/event.cfm?id=RE179&CFID=153216990&CFTOKEN=55908370)
-<br><br>
+
+<br>
 
 ## Contact
 
 Office: Steinman Hall 632
 
-	    160 Convent Ave, New York, NY 10031
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;160 Convent Ave, New York, NY 10031
 
 Tel: (212) 650-8917
 
