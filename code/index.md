@@ -4,6 +4,10 @@ title: Code
 comments: no
 ---
 
+## SNV
+
+[SNV](/code/snv) is an open source MATLAB/C++ implementation of the super normal vector for human activity recognition using depth sequences.
+<br><br>
 
 ## CascadeSVMs
 
