@@ -31,6 +31,6 @@ Research Intern at AT&T Labs Research, Middletown, NJ, 06/2013-08/2013
 
 Tel: (212) 650-8917
 
-Email: xyang02 [at] ccny [dot] cuny [dot] edu
+Email: xyang02#ccny.cuny.edu
 
 Office: Steinman Hall 632, 160 Convent Ave, New York, NY 10031
