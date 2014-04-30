@@ -20,7 +20,7 @@ Research Intern at AT&T Labs Research, Middletown, NJ, 06/2013-08/2013
 
 ## Links
 
-[Personal Life](http://www.flickr.com/photos/yangxd)
+[Personal Life](http://www.instagram.com/visualyang)
 
 [Computer Vision Related Conferences](http://conferences.visionbib.com/Iris-Conferences.html)
 

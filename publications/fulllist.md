@@ -6,7 +6,7 @@ comments: no
 
 # Conferences
 
-1. **X. Yang** and Y. Tian. Super Normal Vector for Activity Analysis Using Depth Sequences. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.
+1. **X. Yang** and Y. Tian. Super Normal Vector for Activity Recognition Using Depth Sequences. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.
 
 1. X. Rong, C. Yi, **X. Yang**, and Y. Tian. Scene Text Recognition in Multiple Frames based on Text Tracking. IEEE International Conference on Multimedia & Expo (ICME), 2014.
 
