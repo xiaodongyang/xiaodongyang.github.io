@@ -6,7 +6,7 @@ comments: no
 
 # Conferences
 
-1. **X. Yang** and Y. Tian. Super Normal Vector for Activity Recognition Using Depth Sequences. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.
+1. **X. Yang** and Y. Tian. Super Normal Vector for Activity Recognition Using Depth Sequences. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014. [[PDF](/publications/papers/SNV.pdf)]
 
 1. X. Rong, C. Yi, **X. Yang**, and Y. Tian. Scene Text Recognition in Multiple Frames based on Text Tracking. IEEE International Conference on Multimedia & Expo (ICME), 2014.
 
@@ -52,3 +52,10 @@ comments: no
 1. S. Wang, **X. Yang**, and Y. Tian. Detecting Sinage and Doors for Blind Navigation and Wayfinding. Network Modeling Analysis in Health Informatics and Bioinformatics, 2(2), 81-93, 2013. [[PDF](/publications/papers/Sinage.pdf)]
 
 1. F. Zaman, **X. Yang**, and Y. Tian. Robust and Effective Component based Banknote Recognition for the Blind. IEEE Transactions on System, Man, and Cybernetics (TSMC) Part C, 42(6), 1021-1030, 2012. [[PDF](/publications/papers/Banknote_TSMC.pdf)]
+
+
+
+
+Here is a selected list of my publications. 
+
+My full publication list can be found [here](/publications/fulllist). 
