@@ -11,7 +11,7 @@ My citations can be found on [Google Scholar](http://scholar.google.com/citation
 
 1. **X. Yang** and Y. Tian. Super Normal Vector for Activity Recognition Using Depth Sequences. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014. [[PDF](/publications/papers/SNV.pdf)]
 
-1. X. Rong, C. Yi, **X. Yang**, and Y. Tian. Scene Text Recognition in Multiple Frames based on Text Tracking. IEEE International Conference on Multimedia & Expo (ICME), 2014.
+1. X. Rong, C. Yi, **X. Yang**, and Y. Tian. Scene Text Recognition in Multiple Frames based on Text Tracking. IEEE International Conference on Multimedia & Expo (ICME), 2014. [[PDF](/publications/papers/ICME14.pdf)]
 
 1. **X. Yang**, Z. Liu, E. Zavesky, D. Gibbon, B. Shahraray, and Y. Tian. AT&T Research at TRECVID 2013: Surveillance Event Detection. NIST TRECVID Workshop, 2013. [[PDF](/publications/papers/TRECVID_2013_SED.pdf)]
 
