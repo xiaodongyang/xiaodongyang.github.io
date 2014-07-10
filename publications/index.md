@@ -44,6 +44,8 @@ My citations can be found on [Google Scholar](http://scholar.google.com/citation
 
 ## Journals
 
+1. S. Chen, **X. Yang**, and Y. Tian. Discriminative Hierarchical K-Means Tree for Large-Scale Image Classification. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), accepted. [[PDF](/publications/papers/)]
+
 1. **X. Yang**, S. Yuan, and Y. Tian. Assistive Clothing Pattern Recognition for Visually Impaired People. IEEE Transactions on Human-Machine Systems (THMS), 44(2), 234-243, 2014. [[PDF](/publications/papers/Clothing_Patterns.pdf)]
 
 1. **X. Yang** and Y. Tian. Effective 3D Action Recognition Using EigenJoints. Journal of Visual Communication and Image Representation (JVCIR), 25(1), 2-11, 2014. [[PDF](/publications/papers/EigenJoints_JVCIR.pdf)]
