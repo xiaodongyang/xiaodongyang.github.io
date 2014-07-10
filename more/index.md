@@ -16,6 +16,8 @@ Special Recognition Award on Junior Scientist Conference, 2010
 ## Industrial Experience
 
 Research Intern at AT&T Labs Research, Middletown, NJ, 06/2013-08/2013
+
+Research Intern at Xerox Resarch Center, Webster, NY, 06/2014-08/2014
 <br><br>
 
 ## Links
@@ -31,6 +33,6 @@ Research Intern at AT&T Labs Research, Middletown, NJ, 06/2013-08/2013
 
 Tel: (212) 650-8917
 
-Email: xyang02#ccny.cuny.edu
+Email: yangxd.hust#gmail.com
 
 Office: Steinman Hall 632, 160 Convent Ave, New York, NY 10031
