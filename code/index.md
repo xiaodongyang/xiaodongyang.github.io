@@ -9,6 +9,11 @@ comments: no
 [SNV](https://github.com/xiaodongyang/SNV) is an open source MATLAB/C++ implementation of the super normal vector for human activity recognition using depth sequences.
 <br><br>
 
+## SSCV
+
+[SSCV](SSCV.md) is an open source MATLAB implementation of the super sparse coding vector for human action recognition.
+<br><br>
+
 ## CascadeSVMs
 
 [CascadeSVMs](https://github.com/xiaodongyang/CascadeSVMs) is an open source C++ implementation of our proposed CascadeSVMs algorithm to handle highly imbalanced large-scale data learning.
