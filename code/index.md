@@ -11,7 +11,7 @@ comments: no
 
 ## SSCV
 
-[SSCV](SSCV.md) is an open source MATLAB implementation of the super sparse coding vector for human action recognition.
+[SSCV](sscv.md) is an open source MATLAB implementation of the super sparse coding vector for human action recognition.
 <br><br>
 
 ## CascadeSVMs
