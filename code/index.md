@@ -22,3 +22,8 @@ comments: no
 ## ActionHOG
 
 [ActionHOG](https://github.com/xiaodongyang/ActionHOG) is an open source C++ implementation of an efficient local spatio-temporal feature for human activity analysis.
+<br><br>
+
+## DMM-HOG
+
+[DMM-HOG](/code/dmm-hog) is an open source MATLAB implementation of the depth motion maps feature for human action and hand gesture recognition in depth videos. 
