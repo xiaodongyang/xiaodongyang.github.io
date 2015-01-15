@@ -7,7 +7,7 @@ Xiaodong Yang is a Ph.D. student in [Media Lab](http://media-lab.engr.ccny.cuny.
 
 ## News
 
-> I will join NVIDIA Research as a research scientist this summer after my graduation. 
+> I will join NVIDIA as Research Scientist this summer after my graduation. 
 
 > One paper is accepted by IEEE Trans. on Neural Networks and Learning Systems. 
 
