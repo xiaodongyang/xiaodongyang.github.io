@@ -7,12 +7,14 @@ Xiaodong Yang is a Ph.D. student in [Media Lab](http://media-lab.engr.ccny.cuny.
 
 ## News
 
-> 06/16/2014: One paper is accepted by ECCV'2014.
+> I will join NVIDIA Research as a research scientist this summer after my graduation. 
 
-> 03/22/2014: One paper is accepted by ICME'2014.
+> One paper is accepted by IEEE Trans. on Neural Networks and Learning Systems. 
 
-> 02/24/2014: One paper is accepted by CVPR'2014.
+> One paper is accepted by ECCV'2014.
 
-> 01/18/2014: One paper is accepted by IEEE Trans. on Human-Machine Systems.
+> One paper is accepted by ICME'2014.
 
-> 10/28/2013: Our team AT&T Research wins the first place on two tasks of TRECVID Surveillance Event Detection. 
+> One paper is accepted by CVPR'2014.
+
+> [More Archived](/news)
