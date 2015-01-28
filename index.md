@@ -7,6 +7,8 @@ Xiaodong Yang is a Ph.D. student in [Media Lab](http://media-lab.engr.ccny.cuny.
 
 ## News
 
+> I passed my Ph.D. defense on January 28, 2015!
+
 > One paper is accepted by IEEE Trans. on Neural Networks and Learning Systems. 
 
 > One paper is accepted by ECCV'2014.
