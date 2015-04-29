@@ -22,7 +22,7 @@ Research Intern at AT&T Labs Research, Middletown, NJ, 06/2013-08/2013
 
 ## Professional Services
 
-I fulfill review duties for various journals and conferences including TPAMI, IJCV, CVIU, TIP, TMM, TCSVT, CVPR, FG, and SIGGRAPH.  
+I fulfill review duties for various journals and conferences including TPAMI, IJCV, CVIU, TIP, TMM, TCSVT, CVPR, FG, and SIGGRAPH.
 <br><br>
 
 ## Links
