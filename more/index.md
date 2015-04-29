@@ -20,6 +20,11 @@ Research Intern at Xerox PARC, Webster, NY, 06/2014-08/2014
 Research Intern at AT&T Labs Research, Middletown, NJ, 06/2013-08/2013
 <br><br>
 
+## Professional Services
+
+I fulfill review duties for various journals and conferences including TPAMI, IJCV, CVIU, TIP, TMM, TCSVT, CVPR, FG, SIGGRAPH, etc.  
+<br><br>
+
 ## Links
 
 [Pictures](http://www.instagram.com/visualyang)
