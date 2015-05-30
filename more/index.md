@@ -15,6 +15,8 @@ Special Recognition Award on Junior Scientist Conference, 2010
 
 ## Industrial Experience
 
+Research Scientist at NVIDIA, Santa Clara, CA, from 05/2015
+
 Research Intern at Xerox PARC, Webster, NY, 06/2014-08/2014
 
 Research Intern at AT&T Labs Research, Middletown, NJ, 06/2013-08/2013
