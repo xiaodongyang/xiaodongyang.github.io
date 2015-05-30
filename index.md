@@ -3,7 +3,7 @@ layout: home
 avatar: yes
 ---
 
-Xiaodong Yang is a research scientist at [NVIDIA](https://research.nvidia.com). His research interests are computer vision, machine learning, multimedia analysis, and video surveillance. He has been working on large-scale image and video recognition, surveillance event detection, human activity understanding, and computer vision based assistive technology. He received his Ph.D. degree from City University of New York, and B.S. degree from Huazhong University of Science and Technology. 
+Xiaodong Yang is a research scientist at [NVIDIA](https://research.nvidia.com). His research interests include computer vision, machine learning, multimedia analysis, and video surveillance. He has been working on large-scale image and video recognition, surveillance event detection, human activity understanding, and computer vision based assistive technology. He received his Ph.D. degree from City University of New York in 2015, and B.S. degree from Huazhong University of Science and Technology in 2009. 
 
 ## News
 
