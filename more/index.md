@@ -24,7 +24,7 @@ Research Intern at AT&T Labs Research, Middletown, NJ, 06/2013-08/2013
 
 ## Professional Services
 
-I fulfill review duties for various journals and conferences including TPAMI, IJCV, CVIU, TIP, TMM, TCSVT, CVPR, FG, and SIGGRAPH.
+I fulfill review duties for various journals and conferences including TPAMI, IJCV, CVIU, TIP, TMM, TCSVT, CVPR, ICCV, FG, and SIGGRAPH.
 <br><br>
 
 ## Links
@@ -38,8 +38,8 @@ I fulfill review duties for various journals and conferences including TPAMI, IJ
 
 ## Contact
 
-Tel: (212) 650-8917
+Tel: (408) 486-8614
 
 Email: yangxd.hust#gmail.com
 
-Office: Steinman Hall 632, 160 Convent Ave, New York, NY 10031
+Office: 2701 San Tomas Expressway, Santa Clara, CA 95050
