@@ -9,7 +9,7 @@ My citations can be found on [Google Scholar](http://scholar.google.com/citation
 
 **2015**
 
-X. Yang. Feature Representations for Human Activity Recognition in Color and Depth Sequences. Ph.D. Dissertation, 2015. [[PDF](/publications/papers/Dissertation.pdf)]
+X. Yang. Feature Representations for Human Activity Recognition in Color and Depth Sequences. Dissertation for Ph.D. Degree, 2015. [[PDF](/publications/papers/Dissertation.pdf)]
 
 Y. Ye, X. Yang, and Y. Tian. Exploring Pooling Strategies based on Idiosyncrasies of Spatio-Temporal Interest Points. ACM International Conference on Multimedia Retrieval (ICMR), 2015. [[PDF](/publications/papers/Pooling_Strategies.pdf)]
 
