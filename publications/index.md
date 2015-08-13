@@ -9,6 +9,8 @@ My citations can be found on [Google Scholar](http://scholar.google.com/citation
 
 **2015**
 
+X. Yang. Feature Representations for Human Activity Recognition in Color and Depth Sequences. Ph.D. Dissertation, 2015. [[PDF](/publications/papers/Dissertation.pdf)]
+
 Y. Ye, X. Yang, and Y. Tian. Exploring Pooling Strategies based on Idiosyncrasies of Spatio-Temporal Interest Points. ACM International Conference on Multimedia Retrieval (ICMR), 2015. [[PDF](/publications/papers/Pooling_Strategies.pdf)]
 
 S. Chen, X. Yang, and Y. Tian. Discriminative Hierarchical K-Means Tree for Large-Scale Image Classification. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), accepted. [[PDF](/publications/papers/)]
