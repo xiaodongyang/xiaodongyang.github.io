@@ -13,7 +13,7 @@ X. Yang. Feature Representations for Human Activity Recognition in Color and Dep
 
 Y. Ye, X. Yang, and Y. Tian. Exploring Pooling Strategies based on Idiosyncrasies of Spatio-Temporal Interest Points. ACM International Conference on Multimedia Retrieval (ICMR), 2015. [[PDF](/publications/papers/Pooling_Strategies.pdf)]
 
-S. Chen, X. Yang, and Y. Tian. Discriminative Hierarchical K-Means Tree for Large-Scale Image Classification. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), accepted. [[PDF](/publications/papers/)]
+S. Chen, X. Yang, and Y. Tian. Discriminative Hierarchical K-Means Tree for Large-Scale Image Classification. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 26(9), 2200-2205, 2015. [[PDF](/publications/papers/Hierarchical_KMeans_Tree.pdf)]
 
 **2014**
 
