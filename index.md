@@ -7,6 +7,8 @@ Xiaodong Yang is a research scientist at [NVIDIA](http://www.nvidia.com). His re
 
 ## News
 
+> Our team CCNY wins the first place on one task of TRECVID Semantic Localization 2015.
+
 > I joined NVIDIA Research on May 18, 2015!
 
 > I passed my Ph.D. defense on January 28, 2015!
@@ -14,7 +16,5 @@ Xiaodong Yang is a research scientist at [NVIDIA](http://www.nvidia.com). His re
 > One paper is accepted by IEEE Trans. on Neural Networks and Learning Systems. 
 
 > One paper is accepted by ECCV'2014.
-
-> One paper is accepted by ICME'2014.
 
 > [More Archived](/news)

@@ -6,6 +6,8 @@ comments: no
 
 ## Awards
 
+First Place (One Task) on TRECVID Semantic Localization, 2015
+
 First Place (Two Tasks) on TRECVID Surveillance Event Detection, 2013
 
 Student Travel Award on ACM Multimedia, 2011
@@ -15,7 +17,7 @@ Special Recognition Award on Junior Scientist Conference, 2010
 
 ## Industrial Experience
 
-Research Scientist at [NVIDIA](https://research.nvidia.com), Santa Clara, CA, from 05/2015
+Research Scientist at [NVIDIA Research](https://research.nvidia.com), Santa Clara, CA, from 05/2015
 
 Research Intern at [Xerox PARC](http://www.parc.com), Webster, NY, 06/2014-08/2014
 
