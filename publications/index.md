@@ -15,6 +15,8 @@ Y. Ye, X. Yang, and Y. Tian. Exploring Pooling Strategies based on Idiosyncrasie
 
 S. Chen, X. Yang, and Y. Tian. Discriminative Hierarchical K-Means Tree for Large-Scale Image Classification. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 26(9), 2200-2205, 2015. [[PDF](/publications/papers/Hierarchical_KMeans_Tree.pdf)]
 
+Y. Xian, X. Yang, and Y. Tian. Hybrid Example based Single Image Super-Resolution. International Symposium on Visual Computing (ISVC), 2015. (Oral) [[PDF](/publications)]
+
 **2014**
 
 X. Yang and Y. Tian. Super Normal Vector for Activity Recognition Using Depth Sequences. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014. [[PDF](/publications/papers/SNV.pdf)]
@@ -35,9 +37,9 @@ Y. Xian, X. Rong, X. Yang, and Y. Tian. CCNY at TRECVID 2014: Surveillance Event
 
 X. Yang, Z. Liu, E. Zavesky, D. Gibbon, B. Shahraray, and Y. Tian. AT&T Research at TRECVID 2013: Surveillance Event Detection. NIST TRECVID Workshop, 2013. [[PDF](/publications/papers/TRECVID_2013_SED.pdf)]
 
-C. Zhang, X. Yang, and Y. Tian. Histogram of 3D Facets: A Characteristic Descriptor for Hand Gesture Recognition. IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2013. (**Oral**) [[PDF](/publications/papers/FG13.pdf)]
+C. Zhang, X. Yang, and Y. Tian. Histogram of 3D Facets: A Characteristic Descriptor for Hand Gesture Recognition. IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2013. (Oral) [[PDF](/publications/papers/FG13.pdf)]
 
-C. Mazuera, X. Yang, and Y. Tian. Visual Speech Learning Using Dynamic Lip Movement based Video Segmentation and Comparison. IEEE International Conference on Bioinfomatics and Biomedicine (BIBM), 2013. (**Oral**) [[PDF](/publications/papers/BIBM13.pdf)]
+C. Mazuera, X. Yang, and Y. Tian. Visual Speech Learning Using Dynamic Lip Movement based Video Segmentation and Comparison. IEEE International Conference on Bioinfomatics and Biomedicine (BIBM), 2013. (Oral) [[PDF](/publications/papers/BIBM13.pdf)]
 
 X. Yang and Y. Tian. Texture Representations Using Subspace Embeddings. Pattern Recognition Letters (PRL), 34(10), 1130-1137, 2013. [[PDF](/publications/papers/Texture_PRL.pdf)]
 
