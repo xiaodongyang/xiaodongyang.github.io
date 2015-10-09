@@ -47,8 +47,6 @@ C. Yi, X. Yang, and Y. Tian. Feature Representations for Scene Text Character Re
 
 Y. Tian, X. Yang, C. Yi, and A. Arditi. Toward A Computer Vision based Wayfinding Aid for Blind Persons to Access Unfamiliar Indoor Environments. Machine Vision and Applications (MVA), 24(3), 521-535, 2013. [[PDF](/publications/papers/Navigation_MVA.pdf)]
 
-C. Zhang, X. Yang, C. Yi, Y. Tian, Q. Yu, A. Tamrakar, A. Divakaran. CCNY-SRI at TRECVID 2013 intED: A Human Interactive Event Detection System. NIST TRECVID Workshop, 2013. [[PDF](/publications/papers/TRECVID_2013_CCNY_SRI.pdf)]
-
 **2012**
 
 X. Yang, C. Zhang, and Y. Tian. Recognizing Actions Using Depth Motion Maps based Histograms of Oriented Gradients. ACM Multimedia (MM), 2012. [[PDF](/publications/papers/DMM.pdf)]
