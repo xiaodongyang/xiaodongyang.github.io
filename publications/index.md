@@ -15,7 +15,7 @@ Y. Ye, X. Yang, and Y. Tian. Exploring Pooling Strategies based on Idiosyncrasie
 
 S. Chen, X. Yang, and Y. Tian. Discriminative Hierarchical K-Means Tree for Large-Scale Image Classification. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 26(9), 2200-2205, 2015. [[PDF](/publications/papers/Hierarchical_KMeans_Tree.pdf)]
 
-Y. Xian, X. Yang, and Y. Tian. Hybrid Example based Single Image Super Resolution. International Symposium on Visual Computing (ISVC), 2015. (Oral) [[PDF](/publications/ISVC.pdf)]
+Y. Xian, X. Yang, and Y. Tian. Hybrid Example based Single Image Super Resolution. International Symposium on Visual Computing (ISVC), 2015. (Oral) [[PDF](/publications/papers/ISVC.pdf)]
 
 **2014**
 
