@@ -42,6 +42,6 @@ I fulfill review duties for various journals and conferences including TPAMI, IJ
 
 Tel: (408) 486-8614
 
-Email: yangxd.hust#gmail.com
+Email: yangxd[dot]hust[at]gmail[dot]com
 
 Office: 2701 San Tomas Expressway, Santa Clara, CA 95050
