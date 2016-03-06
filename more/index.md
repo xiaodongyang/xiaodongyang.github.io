@@ -6,9 +6,9 @@ comments: no
 
 ## Awards
 
-First Place (One Task) on TRECVID Semantic Localization, 2015
+First Place on TRECVID Semantic Localization, 2015
 
-First Place (Two Tasks) on TRECVID Surveillance Event Detection, 2013
+First Place on TRECVID Surveillance Event Detection, 2013
 
 Student Travel Award on ACM Multimedia, 2011
 
