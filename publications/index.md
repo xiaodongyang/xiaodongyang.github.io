@@ -7,6 +7,10 @@ comments: no
 My citations can be found on [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en).
 <br><br>
 
+**2016**
+
+P. Molchanov, X. Yang, S. Gupta, K. Kim, S. Tyree, and J. Kautz. Online Detection and Classification of Dynamic Hand Gestures with Recurrent 3D Convolutional Neural Networks. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016. [[PDF](/publications/papers/)]
+
 **2015**
 
 X. Yang. Feature Representations for Human Activity Recognition in Color and Depth Sequences. Dissertation for Ph.D. Degree, 2015. [[PDF](/publications/papers/Dissertation.pdf)]
