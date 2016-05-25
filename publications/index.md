@@ -19,7 +19,7 @@ S. Gupta, P. Molchanov, X. Yang, K. Kim, S. Tyree, and J. Kautz. Towards Selecti
 
 **2015**
 
-X. Yang. Feature Representations for Human Activity Recognition in Color and Depth Sequences. Dissertation for Ph.D. Degree, 2015. [[PDF](/publications/papers/dissertation.pdf)]
+X. Yang. Feature Representations for Human Activity Recognition in Color and Depth Sequences. Dissertation for Ph.D. Degree, 2015. [[PDF](/publications/papers/dissertation15.pdf)]
 
 Y. Ye, X. Yang, and Y. Tian. Exploring Pooling Strategies based on Idiosyncrasies of Spatio-Temporal Interest Points. ACM International Conference on Multimedia Retrieval (ICMR), 2015. [[PDF](/publications/papers/icmr15.pdf)]
 
