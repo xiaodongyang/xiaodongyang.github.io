@@ -51,7 +51,7 @@ C. Zhang, X. Yang, and Y. Tian. Histogram of 3D Facets: A Characteristic Descrip
 
 X. Yang, Z. Liu, E. Zavesky, D. Gibbon, B. Shahraray, and Y. Tian. AT&T Research at TRECVID 2013: Surveillance Event Detection. NIST TRECVID Workshop, 2013. [[PDF](/publications/papers/trecvid13.pdf)]
 
-C. Mazuera, X. Yang, and Y. Tian. Visual Speech Learning Using Dynamic Lip Movement based Video Segmentation and Comparison. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2013. (Oral) [[PDF](/publications/papers/bibm12.pdf)]
+C. Mazuera, X. Yang, and Y. Tian. Visual Speech Learning Using Dynamic Lip Movement based Video Segmentation and Comparison. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2013. (Oral) [[PDF](/publications/papers/bibm13.pdf)]
 
 X. Yang and Y. Tian. Texture Representations Using Subspace Embeddings. Pattern Recognition Letters (PRL), 34(10), 1130-1137, 2013. [[PDF](/publications/papers/prl13.pdf)]
 
