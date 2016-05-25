@@ -35,7 +35,7 @@ X. Yang and Y. Tian. Super Normal Vector for Activity Recognition Using Depth Se
 
 X. Yang and Y. Tian. Action Recognition Using Super Sparse Coding Vector with Spatio-Temporal Awareness. European Conference on Computer Vision (ECCV), 2014. [[PDF](/publications/papers/eccv14.pdf)]
 
-X. Rong, C. Yi, X. Yang, and Y. Tian. Scene Text Recognition in Multiple Frames based on Text Tracking. IEEE International Conference on Multimedia & Expo (ICME), 2014. [[PDF](/publications/papers/icme14.pdf)]
+X. Rong, C. Yi, X. Yang, and Y. Tian. Scene Text Recognition in Multiple Frames based on Text Tracking. IEEE International Conference on Multimedia & Expo (ICME), 2014. [[PDF](/publications/papers/icme13.pdf)]
 
 X. Yang, S. Yuan, and Y. Tian. Assistive Clothing Pattern Recognition for Visually Impaired People. IEEE Transactions on Human-Machine Systems (THMS), 44(2), 234-243, 2014. [[PDF](/publications/papers/thms14.pdf)]
 
