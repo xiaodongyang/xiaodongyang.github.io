@@ -43,7 +43,7 @@ X. Rong, C. Yi, X. Yang, and Y. Tian. Scene Text Recognition in Multiple Frames 
 
 X. Yang, S. Yuan, and Y. Tian. Assistive Clothing Pattern Recognition for Visually Impaired People. IEEE Transactions on Human-Machine Systems (THMS), 44(2), 234-243, 2014. [[PDF](/publications/papers/thms14.pdf)]
 
-X. Yang and Y. Tian. Effective 3D Action Recognition Using EigenJoints. Journal of Visual Communication and Image Representation (JVCIR), 25(1), 2-11, 2014. [[PDF](/publications/papers/jvci14.pdf)]
+X. Yang and Y. Tian. Effective 3D Action Recognition Using EigenJoints. Journal of Visual Communication and Image Representation (JVCI), 25(1), 2-11, 2014. [JVCI Best Paper Award Runner Up](http://www.journals.elsevier.com/journal-of-visual-communication-and-image-representation/awards/jvci-best-paper-award-2015) [[PDF](/publications/papers/jvci14.pdf)]
 
 X. Yang and Y. Tian. Polynormal Fisher Vector for Activity Recognition from Depth Sequence. SIGGRAPH ASIA Workshop on Autonomous Virtual Humans and Social Robots, 2014. [[PDF](/publications/papers/siggraphw14.pdf)]
 
