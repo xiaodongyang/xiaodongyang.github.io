@@ -6,15 +6,15 @@ comments: no
 
 ## Awards
 
-Best Paper Award Runner Up on Journal of Visual Communication and Image Representation, 2016
+Best Paper Award Runner Up, Journal of Visual Communication and Image Representation, 2016
 
 First Place on TRECVID Semantic Localization, 2015
 
 First Place on TRECVID Surveillance Event Detection, 2013
 
-Student Travel Award on ACM Multimedia, 2011
+Student Travel Award, ACM Multimedia, 2011
 
-Special Recognition Award on Junior Scientist Conference, 2010
+Special Recognition Award, Junior Scientist Conference, 2010
 <br><br>
 
 ## Industrial Experience
