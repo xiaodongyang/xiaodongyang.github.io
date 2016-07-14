@@ -7,7 +7,7 @@ Xiaodong Yang is a research scientist at [NVIDIA](http://www.nvidia.com). His re
 
 ## News
 
-> Our paper wins [JVCI 2015 Best Paper Award Runner Up](http://www.journals.elsevier.com/journal-of-visual-communication-and-image-representation/awards/jvci-best-paper-award-2015)!
+> Our paper wins [JVCI Best Paper Award Runner Up](http://www.journals.elsevier.com/journal-of-visual-communication-and-image-representation/awards/jvci-best-paper-award-2015)!
 
 > One full (oral) paper is accepted by ACM Multimedia 2016.
 
