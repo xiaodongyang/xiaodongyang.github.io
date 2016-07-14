@@ -6,7 +6,7 @@ comments: no
 
 ## Awards
 
-Best Paper Award Runner Up, Journal of Visual Communication and Image Representation (JVCI), 2016
+Best Paper Award Runner Up, Journal of Visual Communication and Image Representation, 2016
 
 First Place on TRECVID Semantic Localization, 2015
 
