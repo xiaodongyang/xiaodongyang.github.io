@@ -7,6 +7,8 @@ Xiaodong Yang is a research scientist at [NVIDIA](http://www.nvidia.com). His re
 
 ## News
 
+> Our paper wins [JVCI 2015 Best Paper Award Runner Up](http://www.journals.elsevier.com/journal-of-visual-communication-and-image-representation/awards/jvci-best-paper-award-2015)!
+
 > One full (oral) paper is accepted by ACM Multimedia 2016.
 
 > One paper is accepted by TPAMI. 
@@ -14,7 +16,5 @@ Xiaodong Yang is a research scientist at [NVIDIA](http://www.nvidia.com). His re
 > One paper is accepted by CVPR'2016.
 
 > Our team CCNY wins the first place on TRECVID Semantic Localization 2015.
-
-> I joined NVIDIA Research on May 18, 2015!
 
 > [More Archived](/news)

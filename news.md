@@ -4,6 +4,8 @@ title: Archived News
 comments: no
 ---
 
+> I joined NVIDIA Research on May 18, 2015!
+
 > I passed my Ph.D. defense on January 28, 2015!
 
 > One paper is accepted by ECCV'2014.
