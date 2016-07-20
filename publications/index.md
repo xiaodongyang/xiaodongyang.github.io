@@ -15,7 +15,7 @@ X. Yang, P. Molchanov, and J. Kautz. Multilayer and Multimodal Fusion of Deep Ne
 
 P. Molchanov, X. Yang, S. Gupta, K. Kim, S. Tyree, and J. Kautz. Online Detection and Classification of Dynamic Hand Gestures with Recurrent 3D Convolutional Neural Networks. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016. [[PDF](/publications/papers/cvpr16.pdf)]
 
-Y. Xian, X. Rong, X. Yang, and Y. Tian. Evaluation of Low-Level Features for Real-World Surveillance Event Detection. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2016.
+Y. Xian, X. Rong, X. Yang, and Y. Tian. Evaluation of Low-Level Features for Real-World Surveillance Event Detection. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2016. [[PDF](/publications/papers/tcsvt16.pdf)]
 
 Y. Ye, X. Rong, X. Yang, and Y. Tian. Region Trajectories for Video Semantic Concept Detection. ACM International Conference on Multimedia Retrieval (ICMR), 2016. [[PDF](/publications/papers/icmr16.pdf)]
 
