@@ -28,7 +28,7 @@ Research Intern at [AT&T Labs Research](http://www.research.att.com), Middletown
 
 ## Professional Services
 
-I fulfill review duties for various journals and conferences including TPAMI, IJCV, CVIU, TIP, TMM, TCSVT, Neurocomputing, CVPR, ICCV, FG, and SIGGRAPH.
+I fulfill review duties for various journals and conferences including TPAMI, IJCV, CVIU, TIP, TMM, TCSVT, JVCI, Neurocomputing, CVPR, ICCV, FG, and SIGGRAPH.
 <br><br>
 
 ## Links
