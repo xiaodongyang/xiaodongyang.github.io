@@ -13,7 +13,7 @@ Xiaodong Yang is a research scientist at [NVIDIA](http://www.nvidia.com). His re
 
 > One paper is accepted by TPAMI. 
 
-> One paper is accepted by CVPR'2016.
+> One paper is accepted by CVPR 2016.
 
 > Our team CCNY wins the first place on TRECVID Semantic Localization 2015.
 

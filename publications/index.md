@@ -39,11 +39,11 @@ X. Yang and Y. Tian. Super Normal Vector for Activity Recognition Using Depth Se
 
 X. Yang and Y. Tian. Action Recognition Using Super Sparse Coding Vector with Spatio-Temporal Awareness. European Conference on Computer Vision (ECCV), 2014. [[PDF](/publications/papers/eccv14.pdf)]
 
+X. Yang and Y. Tian. Effective 3D Action Recognition Using EigenJoints. Journal of Visual Communication and Image Representation (JVCI), 25(1), 2-11, 2014. ([JVCI Best Paper Award Runner Up](http://www.journals.elsevier.com/journal-of-visual-communication-and-image-representation/awards/jvci-best-paper-award-2015)) [[PDF](/publications/papers/jvci14.pdf)]
+
 X. Rong, C. Yi, X. Yang, and Y. Tian. Scene Text Recognition in Multiple Frames based on Text Tracking. IEEE International Conference on Multimedia & Expo (ICME), 2014. [[PDF](/publications/papers/icme14.pdf)]
 
 X. Yang, S. Yuan, and Y. Tian. Assistive Clothing Pattern Recognition for Visually Impaired People. IEEE Transactions on Human-Machine Systems (THMS), 44(2), 234-243, 2014. [[PDF](/publications/papers/thms14.pdf)]
-
-X. Yang and Y. Tian. Effective 3D Action Recognition Using EigenJoints. Journal of Visual Communication and Image Representation (JVCI), 25(1), 2-11, 2014. ([JVCI Best Paper Award Runner Up](http://www.journals.elsevier.com/journal-of-visual-communication-and-image-representation/awards/jvci-best-paper-award-2015)) [[PDF](/publications/papers/jvci14.pdf)]
 
 X. Yang and Y. Tian. Polynormal Fisher Vector for Activity Recognition from Depth Sequence. SIGGRAPH ASIA Workshop on Autonomous Virtual Humans and Social Robots, 2014. [[PDF](/publications/papers/siggraphw14.pdf)]
 
@@ -53,11 +53,11 @@ Y. Xian, X. Rong, X. Yang, and Y. Tian. CCNY at TRECVID 2014: Surveillance Event
 
 C. Zhang, X. Yang, and Y. Tian. Histogram of 3D Facets: A Characteristic Descriptor for Hand Gesture Recognition. IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2013. (Oral) [[PDF](/publications/papers/fg13.pdf)]
 
+X. Yang and Y. Tian. Texture Representations Using Subspace Embeddings. Pattern Recognition Letters (PRL), 34(10), 1130-1137, 2013. [[PDF](/publications/papers/prl13.pdf)]
+
 X. Yang, Z. Liu, E. Zavesky, D. Gibbon, B. Shahraray, and Y. Tian. AT&T Research at TRECVID 2013: Surveillance Event Detection. NIST TRECVID Workshop, 2013. [[PDF](/publications/papers/trecvid13.pdf)]
 
 C. Mazuera, X. Yang, and Y. Tian. Visual Speech Learning Using Dynamic Lip Movement based Video Segmentation and Comparison. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2013. (Oral) [[PDF](/publications/papers/bibm13.pdf)]
-
-X. Yang and Y. Tian. Texture Representations Using Subspace Embeddings. Pattern Recognition Letters (PRL), 34(10), 1130-1137, 2013. [[PDF](/publications/papers/prl13.pdf)]
 
 C. Yi, X. Yang, and Y. Tian. Feature Representations for Scene Text Character Recognition: A Comparative Study. International Conference on Document Analysis and Recognition (ICDAR), 2013. [[PDF](/publications/papers/icdar13.pdf)]
 
