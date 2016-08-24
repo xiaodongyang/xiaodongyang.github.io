@@ -86,3 +86,7 @@ X. Yang, Y. Tian, C. Yi, and A. Arditi. Context based Indoor Object Detection as
 X. Yang and Y. Tian. Robust Door Detection in Unfamiliar Environments by Combining Edge and Corner Features. IEEE CVPR Workshop on Computer Vision Applications for Visually Impaired, 2010. [[PDF](/publications/papers/cvprw10.pdf)]
 
 Y. Tian, X. Yang, and A. Arditi. Computer Vision based Door Detection for Accessibility of Unfamiliar Environments to Blind Persons. International Conference on Computers Helping People with Special Needs (ICCHP), 2010. [[PDF](/publications/papers/icchp10.pdf)]
+
+**Patents**
+
+DYNAMIC HAND-GESTURE-BASED REGION OF INTEREST LOCALIZATION, US9354711 Issued on May 31, 2016
