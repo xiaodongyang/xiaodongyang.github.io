@@ -89,4 +89,4 @@ Y. Tian, X. Yang, and A. Arditi. Computer Vision based Door Detection for Access
 
 **Patents**
 
-DYNAMIC HAND-GESTURE-BASED REGION OF INTEREST LOCALIZATION, [[US9354711](https://www.google.com/patents/US9354711)] Issued on May 31, 2016.
+DYNAMIC HAND-GESTURE-BASED REGION OF INTEREST LOCALIZATION, [US9354711](https://www.google.com/patents/US9354711) Issued on May 31, 2016.
