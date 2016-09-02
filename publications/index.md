@@ -5,7 +5,7 @@ comments: no
 ---
 
 My citations can be found on [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en).
-<br><br>
+<br>
 
 **2016**
 
