@@ -44,6 +44,6 @@ I am a reviewer for various journals and conferences including TPAMI, IJCV, CVIU
 
 Tel: (408) 486-8614
 
-Email: yangxd[dot]hust[at]gmail[dot]com
+Email: yangxd.hust -at- gmail.com
 
 Office: 2701 San Tomas Expressway, Santa Clara, CA 95050
