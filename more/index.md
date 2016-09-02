@@ -4,7 +4,7 @@ title: More
 comments: no
 ---
 
-## Awards
+## Honors and Awards
 
 Best Paper Award Runner Up, Journal of Visual Communication and Image Representation, 2016
 
