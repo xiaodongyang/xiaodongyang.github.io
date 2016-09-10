@@ -44,6 +44,6 @@ I am a reviewer for various journals and conferences including TPAMI, IJCV, CVIU
 
 Tel: (408) 486-8614
 
-Email: yangxd.hust -at- gmail.com
+Email: xiaodongy -at- nvidia.com
 
 Office: 2701 San Tomas Expressway, Santa Clara, CA 95050
