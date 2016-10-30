@@ -17,7 +17,7 @@ Student Travel Award, ACM Multimedia, 2011
 Special Recognition Award, Junior Scientist Conference, 2010
 <br><br>
 
-## Industrial Experience
+## Professional Experience
 
 Research Scientist at [NVIDIA Research](https://research.nvidia.com), Santa Clara, CA, from 05/2015
 
