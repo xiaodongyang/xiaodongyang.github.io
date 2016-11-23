@@ -11,7 +11,7 @@ My citations can be found on [Google Scholar](http://scholar.google.com/citation
 
 X. Yang and Y. Tian. Super Normal Vector for Human Activity Recognition with Depth Cameras. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2016. 
 
-X. Yang, P. Molchanov, and J. Kautz. Multilayer and Multimodal Fusion of Deep Neural Networks for Video Classification. ACM Multimedia (MM), 2016. (Oral)
+X. Yang, P. Molchanov, and J. Kautz. Multilayer and Multimodal Fusion of Deep Neural Networks for Video Classification. ACM Multimedia (MM), 2016. (Oral) [[PDF](/publications/papers/mm16.pdf)]
 
 P. Molchanov, X. Yang, S. Gupta, K. Kim, S. Tyree, and J. Kautz. Online Detection and Classification of Dynamic Hand Gestures with Recurrent 3D Convolutional Neural Networks. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016. [[PDF](/publications/papers/cvpr16.pdf)]
 
@@ -25,9 +25,9 @@ S. Gupta, P. Molchanov, X. Yang, K. Kim, S. Tyree, and J. Kautz. Towards Selecti
 
 X. Yang. Feature Representations for Human Activity Recognition in Color and Depth Sequences. Dissertation for Ph.D. Degree, 2015. [[PDF](/publications/papers/dissertation15.pdf)]
 
-Y. Ye, X. Yang, and Y. Tian. Exploring Pooling Strategies based on Idiosyncrasies of Spatio-Temporal Interest Points. ACM International Conference on Multimedia Retrieval (ICMR), 2015. [[PDF](/publications/papers/icmr15.pdf)]
-
 S. Chen, X. Yang, and Y. Tian. Discriminative Hierarchical K-Means Tree for Large-Scale Image Classification. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 26(9), 2200-2205, 2015. [[PDF](/publications/papers/tnnls15.pdf)]
+
+Y. Ye, X. Yang, and Y. Tian. Exploring Pooling Strategies based on Idiosyncrasies of Spatio-Temporal Interest Points. ACM International Conference on Multimedia Retrieval (ICMR), 2015. [[PDF](/publications/papers/icmr15.pdf)]
 
 Y. Xian, X. Yang, and Y. Tian. Hybrid Example based Single Image Super Resolution. International Symposium on Visual Computing (ISVC), 2015. (Oral) [[PDF](/publications/papers/isvc15.pdf)]
 
@@ -55,11 +55,11 @@ C. Zhang, X. Yang, and Y. Tian. Histogram of 3D Facets: A Characteristic Descrip
 
 X. Yang and Y. Tian. Texture Representations Using Subspace Embeddings. Pattern Recognition Letters (PRL), 34(10), 1130-1137, 2013. [[PDF](/publications/papers/prl13.pdf)]
 
+C. Yi, X. Yang, and Y. Tian. Feature Representations for Scene Text Character Recognition: A Comparative Study. International Conference on Document Analysis and Recognition (ICDAR), 2013. [[PDF](/publications/papers/icdar13.pdf)]
+
 X. Yang, Z. Liu, E. Zavesky, D. Gibbon, B. Shahraray, and Y. Tian. AT&T Research at TRECVID 2013: Surveillance Event Detection. NIST TRECVID Workshop, 2013. [[PDF](/publications/papers/trecvid13.pdf)]
 
 C. Mazuera, X. Yang, and Y. Tian. Visual Speech Learning Using Dynamic Lip Movement based Video Segmentation and Comparison. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2013. (Oral) [[PDF](/publications/papers/bibm13.pdf)]
-
-C. Yi, X. Yang, and Y. Tian. Feature Representations for Scene Text Character Recognition: A Comparative Study. International Conference on Document Analysis and Recognition (ICDAR), 2013. [[PDF](/publications/papers/icdar13.pdf)]
 
 Y. Tian, X. Yang, C. Yi, and A. Arditi. Toward A Computer Vision based Wayfinding Aid for Blind Persons to Access Unfamiliar Indoor Environments. Machine Vision and Applications (MVA), 24(3), 521-535, 2013. [[PDF](/publications/papers/mva13.pdf)]
 
