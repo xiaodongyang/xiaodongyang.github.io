@@ -7,6 +7,6 @@ analytics :
 
 
 permalink: /:year/:month/:title/
-url: http://yangxd.org
+url: http://xiaodongyang.org
 author: Xiaodong Yang
 pygments: true
