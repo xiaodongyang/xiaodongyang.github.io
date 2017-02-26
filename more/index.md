@@ -28,7 +28,7 @@ Research Intern at [AT&T Labs Research](http://www.research.att.com), Middletown
 
 ## Professional Services
 
-I am a reviewer for various journals and conferences including TPAMI, IJCV, TIP, TMM, TCSVT, CVIU, JVCI, Neurocomputing, CVPR, ICCV, SIGGRAPH, and FG. 
+I am a reviewer for various journals and conferences including TPAMI, IJCV, TIP, TMM, TCSVT, CVIU, JVCI, Neurocomputing, CVPR, ICCV, SIGGRAPH, FG, etc. 
 <br><br>
 
 ## Links
