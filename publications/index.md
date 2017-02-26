@@ -39,7 +39,7 @@ X. Yang and Y. Tian. Super Normal Vector for Activity Recognition Using Depth Se
 
 X. Yang and Y. Tian. Action Recognition Using Super Sparse Coding Vector with Spatio-Temporal Awareness. European Conference on Computer Vision (ECCV), 2014. [[PDF](/publications/papers/eccv14.pdf)]
 
-X. Yang and Y. Tian. Effective 3D Action Recognition Using EigenJoints. Journal of Visual Communication and Image Representation (JVCI), 25(1), 2-11, 2014. ([JVCI Best Paper Award Runner Up](http://www.journals.elsevier.com/journal-of-visual-communication-and-image-representation/awards/jvci-best-paper-award-2015)) [[PDF](/publications/papers/jvci14.pdf)]
+X. Yang and Y. Tian. Effective 3D Action Recognition Using EigenJoints. Journal of Visual Communication and Image Representation (JVCI), 25(1), 2-11, 2014. ([JVCI Best Paper Award](/publications/papers/jvci-best-paper-award.pdf)) [[PDF](/publications/papers/jvci14.pdf)]
 
 X. Rong, C. Yi, X. Yang, and Y. Tian. Scene Text Recognition in Multiple Frames based on Text Tracking. IEEE International Conference on Multimedia & Expo (ICME), 2014. [[PDF](/publications/papers/icme14.pdf)]
 
