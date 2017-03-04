@@ -7,6 +7,8 @@ Xiaodong Yang is a research scientist at NVIDIA. His research interests include 
 
 ## News
 
+> One paper is accepted by CVPR 2017. 
+
 > Our paper wins [JVCI Best Paper Award](/publications/papers/jvci-best-paper-award.pdf)!
 
 > One full (oral) paper is accepted by ACM Multimedia 2016.
@@ -14,7 +16,5 @@ Xiaodong Yang is a research scientist at NVIDIA. His research interests include 
 > One paper is accepted by TPAMI. 
 
 > One paper is accepted by CVPR 2016.
-
-> Our team CCNY wins the first place on TRECVID Semantic Localization 2015.
 
 > [More Archived](/news)

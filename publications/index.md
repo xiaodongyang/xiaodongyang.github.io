@@ -7,6 +7,12 @@ comments: no
 My citations can be found on [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en).
 <br>
 
+**2017**
+
+J. Gu, X. Yang, S. Gupta, and J. Kautz. Dynamic Facial Analysis: From Bayesian Filtering to Recurrent Neural Network. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.
+
+Y. Xian, X. Rong, X. Yang, and Y. Tian. Evaluation of Low-Level Features for Real-World Surveillance Event Detection. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 27(3), 624-634, 2017. [[PDF](/publications/papers/tcsvt17.pdf)]
+
 **2016**
 
 X. Yang and Y. Tian. Super Normal Vector for Human Activity Recognition with Depth Cameras. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2016. [[PDF](/publications/papers/tpami17.pdf)]
@@ -14,8 +20,6 @@ X. Yang and Y. Tian. Super Normal Vector for Human Activity Recognition with Dep
 X. Yang, P. Molchanov, and J. Kautz. Multilayer and Multimodal Fusion of Deep Neural Networks for Video Classification. ACM Multimedia (MM), 2016. (Oral) [[PDF](/publications/papers/mm16.pdf)]
 
 P. Molchanov, X. Yang, S. Gupta, K. Kim, S. Tyree, and J. Kautz. Online Detection and Classification of Dynamic Hand Gestures with Recurrent 3D Convolutional Neural Networks. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016. [[PDF](/publications/papers/cvpr16.pdf)]
-
-Y. Xian, X. Rong, X. Yang, and Y. Tian. Evaluation of Low-Level Features for Real-World Surveillance Event Detection. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2016. [[PDF](/publications/papers/tcsvt17.pdf)]
 
 Y. Ye, X. Rong, X. Yang, and Y. Tian. Region Trajectories for Video Semantic Concept Detection. ACM International Conference on Multimedia Retrieval (ICMR), 2016. [[PDF](/publications/papers/icmr16.pdf)]
 

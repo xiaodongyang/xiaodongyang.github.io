@@ -4,6 +4,8 @@ title: Archived News
 comments: no
 ---
 
+> Our team CCNY wins the first place on TRECVID Semantic Localization 2015.
+
 > I joined NVIDIA Research on May 18, 2015!
 
 > I passed my Ph.D. defense on January 28, 2015!
