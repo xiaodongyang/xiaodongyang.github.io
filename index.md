@@ -7,14 +7,14 @@ Xiaodong Yang is a research scientist at NVIDIA. His research interests include 
 
 ## News
 
-> One paper is accepted by CVPR 2017. 
+> One paper on facial alignment and head pose estimation is accepted by CVPR 2017. 
 
 > Our paper wins [JVCI Best Paper Award](/publications/papers/jvci-best-paper-award.pdf)!
 
-> One full (oral) paper is accepted by ACM Multimedia 2016.
+> One full (oral) paper on video classification is accepted by ACM Multimedia 2016.
 
-> One paper is accepted by TPAMI. 
+> One paper on action recognition is accepted by TPAMI. 
 
-> One paper is accepted by CVPR 2016.
+> One paper on dynamic hand gesture recognition is accepted by CVPR 2016.
 
 > [More Archived](/news)
