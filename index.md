@@ -7,7 +7,7 @@ Xiaodong Yang is a research scientist at NVIDIA. His research interests include 
 
 ## News
 
-> One paper on facial alignment and head pose estimation is accepted by CVPR 2017. 
+> One paper on face alignment and head pose estimation is accepted by CVPR 2017. 
 
 > Our paper wins [JVCI Best Paper Award](/publications/papers/jvci-best-paper-award.pdf)!
 
