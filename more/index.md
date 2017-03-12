@@ -12,7 +12,7 @@ First Place on TRECVID Semantic Localization, 2015
 
 First Place on TRECVID Surveillance Event Detection, 2013
 
-Student Travel Award, ACM Multimedia, 2011
+ACM Multimedia Travel Grant, 2011
 
 Special Recognition Award, Junior Scientist Conference, 2010
 <br><br>
