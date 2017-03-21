@@ -14,4 +14,4 @@ comments: no
 
 > One paper on action recognition is accepted by CVPR 2014.
 
-> Our team AT&T Research wins the first place on TRECVID Surveillance Event Detection 2013. 
+> Our team AT&T Labs Research wins the first place on TRECVID Surveillance Event Detection 2013. 
