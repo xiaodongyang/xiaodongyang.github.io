@@ -31,15 +31,6 @@ Research Intern at [AT&T Labs Research](http://www.research.att.com), Middletown
 I am a reviewer for various journals and conferences including TPAMI, IJCV, TIP, TMM, TCSVT, CVIU, JVCI, Neurocomputing, CVPR, ICCV, SIGGRAPH, FG, etc. 
 <br><br>
 
-## Links
-
-[Pictures](http://www.instagram.com/visualyang)
-
-[Computer Vision Related Conferences](http://conferences.visionbib.com/Iris-Conferences.html)
-
-[CV Papers](http://www.cvpapers.com) &nbsp;&nbsp;&nbsp; [NIPS Online](http://books.nips.cc) &nbsp;&nbsp;&nbsp; [ACM MM](http://dl.acm.org/event.cfm?id=RE179&CFID=153216990&CFTOKEN=55908370)
-<br><br>
-
 ## Contact
 
 Tel: (408) 486-8614
