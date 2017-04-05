@@ -4,6 +4,11 @@ title: Code & Data
 comments: no
 ---
 
+## SynHead
+
+[SynHead](https://research.nvidia.com/publication/dynamic-facial-analysis-bayesian-filtering-recurrent-neural-networks) is a large-scale synthetic dataset for head pose estimation in videos. 
+<br><br>
+
 ## NVGesture
 
 [NVGesture](https://research.nvidia.com/publication/online-detection-and-classification-dynamic-hand-gestures-recurrent-3d-convolutional) is a multi-modal (color, depth and stereo-IR) dataset for online detection and classification of dynamic hand gestures.
