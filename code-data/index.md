@@ -6,7 +6,7 @@ comments: no
 
 ## SynHead
 
-[SynHead](https://research.nvidia.com/publication/dynamic-facial-analysis-bayesian-filtering-recurrent-neural-networks) is a large-scale synthetic dataset for head pose estimation in videos. 
+[SynHead](https://research.nvidia.com/publication/dynamic-facial-analysis-bayesian-filtering-recurrent-neural-networks) is a large-scale synthetic dataset for video-based head pose estimation with 10 head models, 70 motion tracks and over 500K frames. 
 <br><br>
 
 ## NVGesture
