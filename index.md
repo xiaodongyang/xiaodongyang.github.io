@@ -3,7 +3,7 @@ layout: home
 avatar: yes
 ---
 
-Xiaodong Yang is a Research Scientist at NVIDIA. His research interests include computer vision, machine learning, deep learning, and multimedia. He has been working on image and video classification, human gesture and activity recognition, dynamic facial analytics, video surveillance event detection, multimedia search, etc. He received his Ph.D. degree from City University of New York in 2015 and B.S. degree from Huazhong University of Science and Technology in 2009. 
+Xiaodong Yang is a Research Scientist at NVIDIA. His research interests include computer vision, machine learning, and multimedia. He has been working on image and video classification, human gesture and activity recognition, dynamic facial analytics, video surveillance event detection, multimedia search, etc. He received his Ph.D. degree from City University of New York in 2015 and B.S. degree from Huazhong University of Science and Technology in 2009. 
 
 ## News
 
