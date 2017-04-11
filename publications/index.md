@@ -11,7 +11,7 @@ My citations can be found on [Google Scholar](http://scholar.google.com/citation
 
 X. Yang and Y. Tian. Super Normal Vector for Human Activity Recognition with Depth Cameras. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 39(5), 1028-1039, 2017. [[PDF](/publications/papers/tpami17.pdf)]
 
-J. Gu, X. Yang, S. Gupta, and J. Kautz. Dynamic Facial Analysis: From Bayesian Filtering to Recurrent Neural Network. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.
+J. Gu, X. Yang, S. De Mello, and J. Kautz. Dynamic Facial Analysis: From Bayesian Filtering to Recurrent Neural Network. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017. [[PDF](/publications/papers/cvpr17.pdf)]
 
 Y. Xian, X. Rong, X. Yang, and Y. Tian. Evaluation of Low-Level Features for Real-World Surveillance Event Detection. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 27(3), 624-634, 2017. [[PDF](/publications/papers/tcsvt17.pdf)]
 
