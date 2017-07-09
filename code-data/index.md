@@ -11,7 +11,7 @@ comments: no
 
 ## NVGesture
 
-[NVGesture](https://research.nvidia.com/publication/online-detection-and-classification-dynamic-hand-gestures-recurrent-3d-convolutional) is a multi-modal (color, depth and stereo-IR) dataset for online detection and classification of dynamic hand gestures.
+[NVGesture](https://research.nvidia.com/publication/online-detection-and-classification-dynamic-hand-gestures-recurrent-3d-convolutional) is a multi-modal (color, depth, optical flow and stereo-IR) dataset for online detection and classification of dynamic hand gestures.
 <br><br>
 
 ## SNV
