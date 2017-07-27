@@ -4,6 +4,8 @@ title: Archived News
 comments: no
 ---
 
+> One paper on dynamic hand gesture recognition is accepted by CVPR 2016.
+
 > Our team CCNY wins the first place on TRECVID Semantic Localization 2015.
 
 > I joined NVIDIA Research on May 18, 2015!

@@ -15,6 +15,8 @@ J. Gu, X. Yang, S. De Mello, and J. Kautz. Dynamic Facial Analysis: From Bayesia
 
 Y. Xian, X. Rong, X. Yang, and Y. Tian. Evaluation of Low-Level Features for Real-World Surveillance Event Detection. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 27(3), 624-634, 2017. [[PDF](/publications/papers/tcsvt17.pdf)]
 
+L. Jing, Y. Ye, X. Yang, and Y. Tian. 3D Convolutional Neural Network with Multi-Model Framework for Action Recognition. IEEE International Conference on Image Processing (ICIP), 2017. (Oral) [[PDF](/publications/papers/icip17.pdf)]
+
 **2016**
 
 X. Yang, P. Molchanov, and J. Kautz. Multilayer and Multimodal Fusion of Deep Neural Networks for Video Classification. ACM Multimedia (MM), 2016. (Oral) [[PDF](/publications/papers/mm16.pdf)]
