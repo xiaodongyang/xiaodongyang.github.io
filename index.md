@@ -7,7 +7,7 @@ Xiaodong Yang is a Research Scientist at NVIDIA. His research interests are in t
 
 ## News
 
-> NVIDIA Blog introduces our work on [dynamic facial analysis](https://devblogs.nvidia.com/parallelforall/ai-co-pilot-rnn-dynamic-facial-analysis/), which is part of NVIDIA AI Co-Pilot. 
+> Our work of [dynamic facial analysis](https://devblogs.nvidia.com/parallelforall/ai-co-pilot-rnn-dynamic-facial-analysis/), part of NVIDIA AI Co-Pilot, is introduced by NVIDIA Blog.
 
 > One paper on face alignment and head pose estimation is accepted by CVPR 2017. 
 
