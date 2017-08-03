@@ -17,7 +17,7 @@ Y. Xian, X. Rong, X. Yang, and Y. Tian. Evaluation of Low-Level Features for Rea
 
 L. Jing, Y. Ye, X. Yang, and Y. Tian. 3D Convolutional Neural Network with Multi-Model Framework for Action Recognition. IEEE International Conference on Image Processing (ICIP), 2017. (Oral) [[PDF](/publications/papers/icip17.pdf)]
 
-S. Tulyakov, M.-Y. Liu, X. Yang, and J. Kautz. MoCoGAN: Decomposing Motion and Content for Video Generation. arXiv:1707.04993. [[arxiv](https://arxiv.org/abs/1707.04993)]
+S. Tulyakov, M.-Y. Liu, X. Yang, and J. Kautz. MoCoGAN: Decomposing Motion and Content for Video Generation. arXiv:1707.04993. [[PDF](/publications/papers/arxiv.1707.04993.pdf)]
 
 **2016**
 
