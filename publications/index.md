@@ -99,8 +99,8 @@ Y. Tian, X. Yang, and A. Arditi. Computer Vision based Door Detection for Access
 
 **Patents**
 
-Hand Gesture based Region of Interest Localization. US9778750 Issued on Oct. 3, 2017. [[PDF](/publications/papers/9778750.pdf)]
+Hand Gesture based Region of Interest Localization. US9778750B2 Issued on Oct. 3, 2017. [[PDF](/publications/papers/9778750.pdf)]
 
-Dynamic Hand Gesture based Region of Interest Localization. US9354711 Issued on May 31, 2016. [[PDF](/publications/papers/9354711.pdf)]
+Dynamic Hand Gesture based Region of Interest Localization. US9354711B2 Issued on May 31, 2016. [[PDF](/publications/papers/9354711.pdf)]
 
 Online Detection and Classification of Dynamic Gestures with Recurrent Convolutional Neural Networks. US Patent App. 15/402128, 2017. [[PDF](/publications/papers/15-402128.pdf)]
