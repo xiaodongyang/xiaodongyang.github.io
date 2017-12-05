@@ -17,6 +17,8 @@ Y. Xian, X. Rong, X. Yang, and Y. Tian. Evaluation of Low-Level Features for Rea
 
 L. Jing, Y. Ye, X. Yang, and Y. Tian. 3D Convolutional Neural Network with Multi-Model Framework for Action Recognition. IEEE International Conference on Image Processing (ICIP), 2017. (Oral) [[PDF](/publications/papers/icip17.pdf)]
 
+B. Mahasseni, X. Yang, P. Molchanov, and J. Kautz. Budget-Aware Activity Detection with A Recurrent Policy Network. arXiv:1712.00097. [[PDF](https://arxiv.org/abs/1712.00097)]
+
 D. Sun, X. Yang, M.-Y. Liu, and J. Kautz. PWC-Net: CNNs for Optical Flow using Pyramid, Warping, and Cost Volume. arXiv:1709.02371. [[PDF](https://arxiv.org/abs/1709.02371)] 
 
 S. Tulyakov, M.-Y. Liu, X. Yang, and J. Kautz. MoCoGAN: Decomposing Motion and Content for Video Generation. arXiv:1707.04993. [[PDF](https://arxiv.org/abs/1707.04993)]
