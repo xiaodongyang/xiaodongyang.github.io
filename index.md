@@ -7,6 +7,8 @@ Xiaodong Yang is a Research Scientist at NVIDIA Research. His research interests
 
 ## News
 
+> Three papers are accepted by CVPR 2018: PreRNN for visual sequence learning, PWC-Net for optical flow estimation, and MoCoGAN for video generation. 
+
 > Our dynamic facial analysis work, part of NVIDIA AI Co-Pilot, featured in [NVIDIA Blog](https://devblogs.nvidia.com/parallelforall/ai-co-pilot-rnn-dynamic-facial-analysis/).
 
 > One paper on face alignment and head pose estimation is accepted by CVPR 2017. 
