@@ -4,7 +4,7 @@ title: Archived News
 comments: no
 ---
 
-> One paper on dynamic hand gesture recognition is accepted by CVPR 2016.
+> One paper accepted by CVPR 2016 on dynamic hand gesture recognition.
 
 > Our team CCNY wins the first place on TRECVID Semantic Localization 2015.
 
@@ -12,8 +12,8 @@ comments: no
 
 > I passed my Ph.D. defense on January 28, 2015!
 
-> One paper on action recognition is accepted by ECCV 2014.
+> One paper accepted by ECCV 2014 on action recognition.
 
-> One paper on action recognition is accepted by CVPR 2014.
+> One paper accepted by CVPR 2014 on action recognition.
 
 > Our team AT&T Labs Research wins the first place on TRECVID Surveillance Event Detection 2013. 
