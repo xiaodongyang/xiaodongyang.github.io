@@ -17,6 +17,6 @@ Xiaodong Yang is a Research Scientist at NVIDIA Research. His research interests
 
 > One full (oral) paper accepted by ACM Multimedia 2016 on video classification.
 
-> One paper accepted by TPAMI on 3D action recognition. 
+> One paper accepted by TPAMI on action recognition. 
 
 > [More Archived](/news)
