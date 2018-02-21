@@ -7,6 +7,14 @@ comments: no
 My citations can be found on [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en).
 <br>
 
+**2018**
+
+X. Yang, P. Molchanov, and J. Kautz. Making Convolutional Networks Recurrent for Visual Sequence Learning. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.
+
+D. Sun, X. Yang, M.-Y. Liu, and J. Kautz. PWC-Net: CNNs for Optical Flow using Pyramid, Warping, and Cost Volume. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.
+
+S. Tulyakov, M.-Y. Liu, X. Yang, and J. Kautz. MoCoGAN: Decomposing Motion and Content for Video Generation. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.
+
 **2017**
 
 X. Yang and Y. Tian. Super Normal Vector for Human Activity Recognition with Depth Cameras. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 39(5), 1028-1039, 2017. [[PDF](/publications/papers/tpami17.pdf)]
@@ -18,10 +26,6 @@ Y. Xian, X. Rong, X. Yang, and Y. Tian. Evaluation of Low-Level Features for Rea
 L. Jing, Y. Ye, X. Yang, and Y. Tian. 3D Convolutional Neural Network with Multi-Model Framework for Action Recognition. IEEE International Conference on Image Processing (ICIP), 2017. (Oral) [[PDF](/publications/papers/icip17.pdf)]
 
 B. Mahasseni, X. Yang, P. Molchanov, and J. Kautz. Budget-Aware Activity Detection with A Recurrent Policy Network. arXiv:1712.00097. [[PDF](https://arxiv.org/abs/1712.00097)]
-
-D. Sun, X. Yang, M.-Y. Liu, and J. Kautz. PWC-Net: CNNs for Optical Flow using Pyramid, Warping, and Cost Volume. arXiv:1709.02371. [[PDF](https://arxiv.org/abs/1709.02371)] 
-
-S. Tulyakov, M.-Y. Liu, X. Yang, and J. Kautz. MoCoGAN: Decomposing Motion and Content for Video Generation. arXiv:1707.04993. [[PDF](https://arxiv.org/abs/1707.04993)]
 
 **2016**
 
