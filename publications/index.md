@@ -9,7 +9,7 @@ My citations can be found on [Google Scholar](http://scholar.google.com/citation
 
 **2018**
 
-Xiaodong Yang, Pavlo Molchanov, and Jan Kautz. Making Convolutional Networks Recurrent for Visual Sequence Learning. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.
+Xiaodong Yang, Pavlo Molchanov, and Jan Kautz. *Making Convolutional Networks Recurrent for Visual Sequence Learning*. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.
 
 Deqing Sun, Xiaodong Yang, Ming-Yu Liu, and Jan Kautz. PWC-Net: CNNs for Optical Flow using Pyramid, Warping, and Cost Volume. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.
 
