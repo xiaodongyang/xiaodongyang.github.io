@@ -17,7 +17,9 @@ PWC-Net: CNNs for Optical Flow using Pyramid, Warping, and Cost Volume
 Deqing Sun, Xiaodong Yang, Ming-Yu Liu, and Jan Kautz  
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018. (Oral)
 
-S. Tulyakov, M.-Y. Liu, X. Yang, and J. Kautz. MoCoGAN: Decomposing Motion and Content for Video Generation. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.
+MoCoGAN: Decomposing Motion and Content for Video Generation  
+Sergey Tulyakov, Ming-Yu Liu, Xiaodong Yang, and Jan Kautz 
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.
 
 **2017**
 
