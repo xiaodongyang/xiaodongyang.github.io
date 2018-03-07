@@ -29,81 +29,79 @@ Behrooz Mahasseni, Xiaodong Yang, Pavlo Molchanov, and Jan Kautz. [Budget-Aware 
 
 **2016**
 
-[Multilayer and Multimodal Fusion of Deep Neural Networks for Video Classification](/publications/papers/mm16.pdf)   
-Xiaodong Yang, Pavlo Molchanov, and Jan Kautz    
-ACM Multimedia (MM), 2016. (Oral)
+Xiaodong Yang, Pavlo Molchanov, and Jan Kautz. [Multilayer and Multimodal Fusion of Deep Neural Networks for Video Classification](/publications/papers/mm16.pdf). ACM Multimedia (MM), 2016. (Oral)
 
-P. Molchanov, X. Yang, S. Gupta, K. Kim, S. Tyree, and J. Kautz. [Online Detection and Classification of Dynamic Hand Gestures with Recurrent 3D Convolutional Neural Networks](/publications/papers/cvpr16.pdf). IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
+Pavlo Molchanov, Xiaodong Yang, Shalini Gupta, Kihwan Kim, Stephen Tyree, and Jan Kautz. [Online Detection and Classification of Dynamic Hand Gestures with Recurrent 3D Convolutional Neural Networks](/publications/papers/cvpr16.pdf). IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
 
-Y. Ye, X. Rong, X. Yang, and Y. Tian. [Region Trajectories for Video Semantic Concept Detection](/publications/papers/icmr16.pdf). ACM International Conference on Multimedia Retrieval (ICMR), 2016.
+Yuancheng Ye, Xuejian Rong, Xiaodong Yang, and Ying-Li Tian. [Region Trajectories for Video Semantic Concept Detection](/publications/papers/icmr16.pdf). ACM International Conference on Multimedia Retrieval (ICMR), 2016.
 
-S. Gupta, P. Molchanov, X. Yang, K. Kim, S. Tyree, and J. Kautz. [Towards Selecting Robust Hand Gestures for Automotive Interfaces](/publications/papers/ivs16.pdf). IEEE Intelligent Vehicles Symposium (IVS), 2016.
+Shalini Gupta, Pavlo Molchanov, Xiaodong Yang, Kihwan Kim, Stephen Tyree, and Jan Kautz. [Towards Selecting Robust Hand Gestures for Automotive Interfaces](/publications/papers/ivs16.pdf). IEEE Intelligent Vehicles Symposium (IVS), 2016.
 
 **2015**
 
-X. Yang. [Feature Representations for Human Activity Recognition in Color and Depth Sequences](/publications/papers/dissertation15.pdf). Dissertation for Ph.D. Degree, 2015.
+Xiaodong Yang. [Feature Representations for Human Activity Recognition in Color and Depth Sequences](/publications/papers/dissertation15.pdf). Dissertation for Ph.D. Degree, 2015.
 
-S. Chen, X. Yang, and Y. Tian. [Discriminative Hierarchical K-Means Tree for Large-Scale Image Classification](/publications/papers/tnnls15.pdf). IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 26(9), 2200-2205, 2015.
+Shizhi Chen, Xiaodong Yang, and Ying-Li Tian. [Discriminative Hierarchical K-Means Tree for Large-Scale Image Classification](/publications/papers/tnnls15.pdf). IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 26(9), 2200-2205, 2015.
 
-Y. Ye, X. Yang, and Y. Tian. [Exploring Pooling Strategies based on Idiosyncrasies of Spatio-Temporal Interest Points](/publications/papers/icmr15.pdf). ACM International Conference on Multimedia Retrieval (ICMR), 2015.
+Yuancheng Ye, Xiaodong Yang, and Ying-Li Tian. [Exploring Pooling Strategies based on Idiosyncrasies of Spatio-Temporal Interest Points](/publications/papers/icmr15.pdf). ACM International Conference on Multimedia Retrieval (ICMR), 2015.
 
-Y. Xian, X. Yang, and Y. Tian. [Hybrid Example based Single Image Super Resolution](/publications/papers/isvc15.pdf). International Symposium on Visual Computing (ISVC), 2015. (Oral)
+Yang Xian, Xiaodong Yang, and Ying-Li Tian. [Hybrid Example based Single Image Super Resolution](/publications/papers/isvc15.pdf). International Symposium on Visual Computing (ISVC), 2015. (Oral)
 
-Y. Ye, X. Rong, X. Yang, and Y. Tian. [CCNY at TRECVID 2015: Video Semantic Concept Localization](/publications/papers/trecvid15.pdf). NIST TRECVID Workshop, 2015.
+Yuancheng Ye, Xuejian Rong, Xiaodong Yang, and Ying-Li Tian. [CCNY at TRECVID 2015: Video Semantic Concept Localization](/publications/papers/trecvid15.pdf). NIST TRECVID Workshop, 2015.
 
 **2014**
 
-X. Yang and Y. Tian. [Super Normal Vector for Activity Recognition Using Depth Sequences](/publications/papers/cvpr14.pdf). IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.
+Xiaodong Yang and Ying-Li Tian. [Super Normal Vector for Activity Recognition Using Depth Sequences](/publications/papers/cvpr14.pdf). IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.
 
-X. Yang and Y. Tian. [Action Recognition Using Super Sparse Coding Vector with Spatio-Temporal Awareness](/publications/papers/eccv14.pdf). European Conference on Computer Vision (ECCV), 2014.
+Xiaodong Yang and Ying-Li Tian. [Action Recognition Using Super Sparse Coding Vector with Spatio-Temporal Awareness](/publications/papers/eccv14.pdf). European Conference on Computer Vision (ECCV), 2014.
 
-X. Yang and Y. Tian. [Effective 3D Action Recognition Using EigenJoints](/publications/papers/jvci14.pdf). Journal of Visual Communication and Image Representation (JVCI), 25(1), 2-11, 2014. ([Best Paper Award](/publications/papers/jvci-best-paper-award.pdf))
+Xiaodong Yang and Ying-Li Tian. [Effective 3D Action Recognition Using EigenJoints](/publications/papers/jvci14.pdf). Journal of Visual Communication and Image Representation (JVCI), 25(1), 2-11, 2014. ([Best Paper Award](/publications/papers/jvci-best-paper-award.pdf))
 
-X. Rong, C. Yi, X. Yang, and Y. Tian. [Scene Text Recognition in Multiple Frames based on Text Tracking](/publications/papers/icme14.pdf). IEEE International Conference on Multimedia & Expo (ICME), 2014.
+Xuejian Rong, Chucai Yi, Xiaodong Yang, and Ying-Li Tian. [Scene Text Recognition in Multiple Frames based on Text Tracking](/publications/papers/icme14.pdf). IEEE International Conference on Multimedia & Expo (ICME), 2014.
 
-X. Yang, S. Yuan, and Y. Tian. [Assistive Clothing Pattern Recognition for Visually Impaired People](/publications/papers/thms14.pdf). IEEE Transactions on Human-Machine Systems (THMS), 44(2), 234-243, 2014.
+Xiaodong Yang, Shuai Yuan, and Ying-Li Tian. [Assistive Clothing Pattern Recognition for Visually Impaired People](/publications/papers/thms14.pdf). IEEE Transactions on Human-Machine Systems (THMS), 44(2), 234-243, 2014.
 
-X. Yang and Y. Tian. [Polynormal Fisher Vector for Activity Recognition from Depth Sequence](/publications/papers/siggraphw14.pdf). SIGGRAPH ASIA Workshop on Autonomous Virtual Humans and Social Robots, 2014.
+Xiaodong Yang and Ying-Li Tian. [Polynormal Fisher Vector for Activity Recognition from Depth Sequence](/publications/papers/siggraphw14.pdf). SIGGRAPH ASIA Workshop on Autonomous Virtual Humans and Social Robots, 2014.
 
-Y. Xian, X. Rong, X. Yang, and Y. Tian. [CCNY at TRECVID 2014: Surveillance Event Detection](/publications/papers/trecvid14.pdf). NIST TRECVID Workshop, 2014.
+Yang Xian, Xuejian Rong, Xiaodong Yang, and Ying-Li Tian. [CCNY at TRECVID 2014: Surveillance Event Detection](/publications/papers/trecvid14.pdf). NIST TRECVID Workshop, 2014.
 
 **2013**
 
-C. Zhang, X. Yang, and Y. Tian. [Histogram of 3D Facets: A Characteristic Descriptor for Hand Gesture Recognition](/publications/papers/fg13.pdf). IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2013. (Oral)
+Chenyang Zhang, Xiaodong Yang, and Ying-Li Tian. [Histogram of 3D Facets: A Characteristic Descriptor for Hand Gesture Recognition](/publications/papers/fg13.pdf). IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2013. (Oral)
 
-X. Yang and Y. Tian. [Texture Representations Using Subspace Embeddings](/publications/papers/prl13.pdf). Pattern Recognition Letters (PRL), 34(10), 1130-1137, 2013.
+Xiaodong Yang and Ying-Li Tian. [Texture Representations Using Subspace Embeddings](/publications/papers/prl13.pdf). Pattern Recognition Letters (PRL), 34(10), 1130-1137, 2013.
 
-C. Yi, X. Yang, and Y. Tian. [Feature Representations for Scene Text Character Recognition: A Comparative Study](/publications/papers/icdar13.pdf). International Conference on Document Analysis and Recognition (ICDAR), 2013.
+Chucai Yi, Xiaodong Yang, and Ying-Li Tian. [Feature Representations for Scene Text Character Recognition: A Comparative Study](/publications/papers/icdar13.pdf). International Conference on Document Analysis and Recognition (ICDAR), 2013.
 
-X. Yang, Z. Liu, E. Zavesky, D. Gibbon, B. Shahraray, and Y. Tian. [AT&T Research at TRECVID 2013: Surveillance Event Detection](/publications/papers/trecvid13.pdf). NIST TRECVID Workshop, 2013.
+Xiaodong Yang, Zhu Liu, Eric Zavesky, David Gibbon, Behzad Shahraray, and Ying-Li Tian. [AT&T Research at TRECVID 2013: Surveillance Event Detection](/publications/papers/trecvid13.pdf). NIST TRECVID Workshop, 2013.
 
-C. Mazuera, X. Yang, and Y. Tian. [Visual Speech Learning Using Dynamic Lip Movement based Video Segmentation and Comparison](/publications/papers/bibm13.pdf). IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2013. (Oral)
+Carol Mazuera, Xiaodong Yang, and Ying-Li Tian. [Visual Speech Learning Using Dynamic Lip Movement based Video Segmentation and Comparison](/publications/papers/bibm13.pdf). IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2013. (Oral)
 
-Y. Tian, X. Yang, C. Yi, and A. Arditi. [Toward A Computer Vision based Wayfinding Aid for Blind Persons to Access Unfamiliar Indoor Environments](/publications/papers/mva13.pdf). Machine Vision and Applications (MVA), 24(3), 521-535, 2013.
+Ying-Li Tian, Xiaodong Yang, Chucai Yi, and Aries Arditi. [Toward A Computer Vision based Wayfinding Aid for Blind Persons to Access Unfamiliar Indoor Environments](/publications/papers/mva13.pdf). Machine Vision and Applications (MVA), 24(3), 521-535, 2013.
 
 **2012**
 
-X. Yang, C. Zhang, and Y. Tian. [Recognizing Actions Using Depth Motion Maps based Histograms of Oriented Gradients](/publications/papers/mm12.pdf). ACM Multimedia (MM), 2012.
+Xiaodong Yang, Chenyang Zhang, and Ying-Li Tian. [Recognizing Actions Using Depth Motion Maps based Histograms of Oriented Gradients](/publications/papers/mm12.pdf). ACM Multimedia (MM), 2012.
 
-X. Yang and Y. Tian. [EigenJoints based Action Recognition Using Naive-Bayes-Nearest-Neighbor](/publications/papers/cvprw12.pdf). IEEE CVPR Workshop on Human Activity Understanding from 3D Data, 2012.
+Xiaodong Yang and Ying-Li Tian. [EigenJoints based Action Recognition Using Naive-Bayes-Nearest-Neighbor](/publications/papers/cvprw12.pdf). IEEE CVPR Workshop on Human Activity Understanding from 3D Data, 2012.
 
-X. Yang, C. Yi, L. Cao, and Y. Tian. [MediaCCNY at TRECVID 2012: Surveillance Event Detection](/publications/papers/trecvid12.pdf). NIST TRECVID Workshop, 2012.
+Xiaodong Yang, Chucai Yi, Liangliang Cao, and Ying-Li Tian. [MediaCCNY at TRECVID 2012: Surveillance Event Detection](/publications/papers/trecvid12.pdf). NIST TRECVID Workshop, 2012.
 
-F. Zaman, X. Yang, and Y. Tian. [Robust and Effective Component based Banknote Recognition for the Blind](/publications/papers/tsmc12.pdf). IEEE Transactions on System, Man, and Cybernetics (TSMC) Part C, 42(6), 1021-1030, 2012.
+Faiz Zaman, Xiaodong Yang, and Ying-Li Tian. [Robust and Effective Component based Banknote Recognition for the Blind](/publications/papers/tsmc12.pdf). IEEE Transactions on System, Man, and Cybernetics (TSMC) Part C, 42(6), 1021-1030, 2012.
 
 **2011**
 
-X. Yang, S. Yuan, and Y. Tian. [Recognizing Clothes Patterns for Blind People by Confidence Margin based Feature Combination](/publications/papers/mm11.pdf). ACM Multimedia (MM), 2011.
+Xiaodong Yang, Shuai Yuan, and Ying-Li Tian. [Recognizing Clothes Patterns for Blind People by Confidence Margin based Feature Combination](/publications/papers/mm11.pdf). ACM Multimedia (MM), 2011.
 
-F. Zaman, X. Yang, Y. Tian. [Robust and Effective Component based Banknote Recognition by SURF Features](/publications/papers/wocc11.pdf). IEEE Wireless and Optical Communications Conference (WOCC), 2011.
+Faiz Zaman, Xiaodong Yang, Ying-Li Tian. [Robust and Effective Component based Banknote Recognition by SURF Features](/publications/papers/wocc11.pdf). IEEE Wireless and Optical Communications Conference (WOCC), 2011.
 
 **2010**
 
-X. Yang, Y. Tian, C. Yi, and A. Arditi. [Context based Indoor Object Detection as An Aid to Blind Persons Accessing Unfamiliar Environments](/publications/papers/mm10.pdf). ACM Multimedia (MM), 2010.
+Xiaodong Yang, Ying-Li Tian, Chucai Yi, and Aries Arditi. [Context based Indoor Object Detection as An Aid to Blind Persons Accessing Unfamiliar Environments](/publications/papers/mm10.pdf). ACM Multimedia (MM), 2010.
 
-X. Yang and Y. Tian. [Robust Door Detection in Unfamiliar Environments by Combining Edge and Corner Features](/publications/papers/cvprw10.pdf). IEEE CVPR Workshop on Computer Vision Applications for Visually Impaired, 2010.
+Xiaodong Yang and Ying-Li Tian. [Robust Door Detection in Unfamiliar Environments by Combining Edge and Corner Features](/publications/papers/cvprw10.pdf). IEEE CVPR Workshop on Computer Vision Applications for Visually Impaired, 2010.
 
-Y. Tian, X. Yang, and A. Arditi. [Computer Vision based Door Detection for Accessibility of Unfamiliar Environments to Blind Persons](/publications/papers/icchp10.pdf). International Conference on Computers Helping People with Special Needs (ICCHP), 2010.
+Ying-Li Tian, Xiaodong Yang, and Aries Arditi. [Computer Vision based Door Detection for Accessibility of Unfamiliar Environments to Blind Persons](/publications/papers/icchp10.pdf). International Conference on Computers Helping People with Special Needs (ICCHP), 2010.
 
 **Patents**
 
