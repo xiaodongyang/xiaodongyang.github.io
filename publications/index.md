@@ -19,7 +19,7 @@ Sergey Tulyakov, Ming-Yu Liu, Xiaodong Yang, and Jan Kautz. [MoCoGAN: Decomposin
 
 Xiaodong Yang and Ying-Li Tian. [Super Normal Vector for Human Activity Recognition with Depth Cameras](/publications/papers/tpami17.pdf). IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 39(5), 1028-1039, 2017.
 
-Jingwei Gu, Xiaodong Yang, Shalini De Mello, and Jan Kautz. [Dynamic Facial Analysis: From Bayesian Filtering to Recurrent Neural Network](/publications/papers/cvpr17.pdf). IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.
+Jinwei Gu, Xiaodong Yang, Shalini De Mello, and Jan Kautz. [Dynamic Facial Analysis: From Bayesian Filtering to Recurrent Neural Network](/publications/papers/cvpr17.pdf). IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.
 
 Yang Xian, Xuejian Rong, Xiaodong Yang, and Ying-Li Tian. [Evaluation of Low-Level Features for Real-World Surveillance Event Detection](/publications/papers/tcsvt17.pdf). IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 27(3), 624-634, 2017.
 
