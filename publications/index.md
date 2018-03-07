@@ -17,25 +17,15 @@ Sergey Tulyakov, Ming-Yu Liu, Xiaodong Yang, and Jan Kautz. [MoCoGAN: Decomposin
 
 **2017**
 
-[Super Normal Vector for Human Activity Recognition with Depth Cameras](/publications/papers/tpami17.pdf)  
-Xiaodong Yang and Ying-Li Tian  
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 39(5), 1028-1039, 2017.
+Xiaodong Yang and Ying-Li Tian. [Super Normal Vector for Human Activity Recognition with Depth Cameras](/publications/papers/tpami17.pdf). IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 39(5), 1028-1039, 2017.
 
-[Dynamic Facial Analysis: From Bayesian Filtering to Recurrent Neural Network](/publications/papers/cvpr17.pdf)  
-Jingwei Gu, Xiaodong Yang, Shalini De Mello, and Jan Kautz  
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.
+Jingwei Gu, Xiaodong Yang, Shalini De Mello, and Jan Kautz. [Dynamic Facial Analysis: From Bayesian Filtering to Recurrent Neural Network](/publications/papers/cvpr17.pdf). IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.
 
-[Evaluation of Low-Level Features for Real-World Surveillance Event Detection](/publications/papers/tcsvt17.pdf)  
-Yang Xian, Xuejian Rong, Xiaodong Yang, and Ying-Li Tian   
-IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 27(3), 624-634, 2017.
+Yang Xian, Xuejian Rong, Xiaodong Yang, and Ying-Li Tian. [Evaluation of Low-Level Features for Real-World Surveillance Event Detection](/publications/papers/tcsvt17.pdf). IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 27(3), 624-634, 2017.
 
-[3D Convolutional Neural Network with Multi-Model Framework for Action Recognition](/publications/papers/icip17.pdf)
-Longlong Jing, Yuancheng Ye, Xiaodong Yang, and Ying-Li Tian    
-IEEE International Conference on Image Processing (ICIP), 2017. (Oral)
+Longlong Jing, Yuancheng Ye, Xiaodong Yang, and Ying-Li Tian. [3D Convolutional Neural Network with Multi-Model Framework for Action Recognition](/publications/papers/icip17.pdf). IEEE International Conference on Image Processing (ICIP), 2017. (Oral)
 
-[Budget-Aware Activity Detection with A Recurrent Policy Network](https://arxiv.org/abs/1712.00097)    
-Behrooz Mahasseni, Xiaodong Yang, Pavlo Molchanov, and Jan Kautz    
-arXiv:1712.00097.
+Behrooz Mahasseni, Xiaodong Yang, Pavlo Molchanov, and Jan Kautz. [Budget-Aware Activity Detection with A Recurrent Policy Network](https://arxiv.org/abs/1712.00097). arXiv:1712.00097.
 
 **2016**
 
