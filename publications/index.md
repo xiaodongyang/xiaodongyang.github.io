@@ -9,11 +9,11 @@ My citations can be found on [Google Scholar](http://scholar.google.com/citation
 
 **2018**
 
-Xiaodong Yang, Pavlo Molchanov, and Jan Kautz. [Making Convolutional Networks Recurrent for Visual Sequence Learning](). IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.  
+Xiaodong Yang, Pavlo Molchanov, and Jan Kautz. [Making Convolutional Networks Recurrent for Visual Sequence Learning](/publications/papers/prernn-cvpr18.pdf). IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018. [[Supp](/publications/papers/prernn-supp-cvpr18.pdf)]  
 
-Deqing Sun, Xiaodong Yang, Ming-Yu Liu, and Jan Kautz. [PWC-Net: CNNs for Optical Flow using Pyramid, Warping, and Cost Volume](). IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018. (Oral)
+Deqing Sun, Xiaodong Yang, Ming-Yu Liu, and Jan Kautz. [PWC-Net: CNNs for Optical Flow using Pyramid, Warping, and Cost Volume](/publications/papers/pwc-cvpr18.pdf). IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018. (Oral) [[Supp](/publications/papers/pwc-supp-cvpr18.pdf)]
 
-Sergey Tulyakov, Ming-Yu Liu, Xiaodong Yang, and Jan Kautz. [MoCoGAN: Decomposing Motion and Content for Video Generation](). IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.
+Sergey Tulyakov, Ming-Yu Liu, Xiaodong Yang, and Jan Kautz. [MoCoGAN: Decomposing Motion and Content for Video Generation](/publications/papers/mocogan-cvpr18.pdf). IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.
 
 **2017**
 
