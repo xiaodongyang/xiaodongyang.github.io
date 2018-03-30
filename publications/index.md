@@ -17,7 +17,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018
 [PWC-Net: CNNs for Optical Flow using Pyramid, Warping, and Cost Volume](/publications/papers/pwc-cvpr18.pdf)   
 Deqing Sun, Xiaodong Yang, Ming-Yu Liu, Jan Kautz   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 (Oral)   
-[[Supp](/publications/papers/pwc-supp-cvpr18.pdf)] [[Code](http://research.nvidia.com/publication/2018-02_PWC-Net%3A-CNNs-for)]   
+[[Supp](/publications/papers/pwc-supp-cvpr18.pdf)] [[Project](http://research.nvidia.com/publication/2018-02_PWC-Net%3A-CNNs-for)]   
 
 [MoCoGAN: Decomposing Motion and Content for Video Generation](/publications/papers/mocogan-cvpr18.pdf)   
 Sergey Tulyakov, Ming-Yu Liu, Xiaodong Yang, Jan Kautz   
@@ -26,11 +26,13 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018
 
 [Super Normal Vector for Human Activity Recognition with Depth Cameras](/publications/papers/tpami17.pdf)   
 Xiaodong Yang, Ying-Li Tian   
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2017   
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2017  
+[[Code](https://github.com/xiaodongyang/SNV)]   
 
 [Dynamic Facial Analysis: From Bayesian Filtering to Recurrent Neural Network](/publications/papers/cvpr17.pdf)   
 Jinwei Gu, Xiaodong Yang, Shalini De Mello, Jan Kautz   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017   
+[[Project](http://research.nvidia.com/publication/dynamic-facial-analysis-bayesian-filtering-recurrent-neural-networks)]   
 
 [Evaluation of Low-Level Features for Real-World Surveillance Event Detection](/publications/papers/tcsvt17.pdf)   
 Yang Xian, Xuejian Rong, Xiaodong Yang, Ying-Li Tian   
@@ -51,6 +53,7 @@ ACM Multimedia (MM), 2016 (Oral)
 [Online Detection and Classification of Dynamic Hand Gestures with Recurrent 3D Convolutional Neural Networks](/publications/papers/cvpr16.pdf)   
 Pavlo Molchanov, Xiaodong Yang, Shalini Gupta, Kihwan Kim, Stephen Tyree, Jan Kautz   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016   
+[[Project](http://research.nvidia.com/publication/online-detection-and-classification-dynamic-hand-gestures-recurrent-3d-convolutional)]    
 
 [Region Trajectories for Video Semantic Concept Detection](/publications/papers/icmr16.pdf)   
 Yuancheng Ye, Xuejian Rong, Xiaodong Yang, Ying-Li Tian   
@@ -82,15 +85,17 @@ NIST TRECVID Workshop, 2015
 
 [Super Normal Vector for Activity Recognition Using Depth Sequences](/publications/papers/cvpr14.pdf)   
 Xiaodong Yang, Ying-Li Tian   
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014   
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014  
+[[Code](https://github.com/xiaodongyang/SNV)]   
 
 [Action Recognition Using Super Sparse Coding Vector with Spatio-Temporal Awareness](/publications/papers/eccv14.pdf)   
 Xiaodong Yang, Ying-Li Tian   
 European Conference on Computer Vision (ECCV), 2014   
+[[Code](https://github.com/xiaodongyang/SSCV)]
 
 [Effective 3D Action Recognition Using EigenJoints](/publications/papers/jvci14.pdf)   
 Xiaodong Yang, Ying-Li Tian   
-Journal of Visual Communication and Image Representation (JVCI), 2014 (Best Paper Award)   
+Journal of Visual Communication and Image Representation (JVCI), 2014 (**Best Paper Award**)   
 
 [Scene Text Recognition in Multiple Frames based on Text Tracking](/publications/papers/icme14.pdf)   
 Xuejian Rong, Chucai Yi, Xiaodong Yang, Ying-Li Tian   
