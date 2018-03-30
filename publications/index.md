@@ -145,6 +145,7 @@ IEEE CVPR Workshop on Human Activity Understanding from 3D Data, 2012
 [MediaCCNY at TRECVID 2012: Surveillance Event Detection](/publications/papers/trecvid12.pdf)   
 Xiaodong Yang, Chucai Yi, Liangliang Cao, Ying-Li Tian   
 NIST TRECVID Workshop, 2012   
+[[Code](https://github.com/xiaodongyang/CascadeSVMs)] [[Data](/publications/code-data/hot-regions.zip)]    
 
 [Robust and Effective Component based Banknote Recognition for the Blind](/publications/papers/tsmc12.pdf)   
 Faiz Zaman, Xiaodong Yang, Ying-Li Tian   
@@ -153,10 +154,12 @@ IEEE Transactions on System, Man, and Cybernetics (TSMC) Part C, 2012
 [Recognizing Clothes Patterns for Blind People by Confidence Margin based Feature Combination](/publications/papers/mm11.pdf)   
 Xiaodong Yang, Shuai Yuan, Ying-Li Tian   
 ACM Multimedia (MM), 2011   
+[[Data](/publications/code-data/clothing-patterns.rar)]
 
 [Context based Indoor Object Detection as An Aid to Blind Persons Accessing Unfamiliar Environments](/publications/papers/mm10.pdf)   
 Xiaodong Yang, Ying-Li Tian, Chucai Yi, and Aries Arditi   
 ACM Multimedia (MM), 2010   
+[[Data](/publications/code-data/door-detection.rar)]   
 
 [Robust Door Detection in Unfamiliar Environments by Combining Edge and Corner Features](/publications/papers/cvprw10.pdf)   
 Xiaodong Yang, Ying-Li Tian   
