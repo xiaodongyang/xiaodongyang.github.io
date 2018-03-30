@@ -17,29 +17,25 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018
 Deqing Sun, Xiaodong Yang, Ming-Yu Liu, Jan Kautz   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 (Oral)       
 
-[MoCoGAN: Decomposing Motion and Content for Video Generation](/publications/papers/mocogan-cvpr18.pdf)   
+[MoCoGAN: Decomposing Motion and Content for Video Generation](/publications/papers/mocogan-cvpr18.pdf) [[Project](https://github.com/sergeytulyakov/mocogan)]    
 Sergey Tulyakov, Ming-Yu Liu, Xiaodong Yang, Jan Kautz   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018   
-[[Project](https://github.com/sergeytulyakov/mocogan)]   
 
 [Video You Only Look Once: Overall Temporal Convolutions for Action Recognition](/publications/papers/jvci18.pdf)   
 Longlong Jing, Xiaodong Yang, Ying-Li Tian   
 Journal of Visual Communication and Image Representation (JVCI), 2018   
 
-[Super Normal Vector for Human Activity Recognition with Depth Cameras](/publications/papers/tpami17.pdf)   
+[Super Normal Vector for Human Activity Recognition with Depth Cameras](/publications/papers/tpami17.pdf) [[Code](https://github.com/xiaodongyang/SNV)]   
 Xiaodong Yang, Ying-Li Tian   
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2017  
-[[Code](https://github.com/xiaodongyang/SNV)]   
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2017     
 
-[Dynamic Facial Analysis: From Bayesian Filtering to Recurrent Neural Network](/publications/papers/cvpr17.pdf)   
+[Dynamic Facial Analysis: From Bayesian Filtering to Recurrent Neural Network](/publications/papers/cvpr17.pdf) [[Project](http://research.nvidia.com/publication/dynamic-facial-analysis-bayesian-filtering-recurrent-neural-networks)]   
 Jinwei Gu, Xiaodong Yang, Shalini De Mello, Jan Kautz   
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017   
-[[Project](http://research.nvidia.com/publication/dynamic-facial-analysis-bayesian-filtering-recurrent-neural-networks)]   
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017      
 
-[Evaluation of Low-Level Features for Real-World Surveillance Event Detection](/publications/papers/tcsvt17.pdf)   
+[Evaluation of Low-Level Features for Real-World Surveillance Event Detection](/publications/papers/tcsvt17.pdf) [[Code](https://github.com/xiaodongyang/ActionHOG)]   
 Yang Xian, Xuejian Rong, Xiaodong Yang, Ying-Li Tian   
-IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2017  
-[[Code](https://github.com/xiaodongyang/ActionHOG)]   
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2017     
 
 [3D Convolutional Neural Network with Multi-Model Framework for Action Recognition](/publications/papers/icip17.pdf)   
 Longlong Jing, Yuancheng Ye, Xiaodong Yang, Ying-Li Tian   
@@ -53,10 +49,9 @@ arXiv:1712.00097
 Xiaodong Yang, Pavlo Molchanov, Jan Kautz   
 ACM Multimedia (MM), 2016 (Oral)   
 
-[Online Detection and Classification of Dynamic Hand Gestures with Recurrent 3D Convolutional Neural Networks](/publications/papers/cvpr16.pdf)   
+[Online Detection and Classification of Dynamic Hand Gestures with Recurrent 3D Convolutional Neural Networks](/publications/papers/cvpr16.pdf) [[Project](http://research.nvidia.com/publication/online-detection-and-classification-dynamic-hand-gestures-recurrent-3d-convolutional)]    
 Pavlo Molchanov, Xiaodong Yang, Shalini Gupta, Kihwan Kim, Stephen Tyree, Jan Kautz   
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016   
-[[Project](http://research.nvidia.com/publication/online-detection-and-classification-dynamic-hand-gestures-recurrent-3d-convolutional)]    
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016      
 
 [Region Trajectories for Video Semantic Concept Detection](/publications/papers/icmr16.pdf)   
 Yuancheng Ye, Xuejian Rong, Xiaodong Yang, Ying-Li Tian   
@@ -86,15 +81,13 @@ International Symposium on Visual Computing (ISVC), 2015 (Oral)
 Yuancheng Ye, Xuejian Rong, Xiaodong Yang, Ying-Li Tian   
 NIST TRECVID Workshop, 2015   
 
-[Super Normal Vector for Activity Recognition Using Depth Sequences](/publications/papers/cvpr14.pdf)   
+[Super Normal Vector for Activity Recognition Using Depth Sequences](/publications/papers/cvpr14.pdf) [[Code](https://github.com/xiaodongyang/SNV)]    
 Xiaodong Yang, Ying-Li Tian   
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014  
-[[Code](https://github.com/xiaodongyang/SNV)]   
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014    
 
-[Action Recognition Using Super Sparse Coding Vector with Spatio-Temporal Awareness](/publications/papers/eccv14.pdf)   
+[Action Recognition Using Super Sparse Coding Vector with Spatio-Temporal Awareness](/publications/papers/eccv14.pdf) [[Code](https://github.com/xiaodongyang/SSCV)]   
 Xiaodong Yang, Ying-Li Tian   
 European Conference on Computer Vision (ECCV), 2014   
-[[Code](https://github.com/xiaodongyang/SSCV)]
 
 [Effective 3D Action Recognition Using EigenJoints](/publications/papers/jvci14.pdf)   
 Xiaodong Yang, Ying-Li Tian   
@@ -136,33 +129,29 @@ IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2013 (Or
 Ying-Li Tian, Xiaodong Yang, Chucai Yi, Aries Arditi   
 Machine Vision and Applications (MVA), 2013   
 
-[Recognizing Actions Using Depth Motion Maps based Histograms of Oriented Gradients](/publications/papers/mm12.pdf)   
+[Recognizing Actions Using Depth Motion Maps based Histograms of Oriented Gradients](/publications/papers/mm12.pdf) [[Code](/publications/code-data/dmm.rar)]   
 Xiaodong Yang, Chenyang Zhang, Ying-Li Tian   
-ACM Multimedia (MM), 2012   
-[[Code](/publications/code-data/dmm.rar)]   
+ACM Multimedia (MM), 2012      
 
 [EigenJoints based Action Recognition Using Naive-Bayes-Nearest-Neighbor](/publications/papers/cvprw12.pdf)   
 Xiaodong Yang, Ying-Li Tian   
 IEEE CVPR Workshop on Human Activity Understanding from 3D Data, 2012   
 
-[MediaCCNY at TRECVID 2012: Surveillance Event Detection](/publications/papers/trecvid12.pdf)   
+[MediaCCNY at TRECVID 2012: Surveillance Event Detection](/publications/papers/trecvid12.pdf) [[Code](https://github.com/xiaodongyang/CascadeSVMs)] [[Data](/publications/code-data/hot-regions.zip)]    
 Xiaodong Yang, Chucai Yi, Liangliang Cao, Ying-Li Tian   
-NIST TRECVID Workshop, 2012   
-[[Code](https://github.com/xiaodongyang/CascadeSVMs)] [[Data](/publications/code-data/hot-regions.zip)]    
+NIST TRECVID Workshop, 2012      
 
 [Robust and Effective Component based Banknote Recognition for the Blind](/publications/papers/tsmc12.pdf)   
 Faiz Zaman, Xiaodong Yang, Ying-Li Tian   
 IEEE Transactions on System, Man, and Cybernetics (TSMC) Part C, 2012   
 
-[Recognizing Clothes Patterns for Blind People by Confidence Margin based Feature Combination](/publications/papers/mm11.pdf)   
+[Recognizing Clothes Patterns for Blind People by Confidence Margin based Feature Combination](/publications/papers/mm11.pdf) [[Data](/publications/code-data/clothing-patterns.rar)]   
 Xiaodong Yang, Shuai Yuan, Ying-Li Tian   
 ACM Multimedia (MM), 2011   
-[[Data](/publications/code-data/clothing-patterns.rar)]
 
-[Context based Indoor Object Detection as an Aid to Blind Persons Accessing Unfamiliar Environment](/publications/papers/mm10.pdf)   
+[Context based Indoor Object Detection as an Aid to Blind Persons Accessing Unfamiliar Environment](/publications/papers/mm10.pdf) [[Data](/publications/code-data/door-detection.rar)]   
 Xiaodong Yang, Ying-Li Tian, Chucai Yi, and Aries Arditi   
-ACM Multimedia (MM), 2010   
-[[Data](/publications/code-data/door-detection.rar)]   
+ACM Multimedia (MM), 2010      
 
 [Robust Door Detection in Unfamiliar Environments by Combining Edge and Corner Features](/publications/papers/cvprw10.pdf)   
 Xiaodong Yang, Ying-Li Tian   
