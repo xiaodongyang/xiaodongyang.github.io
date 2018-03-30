@@ -136,7 +136,7 @@ Machine Vision and Applications (MVA), 2013
 [Recognizing Actions Using Depth Motion Maps based Histograms of Oriented Gradients](/publications/papers/mm12.pdf)   
 Xiaodong Yang, Chenyang Zhang, Ying-Li Tian   
 ACM Multimedia (MM), 2012   
-[[Code](/publications/code/dmm.rar)]   
+[[Code](/publications/code-data/dmm.rar)]   
 
 [EigenJoints based Action Recognition Using Naive-Bayes-Nearest-Neighbor](/publications/papers/cvprw12.pdf)   
 Xiaodong Yang, Ying-Li Tian   
