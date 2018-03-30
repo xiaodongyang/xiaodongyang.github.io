@@ -16,7 +16,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018
 
 [PWC-Net: CNNs for Optical Flow using Pyramid, Warping, and Cost Volume](/publications/papers/pwc-cvpr18.pdf)   
 Deqing Sun, Xiaodong Yang, Ming-Yu Liu, Jan Kautz   
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 (**Oral**)   
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 (Oral)   
 [[Project](http://research.nvidia.com/publication/2018-02_PWC-Net%3A-CNNs-for)] [[Supplementary Document](/publications/papers/pwc-supp-cvpr18.pdf)]   
 
 [MoCoGAN: Decomposing Motion and Content for Video Generation](/publications/papers/mocogan-cvpr18.pdf)   
@@ -103,11 +103,7 @@ IEEE International Conference on Multimedia & Expo (ICME), 2014
 
 [Assistive Clothing Pattern Recognition for Visually Impaired People](/publications/papers/thms14.pdf)   
 Xiaodong Yang, Shuai Yuan, Ying-Li Tian   
-IEEE Transactions on Human-Machine Systems (THMS), 2014   
-
-[Polynormal Fisher Vector for Activity Recognition from Depth Sequence](/publications/papers/siggraphw14.pdf)   
-Xiaodong Yang, Ying-Li Tian   
-SIGGRAPH ASIA Workshop on Autonomous Virtual Humans and Social Robots, 2014   
+IEEE Transactions on Human-Machine Systems (THMS), 2014     
 
 [CCNY at TRECVID 2014: Surveillance Event Detection](/publications/papers/trecvid14.pdf)   
 Yang Xian, Xuejian Rong, Xiaodong Yang, Ying-Li Tian   
@@ -140,6 +136,7 @@ Machine Vision and Applications (MVA), 2013
 [Recognizing Actions Using Depth Motion Maps based Histograms of Oriented Gradients](/publications/papers/mm12.pdf)   
 Xiaodong Yang, Chenyang Zhang, Ying-Li Tian   
 ACM Multimedia (MM), 2012   
+[[Code](/publications/code/dmm.rar)]   
 
 [EigenJoints based Action Recognition Using Naive-Bayes-Nearest-Neighbor](/publications/papers/cvprw12.pdf)   
 Xiaodong Yang, Ying-Li Tian   
