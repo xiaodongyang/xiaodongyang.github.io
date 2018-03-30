@@ -24,9 +24,9 @@ Sergey Tulyakov, Ming-Yu Liu, Xiaodong Yang, Jan Kautz
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018   
 [[Project](https://github.com/sergeytulyakov/mocogan)]   
 
-[Video You Only Look Once: Overall Temporal Convolutions for Action Recognition](/publications/papers/jvci18.pdf)
-Longlong Jing, Xiaodong Yang, Ying-Li Tian
-Journal of Visual Communication and Image Representation (JVCI), 2018
+[Video You Only Look Once: Overall Temporal Convolutions for Action Recognition](/publications/papers/jvci18.pdf)   
+Longlong Jing, Xiaodong Yang, Ying-Li Tian   
+Journal of Visual Communication and Image Representation (JVCI), 2018   
 
 [Super Normal Vector for Human Activity Recognition with Depth Cameras](/publications/papers/tpami17.pdf)   
 Xiaodong Yang, Ying-Li Tian   
