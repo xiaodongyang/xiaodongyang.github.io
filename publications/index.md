@@ -156,7 +156,7 @@ Xiaodong Yang, Shuai Yuan, Ying-Li Tian
 ACM Multimedia (MM), 2011   
 [[Data](/publications/code-data/clothing-patterns.rar)]
 
-[Context based Indoor Object Detection as An Aid to Blind Persons Accessing Unfamiliar Environments](/publications/papers/mm10.pdf)   
+[Context based Indoor Object Detection as an Aid to Blind Persons Accessing Unfamiliar Environments](/publications/papers/mm10.pdf)   
 Xiaodong Yang, Ying-Li Tian, Chucai Yi, and Aries Arditi   
 ACM Multimedia (MM), 2010   
 [[Data](/publications/code-data/door-detection.rar)]   
