@@ -14,7 +14,7 @@ Xiaodong Yang, Pavlo Molchanov, Jan Kautz
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018   
 [[Supplementary Document](/publications/papers/prernn-supp-cvpr18.pdf)]   
 
-[PWC-Net: CNNs for Optical Flow using Pyramid, Warping, and Cost Volume](/publications/papers/pwc-cvpr18.pdf)   
+[PWC-Net: CNNs for Optical Flow using Pyramid, Warping and Cost Volume](/publications/papers/pwc-cvpr18.pdf)   
 Deqing Sun, Xiaodong Yang, Ming-Yu Liu, Jan Kautz   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 (Oral)   
 [[Project](http://research.nvidia.com/publication/2018-02_PWC-Net%3A-CNNs-for)] [[Supplementary Document](/publications/papers/pwc-supp-cvpr18.pdf)]   
