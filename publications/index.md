@@ -7,23 +7,6 @@ comments: no
 My citations can be found on [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en).
 <br>
 
-[Making Convolutional Networks Recurrent for Visual Sequence Learning](/publications/papers/prernn-cvpr18.pdf)   
-Xiaodong Yang, Pavlo Molchanov, Jan Kautz    
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018  
-[[Supp](/publications/papers/prernn-supp-cvpr18.pdf)]   
-
-[PWC-Net: CNNs for Optical Flow using Pyramid, Warping, and Cost Volume](/publications/papers/pwc-cvpr18.pdf)  
-Deqing Sun, Xiaodong Yang, Ming-Yu Liu, Jan Kautz  
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 (Oral) [[Supp](/publications/papers/pwc-supp-cvpr18.pdf)] [[Code](http://research.nvidia.com/publication/2018-02_PWC-Net%3A-CNNs-for)]  
-
-[MoCoGAN: Decomposing Motion and Content for Video Generation](/publications/papers/mocogan-cvpr18.pdf)  
-Sergey Tulyakov, Ming-Yu Liu, Xiaodong Yang, Jan Kautz  
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 [[Code](https://github.com/sergeytulyakov/mocogan)] 
-
-[Super Normal Vector for Human Activity Recognition with Depth Cameras](/publications/papers/tpami17.pdf)  
-Xiaodong Yang, Ying-Li Tian    
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 39(5), 1028-1039, 2017.
-
 **2018**
 
 Xiaodong Yang, Pavlo Molchanov, and Jan Kautz. [Making Convolutional Networks Recurrent for Visual Sequence Learning](/publications/papers/prernn-cvpr18.pdf). IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018. [[Supp](/publications/papers/prernn-supp-cvpr18.pdf)]  
