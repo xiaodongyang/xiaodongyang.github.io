@@ -14,12 +14,12 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018
 
 [PWC-Net: CNNs for Optical Flow using Pyramid, Warping, and Cost Volume](/publications/papers/pwc-cvpr18.pdf)     
 Deqing Sun, Xiaodong Yang, Ming-Yu Liu, Jan Kautz      
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 (Oral) 		
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 (Oral)    
 [[Supp](/publications/papers/pwc-supp-cvpr18.pdf)] [[Code](http://research.nvidia.com/publication/2018-02_PWC-Net%3A-CNNs-for)]		
 
 [MoCoGAN: Decomposing Motion and Content for Video Generation](/publications/papers/mocogan-cvpr18.pdf)    
 Sergey Tulyakov, Ming-Yu Liu, Xiaodong Yang, Jan Kautz    
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018    
 [[Code](https://github.com/sergeytulyakov/mocogan)]    
 
 [Super Normal Vector for Human Activity Recognition with Depth Cameras](/publications/papers/tpami17.pdf)    
@@ -27,8 +27,8 @@ Xiaodong Yang, Ying-Li Tian
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2017    
 
 [Dynamic Facial Analysis: From Bayesian Filtering to Recurrent Neural Network](/publications/papers/cvpr17.pdf)		
-Jinwei Gu, Xiaodong Yang, Shalini De Mello, Jan Kautz	
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017	
+Jinwei Gu, Xiaodong Yang, Shalini De Mello, Jan Kautz	  
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017	  
 
 **2018**
 
