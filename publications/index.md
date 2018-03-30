@@ -4,8 +4,10 @@ title: Publications
 comments: no
 ---
 
-My citations can be found on [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en).
+My citations and full publications can be found on [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en).
 <br>
+
+**Selected Publications**
 
 [Making Convolutional Networks Recurrent for Visual Sequence Learning](/publications/papers/prernn-cvpr18.pdf)   
 Xiaodong Yang, Pavlo Molchanov, Jan Kautz   
@@ -150,10 +152,6 @@ IEEE Transactions on System, Man, and Cybernetics (TSMC) Part C, 2012
 Xiaodong Yang, Shuai Yuan, Ying-Li Tian   
 ACM Multimedia (MM), 2011   
 
-[Robust and Effective Component based Banknote Recognition by SURF Features](/publications/papers/wocc11.pdf)   
-Faiz Zaman, Xiaodong Yang, Ying-Li Tian   
-IEEE Wireless and Optical Communications Conference (WOCC), 2011   
-
 [Context based Indoor Object Detection as An Aid to Blind Persons Accessing Unfamiliar Environments](/publications/papers/mm10.pdf)   
 Xiaodong Yang, Ying-Li Tian, Chucai Yi, and Aries Arditi   
 ACM Multimedia (MM), 2010   
@@ -161,10 +159,6 @@ ACM Multimedia (MM), 2010
 [Robust Door Detection in Unfamiliar Environments by Combining Edge and Corner Features](/publications/papers/cvprw10.pdf)   
 Xiaodong Yang, Ying-Li Tian   
 IEEE CVPR Workshop on Computer Vision Applications for Visually Impaired, 2010   
-
-[Computer Vision based Door Detection for Accessibility of Unfamiliar Environments to Blind Persons](/publications/papers/icchp10.pdf)   
-Ying-Li Tian, Xiaodong Yang, Aries Arditi   
-International Conference on Computers Helping People with Special Needs (ICCHP), 2010   
 
 **Patents**
 
