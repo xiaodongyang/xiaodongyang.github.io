@@ -26,7 +26,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018
 Xiaodong Yang, Ying-Li Tian   
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2017    
 
-[Dynamic Facial Analysis: From Bayesian Filtering to Recurrent Neural Network](/publications/papers/cvpr17.pdf)		
+[Dynamic Facial Analysis: From Bayesian Filtering to Recurrent Neural Network](/publications/papers/cvpr17.pdf)		 
 Jinwei Gu, Xiaodong Yang, Shalini De Mello, Jan Kautz	  
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017	  
 
