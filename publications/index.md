@@ -40,7 +40,8 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017
 
 [Evaluation of Low-Level Features for Real-World Surveillance Event Detection](/publications/papers/tcsvt17.pdf)   
 Yang Xian, Xuejian Rong, Xiaodong Yang, Ying-Li Tian   
-IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2017   
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2017  
+[[Code](https://github.com/xiaodongyang/ActionHOG)]   
 
 [3D Convolutional Neural Network with Multi-Model Framework for Action Recognition](/publications/papers/icip17.pdf)   
 Longlong Jing, Yuancheng Ye, Xiaodong Yang, Ying-Li Tian   
