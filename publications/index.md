@@ -20,8 +20,8 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 (Oral) [
 Sergey Tulyakov, Ming-Yu Liu, Xiaodong Yang, Jan Kautz  
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 [[Code](https://github.com/sergeytulyakov/mocogan)] 
 
-[Super Normal Vector for Human Activity Recognition with Depth Cameras](/publications/papers/tpami17.pdf)
-Xiaodong Yang, Ying-Li Tian   
+[Super Normal Vector for Human Activity Recognition with Depth Cameras](/publications/papers/tpami17.pdf)  
+Xiaodong Yang, Ying-Li Tian    
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 39(5), 1028-1039, 2017.
 
 **2018**
