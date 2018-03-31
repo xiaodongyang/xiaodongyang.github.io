@@ -168,8 +168,8 @@ Xiaodong Yang, Shuai Yuan, Ying-Li Tian
 ACM Multimedia, 2011   
 
 [Robust and Effective Component based Banknote Recognition by SURF Features](/publications/papers/wocc11.pdf)   
-Faiz Zaman, Xiaodong Yang, Ying-Li Tian   
-IEEE Wireless and Optical Communication Conference (WOCC), 2011   
+Faiz Zaman, Xiaodong Yang, Ying-Li Tian         
+IEEE Wireless and Optical Communication Conference (WOCC), 2011    
 
 **2010**
 
