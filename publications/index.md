@@ -7,7 +7,7 @@ comments: no
 My citations and full publications can be found on [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en).
 <br>
 
-**Selected Publications**
+
 
 [Making Convolutional Networks Recurrent for Visual Sequence Learning](/publications/papers/prernn-cvpr18.pdf) [[Supp](/publications/papers/prernn-supp-cvpr18.pdf)]   
 Xiaodong Yang, Pavlo Molchanov, Jan Kautz   
@@ -125,7 +125,7 @@ NIST TRECVID Workshop, 2013
 Carol Mazuera, Xiaodong Yang, Ying-Li Tian   
 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2013 (Oral)   
 
-[Toward A Computer Vision based Wayfinding Aid for Blind Persons to Access Unfamiliar Indoor Environments](/publications/papers/mva13.pdf)   
+[Toward A Computer Vision based Wayfinding Aid for Blind Persons to Access Unfamiliar Indoor Environment](/publications/papers/mva13.pdf)   
 Ying-Li Tian, Xiaodong Yang, Chucai Yi, Aries Arditi   
 Machine Vision and Applications (MVA), 2013   
 
