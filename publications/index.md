@@ -25,6 +25,8 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018
 Longlong Jing, Xiaodong Yang, Ying-Li Tian   
 Journal of Visual Communication and Image Representation (JVCI), 2018   
 
+**2017**
+
 [Super Normal Vector for Human Activity Recognition with Depth Cameras](/publications/papers/tpami17.pdf) [[Code](https://github.com/xiaodongyang/SNV)]   
 Xiaodong Yang, Ying-Li Tian   
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2017     
@@ -45,6 +47,8 @@ IEEE International Conference on Image Processing (ICIP), 2017 (Oral)
 Behrooz Mahasseni, Xiaodong Yang, Pavlo Molchanov, Jan Kautz   
 arXiv:1712.00097   
 
+**2016**
+
 [Multilayer and Multimodal Fusion of Deep Neural Networks for Video Classification](/publications/papers/mm16.pdf)   
 Xiaodong Yang, Pavlo Molchanov, Jan Kautz   
 ACM Multimedia, 2016 (Oral)   
@@ -60,6 +64,8 @@ ACM International Conference on Multimedia Retrieval (ICMR), 2016
 [Towards Selecting Robust Hand Gestures for Automotive Interfaces](/publications/papers/ivs16.pdf)   
 Shalini Gupta, Pavlo Molchanov, Xiaodong Yang, Kihwan Kim, Stephen Tyree, Jan Kautz   
 IEEE Intelligent Vehicles Symposium (IVS), 2016   
+
+**2015**
 
 [Feature Representations for Human Activity Recognition in Color and Depth Sequences](/publications/papers/dissertation15.pdf)   
 Xiaodong Yang   
@@ -80,6 +86,8 @@ International Symposium on Visual Computing (ISVC), 2015 (Oral)
 [CCNY at TRECVID 2015: Video Semantic Concept Localization](/publications/papers/trecvid15.pdf)   
 Yuancheng Ye, Xuejian Rong, Xiaodong Yang, Ying-Li Tian   
 NIST TREC Video Retrieval Evaluation (TRECVID), 2015   
+
+**2014**
 
 [Super Normal Vector for Activity Recognition Using Depth Sequences](/publications/papers/cvpr14.pdf) [[Code](https://github.com/xiaodongyang/SNV)]    
 Xiaodong Yang, Ying-Li Tian   
@@ -105,6 +113,12 @@ IEEE Transactions on Human-Machine Systems (THMS), 2014
 Yang Xian, Xuejian Rong, Xiaodong Yang, Ying-Li Tian   
 NIST TREC Video Retrieval Evaluation (TRECVID), 2014   
 
+[Polynormal Fisher Vector for Activity Recognition from Depth Sequences](/publications/papers/.pdf)   
+Xiaodong Yang, Ying-Li Tian     
+SIGGRAPH ASIA Workshop on Autonomous Virtual Humans and Social Robots, 2014   
+
+**2013**
+
 [Histogram of 3D Facets: A Characteristic Descriptor for Hand Gesture Recognition](/publications/papers/fg13.pdf)   
 Chenyang Zhang, Xiaodong Yang, Ying-Li Tian   
 IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2013 (Oral)   
@@ -129,6 +143,8 @@ IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2013 (Or
 Ying-Li Tian, Xiaodong Yang, Chucai Yi, Aries Arditi   
 Machine Vision and Applications (MVA), 2013   
 
+**2012**
+
 [Recognizing Actions Using Depth Motion Maps based Histograms of Oriented Gradients](/publications/papers/mm12.pdf) [[Code](/publications/code-data/dmm.rar)]   
 Xiaodong Yang, Chenyang Zhang, Ying-Li Tian   
 ACM Multimedia, 2012      
@@ -145,9 +161,17 @@ NIST TREC Video Retrieval Evaluation (TRECVID), 2012
 Faiz Zaman, Xiaodong Yang, Ying-Li Tian   
 IEEE Transactions on System, Man, and Cybernetics (TSMC) Part C, 2012   
 
+**2011**
+
 [Recognizing Clothes Patterns for Blind People by Confidence Margin based Feature Combination](/publications/papers/mm11.pdf) [[Data](/publications/code-data/clothing-patterns.rar)]   
 Xiaodong Yang, Shuai Yuan, Ying-Li Tian   
 ACM Multimedia, 2011   
+
+[Robust and Effective Component based Banknote Recognition by SURF Features](/publications/papers/wocc11.pdf)   
+Faiz Zaman, Xiaodong Yang, Ying-Li Tian   
+IEEE Wireless and Optical Communication Conference (WOCC), 2011   
+
+**2010**
 
 [Context based Indoor Object Detection as an Aid to Blind Persons Accessing Unfamiliar Environment](/publications/papers/mm10.pdf) [[Data](/publications/code-data/door-detection.rar)]   
 Xiaodong Yang, Ying-Li Tian, Chucai Yi, and Aries Arditi   
