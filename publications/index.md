@@ -7,7 +7,7 @@ comments: no
 My citations and full publications can be found on [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en).
 <br>
 
-
+**2018**
 
 [Making Convolutional Networks Recurrent for Visual Sequence Learning](/publications/papers/prernn-cvpr18.pdf) [[Supp](/publications/papers/prernn-supp-cvpr18.pdf)]   
 Xiaodong Yang, Pavlo Molchanov, Jan Kautz   
@@ -47,7 +47,7 @@ arXiv:1712.00097
 
 [Multilayer and Multimodal Fusion of Deep Neural Networks for Video Classification](/publications/papers/mm16.pdf)   
 Xiaodong Yang, Pavlo Molchanov, Jan Kautz   
-ACM Multimedia (MM), 2016 (Oral)   
+ACM Multimedia, 2016 (Oral)   
 
 [Online Detection and Classification of Dynamic Hand Gestures with Recurrent 3D Convolutional Neural Networks](/publications/papers/cvpr16.pdf) [[Project](http://research.nvidia.com/publication/online-detection-and-classification-dynamic-hand-gestures-recurrent-3d-convolutional)]    
 Pavlo Molchanov, Xiaodong Yang, Shalini Gupta, Kihwan Kim, Stephen Tyree, Jan Kautz   
@@ -79,7 +79,7 @@ International Symposium on Visual Computing (ISVC), 2015 (Oral)
 
 [CCNY at TRECVID 2015: Video Semantic Concept Localization](/publications/papers/trecvid15.pdf)   
 Yuancheng Ye, Xuejian Rong, Xiaodong Yang, Ying-Li Tian   
-NIST TRECVID Workshop, 2015   
+NIST TREC Video Retrieval Evaluation (TRECVID), 2015   
 
 [Super Normal Vector for Activity Recognition Using Depth Sequences](/publications/papers/cvpr14.pdf) [[Code](https://github.com/xiaodongyang/SNV)]    
 Xiaodong Yang, Ying-Li Tian   
@@ -103,7 +103,7 @@ IEEE Transactions on Human-Machine Systems (THMS), 2014
 
 [CCNY at TRECVID 2014: Surveillance Event Detection](/publications/papers/trecvid14.pdf)   
 Yang Xian, Xuejian Rong, Xiaodong Yang, Ying-Li Tian   
-NIST TRECVID Workshop, 2014   
+NIST TREC Video Retrieval Evaluation (TRECVID), 2014   
 
 [Histogram of 3D Facets: A Characteristic Descriptor for Hand Gesture Recognition](/publications/papers/fg13.pdf)   
 Chenyang Zhang, Xiaodong Yang, Ying-Li Tian   
@@ -119,7 +119,7 @@ International Conference on Document Analysis and Recognition (ICDAR), 2013
 
 [AT&T Research at TRECVID 2013: Surveillance Event Detection](/publications/papers/trecvid13.pdf)   
 Xiaodong Yang, Zhu Liu, Eric Zavesky, David Gibbon, Behzad Shahraray, Ying-Li Tian   
-NIST TRECVID Workshop, 2013   
+NIST TREC Video Retrieval Evaluation (TRECVID), 2013   
 
 [Visual Speech Learning Using Dynamic Lip Movement based Video Segmentation and Comparison](/publications/papers/bibm13.pdf)   
 Carol Mazuera, Xiaodong Yang, Ying-Li Tian   
@@ -131,7 +131,7 @@ Machine Vision and Applications (MVA), 2013
 
 [Recognizing Actions Using Depth Motion Maps based Histograms of Oriented Gradients](/publications/papers/mm12.pdf) [[Code](/publications/code-data/dmm.rar)]   
 Xiaodong Yang, Chenyang Zhang, Ying-Li Tian   
-ACM Multimedia (MM), 2012      
+ACM Multimedia, 2012      
 
 [EigenJoints based Action Recognition Using Naive-Bayes-Nearest-Neighbor](/publications/papers/cvprw12.pdf)   
 Xiaodong Yang, Ying-Li Tian   
@@ -139,7 +139,7 @@ IEEE CVPR Workshop on Human Activity Understanding from 3D Data, 2012
 
 [MediaCCNY at TRECVID 2012: Surveillance Event Detection](/publications/papers/trecvid12.pdf) [[Code](https://github.com/xiaodongyang/CascadeSVMs)] [[Data](/publications/code-data/hot-regions.zip)]    
 Xiaodong Yang, Chucai Yi, Liangliang Cao, Ying-Li Tian   
-NIST TRECVID Workshop, 2012      
+NIST TREC Video Retrieval Evaluation (TRECVID), 2012      
 
 [Robust and Effective Component based Banknote Recognition for the Blind](/publications/papers/tsmc12.pdf)   
 Faiz Zaman, Xiaodong Yang, Ying-Li Tian   
@@ -147,11 +147,11 @@ IEEE Transactions on System, Man, and Cybernetics (TSMC) Part C, 2012
 
 [Recognizing Clothes Patterns for Blind People by Confidence Margin based Feature Combination](/publications/papers/mm11.pdf) [[Data](/publications/code-data/clothing-patterns.rar)]   
 Xiaodong Yang, Shuai Yuan, Ying-Li Tian   
-ACM Multimedia (MM), 2011   
+ACM Multimedia, 2011   
 
 [Context based Indoor Object Detection as an Aid to Blind Persons Accessing Unfamiliar Environment](/publications/papers/mm10.pdf) [[Data](/publications/code-data/door-detection.rar)]   
 Xiaodong Yang, Ying-Li Tian, Chucai Yi, and Aries Arditi   
-ACM Multimedia (MM), 2010      
+ACM Multimedia, 2010      
 
 [Robust Door Detection in Unfamiliar Environments by Combining Edge and Corner Features](/publications/papers/cvprw10.pdf)   
 Xiaodong Yang, Ying-Li Tian   
