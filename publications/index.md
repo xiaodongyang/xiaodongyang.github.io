@@ -139,7 +139,7 @@ NIST TREC Video Retrieval Evaluation (TRECVID), 2013
 Carol Mazuera, Xiaodong Yang, Ying-Li Tian   
 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2013 (Oral)   
 
-[Toward A Computer Vision based Wayfinding Aid for Blind Persons to Access Unfamiliar Indoor Environment](/publications/papers/mva13.pdf)   
+[Toward A Computer Vision based Wayfinding Aid for Blind Persons to Access Unfamiliar Indoor Environments](/publications/papers/mva13.pdf)   
 Ying-Li Tian, Xiaodong Yang, Chucai Yi, Aries Arditi   
 Machine Vision and Applications (MVA), 2013   
 
@@ -173,7 +173,7 @@ IEEE Wireless and Optical Communication Conference (WOCC), 2011  
 
 **2010**
 
-[Context based Indoor Object Detection as an Aid to Blind Persons Accessing Unfamiliar Environment](/publications/papers/mm10.pdf) [[Data](/publications/code-data/door-detection.rar)]   
+[Context based Indoor Object Detection as an Aid to Blind Persons Accessing Unfamiliar Environments](/publications/papers/mm10.pdf) [[Data](/publications/code-data/door-detection.rar)]   
 Xiaodong Yang, Ying-Li Tian, Chucai Yi, and Aries Arditi   
 ACM Multimedia, 2010      
 
