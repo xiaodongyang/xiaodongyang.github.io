@@ -21,6 +21,10 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 (Oral)
 Sergey Tulyakov, Ming-Yu Liu, Xiaodong Yang, Jan Kautz   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018   
 
+[Budget-Aware Activity Detection with A Recurrent Policy Network](https://arxiv.org/abs/1712.00097)   
+Behrooz Mahasseni, Xiaodong Yang, Pavlo Molchanov, Jan Kautz   
+arXiv:1712.00097 
+
 [Video You Only Look Once: Overall Temporal Convolutions for Action Recognition](/publications/papers/jvci18.pdf)   
 Longlong Jing, Xiaodong Yang, Ying-Li Tian   
 Journal of Visual Communication and Image Representation (JVCI), 2018   
@@ -41,11 +45,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2017
 
 [3D Convolutional Neural Network with Multi-Model Framework for Action Recognition](/publications/papers/icip17.pdf)   
 Longlong Jing, Yuancheng Ye, Xiaodong Yang, Ying-Li Tian   
-IEEE International Conference on Image Processing (ICIP), 2017 (Oral)   
-
-[Budget-Aware Activity Detection with A Recurrent Policy Network](https://arxiv.org/abs/1712.00097)   
-Behrooz Mahasseni, Xiaodong Yang, Pavlo Molchanov, Jan Kautz   
-arXiv:1712.00097   
+IEEE International Conference on Image Processing (ICIP), 2017 (Oral)     
 
 **2016**
 
