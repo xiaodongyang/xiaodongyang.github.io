@@ -6,8 +6,6 @@ comments: no
 
 ## Honors and Awards
 
-First Place on Optical Flow Competition of Robust Vision Challenge, CVPR 2018
-
 Best Paper Award, Journal of Visual Communication and Image Representation, 2015
 
 First Place on TRECVID Semantic Localization, 2015
