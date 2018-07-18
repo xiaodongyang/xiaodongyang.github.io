@@ -21,9 +21,9 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 (Oral)
 Sergey Tulyakov, Ming-Yu Liu, Xiaodong Yang, Jan Kautz   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018   
 
-[Budget-Aware Activity Detection with A Recurrent Policy Network](https://arxiv.org/abs/1712.00097)   
+[Budget-Aware Activity Detection with A Recurrent Policy Network](/publications/papers/bmvc18.pdf) [[Supp](/publications/papers/supp-bmvc18.pdf)]  
 Behrooz Mahasseni, Xiaodong Yang, Pavlo Molchanov, Jan Kautz   
-arXiv:1712.00097 
+British Machine Vision Conference (BMVC), 2018 (Oral) 
 
 [Video You Only Look Once: Overall Temporal Convolutions for Action Recognition](/publications/papers/jvci18.pdf)   
 Longlong Jing, Xiaodong Yang, Ying-Li Tian   
