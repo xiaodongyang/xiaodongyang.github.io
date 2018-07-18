@@ -99,7 +99,7 @@ European Conference on Computer Vision (ECCV), 2014
 
 [Effective 3D Action Recognition Using EigenJoints](/publications/papers/jvci14.pdf)   
 Xiaodong Yang, Ying-Li Tian   
-Journal of Visual Communication and Image Representation (JVCI), 2014 (**Best Paper Award**)   
+Journal of Visual Communication and Image Representation (JVCI), 2014 (Best Paper Award)   
 
 [Scene Text Recognition in Multiple Frames based on Text Tracking](/publications/papers/icme14.pdf)   
 Xuejian Rong, Chucai Yi, Xiaodong Yang, Ying-Li Tian   
