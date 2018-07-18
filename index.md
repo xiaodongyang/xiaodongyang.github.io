@@ -7,6 +7,8 @@ Xiaodong Yang is a Senior Research Scientist at NVIDIA Research. His research in
 
 ## News
 
+> Our PWC-Net wins the first place on optical flow competition of [CVPR 2018 Robust Vision Challenge](http://www.robustvision.net/leaderboard.php?benchmark=flow)!
+
 > Three papers accepted by CVPR 2018 on visual sequence learning, optical flow estimation, and video generation. 
 
 > Our dynamic facial analysis work, part of NVIDIA AI Co-Pilot, featured in [NVIDIA Blog](https://devblogs.nvidia.com/parallelforall/ai-co-pilot-rnn-dynamic-facial-analysis/).
