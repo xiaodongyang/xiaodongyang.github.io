@@ -183,14 +183,14 @@ IEEE CVPR Workshop on Computer Vision Applications for Visually Impaired, 2010
 
 **Patents**
 
-[Hand Gesture based Region of Interest Localization](/publications/papers/9778750.pdf)   
-US9778750 Issued on Oct. 3, 2017   
-
 [Dynamic Hand Gesture based Region of Interest Localization](/publications/papers/9354711.pdf)   
 US9354711 Issued on May 31, 2016   
 
-[Fusing Multilayer and Multimodal Deep Neural Networks for Video Classification](/publications/papers/15-660719.pdf)   
-US Patent App. 15/660719, 2018   
+[Hand Gesture based Region of Interest Localization](/publications/papers/9778750.pdf)   
+US9778750 Issued on Oct. 3, 2017 
 
 [Online Detection and Classification of Dynamic Gestures with Recurrent Convolutional Neural Networks](/publications/papers/15-402128.pdf)   
-US Patent App. 15/402128, 2017   
+US Patent App. 15/402128, 2017  
+
+[Fusing Multilayer and Multimodal Deep Neural Networks for Video Classification](/publications/papers/15-660719.pdf)   
+US Patent App. 15/660719, 2018    
