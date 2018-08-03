@@ -31,25 +31,21 @@ Journal of Visual Communication and Image Representation (JVCI), 2018
 
 **2017**
 
-**Super Normal Vector for Human Activity Recognition with Depth Cameras**    
+**Super Normal Vector for Human Activity Recognition with Depth Cameras** [[Paper](/publications/papers/tpami17.pdf)] [[Code](https://github.com/xiaodongyang/SNV)]   
 Xiaodong Yang, Ying-Li Tian   
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2017     
-[[Paper](/publications/papers/tpami17.pdf)] [[Code](https://github.com/xiaodongyang/SNV)]    
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2017         
 
-**Dynamic Facial Analysis: From Bayesian Filtering to Recurrent Neural Network**    
+**Dynamic Facial Analysis: From Bayesian Filtering to Recurrent Neural Network** [[Paper](/publications/papers/cvpr17.pdf)] [[Blog](https://devblogs.nvidia.com/ai-co-pilot-rnn-dynamic-facial-analysis/)] [[Project](http://research.nvidia.com/publication/dynamic-facial-analysis-bayesian-filtering-recurrent-neural-networks)]   
 Jinwei Gu, Xiaodong Yang, Shalini De Mello, Jan Kautz   
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017      
-[[Paper](/publications/papers/cvpr17.pdf)] [[Blog](https://devblogs.nvidia.com/ai-co-pilot-rnn-dynamic-facial-analysis/)] [[Project](http://research.nvidia.com/publication/dynamic-facial-analysis-bayesian-filtering-recurrent-neural-networks)]    
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017          
 
-**Evaluation of Low-Level Features for Real-World Surveillance Event Detection**    
+**Evaluation of Low-Level Features for Real-World Surveillance Event Detection** [[Paper](/publications/papers/tcsvt17.pdf)] [[Code](https://github.com/xiaodongyang/ActionHOG)]    
 Yang Xian, Xuejian Rong, Xiaodong Yang, Ying-Li Tian   
-IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2017     
-[[Paper](/publications/papers/tcsvt17.pdf)] [[Code](https://github.com/xiaodongyang/ActionHOG)]    
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2017         
 
-**3D Convolutional Neural Network with Multi-Model Framework for Action Recognition**   
+**3D Convolutional Neural Network with Multi-Model Framework for Action Recognition** [[Paper](/publications/papers/icip17.pdf)]   
 Longlong Jing, Yuancheng Ye, Xiaodong Yang, Ying-Li Tian   
-IEEE International Conference on Image Processing (ICIP), 2017 (Oral)     
-[[Paper](/publications/papers/icip17.pdf)]     
+IEEE International Conference on Image Processing (ICIP), 2017 (Oral)          
 
 **2016**
 
