@@ -4,7 +4,7 @@ title: Publications
 comments: no
 ---
 
-My full publications can be found on [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en).
+My full publications can be found at [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en).
 <br>
 
 **2018**
