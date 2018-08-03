@@ -12,23 +12,27 @@ My full publications can be found at [Google Scholar](http://scholar.google.com/
 **Making Convolutional Networks Recurrent for Visual Sequence Learning**       
 Xiaodong Yang, Pavlo Molchanov, Jan Kautz   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018   
-[[Paper](/publications/papers/prernn-cvpr18.pdf)] [[Supp](/publications/papers/prernn-supp-cvpr18.pdf)]
+[[Paper](/publications/papers/prernn-cvpr18.pdf)] [[Supp](/publications/papers/prernn-supp-cvpr18.pdf)]     
 
-[PWC-Net: CNNs for Optical Flow using Pyramid, Warping and Cost Volume](/publications/papers/pwc-cvpr18.pdf) [[Code](https://github.com/NVlabs/PWC-Net)] [[Supp](/publications/papers/pwc-supp-cvpr18.pdf)] [[Project](http://research.nvidia.com/publication/2018-02_PWC-Net%3A-CNNs-for)]   
+**PWC-Net: CNNs for Optical Flow using Pyramid, Warping and Cost Volume**      
 Deqing Sun, Xiaodong Yang, Ming-Yu Liu, Jan Kautz   
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 (Oral)       
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 (Oral)   
+[[Paper](/publications/papers/pwc-cvpr18.pdf)] [[Code](https://github.com/NVlabs/PWC-Net)] [[Supp](/publications/papers/pwc-supp-cvpr18.pdf)] [[Project](http://research.nvidia.com/publication/2018-02_PWC-Net%3A-CNNs-for)]    
 
-[MoCoGAN: Decomposing Motion and Content for Video Generation](/publications/papers/mocogan-cvpr18.pdf) [[Project](https://github.com/sergeytulyakov/mocogan)]    
+**MoCoGAN: Decomposing Motion and Content for Video Generation**     
 Sergey Tulyakov, Ming-Yu Liu, Xiaodong Yang, Jan Kautz   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018   
+[[Paper](/publications/papers/mocogan-cvpr18.pdf)] [[Code](https://github.com/sergeytulyakov/mocogan)] [[Data](https://github.com/sergeytulyakov/mocogan)]        
 
-[Budget-Aware Activity Detection with A Recurrent Policy Network](/publications/papers/bmvc18.pdf) [[Supp](/publications/papers/supp-bmvc18.pdf)]  
+**Budget-Aware Activity Detection with A Recurrent Policy Network**    
 Behrooz Mahasseni, Xiaodong Yang, Pavlo Molchanov, Jan Kautz   
-British Machine Vision Conference (BMVC), 2018 (Oral) 
+British Machine Vision Conference (BMVC), 2018 (Oral)      
+[[Paper](/publications/papers/bmvc18.pdf)] [[Supp](/publications/papers/supp-bmvc18.pdf)]    
 
-[Video You Only Look Once: Overall Temporal Convolutions for Action Recognition](/publications/papers/jvci18.pdf)   
+**Video You Only Look Once: Overall Temporal Convolutions for Action Recognition**   
 Longlong Jing, Xiaodong Yang, Ying-Li Tian   
 Journal of Visual Communication and Image Representation (JVCI), 2018   
+[[Paper](/publications/papers/jvci18.pdf)]
 
 **2017**
 
