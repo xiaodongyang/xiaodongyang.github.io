@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications | Xiaodong Yang
+title: Publications
 comments: no
 ---
 
