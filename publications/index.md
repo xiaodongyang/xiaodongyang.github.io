@@ -9,7 +9,7 @@ My full publications can be found at [Google Scholar](http://scholar.google.com/
 
 **2018**
 
-Making Convolutional Networks Recurrent for Visual Sequence Learning       
+**Making Convolutional Networks Recurrent for Visual Sequence Learning**       
 Xiaodong Yang, Pavlo Molchanov, Jan Kautz   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018   
 [[Paper](/publications/papers/prernn-cvpr18.pdf)] [[Supp](/publications/papers/prernn-supp-cvpr18.pdf)]
