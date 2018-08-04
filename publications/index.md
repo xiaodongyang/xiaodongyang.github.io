@@ -35,7 +35,7 @@ Journal of Visual Communication and Image Representation (JVCI), 2018
 Xiaodong Yang, Ying-Li Tian   
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2017         
 
-[Dynamic Facial Analysis: From Bayesian Filtering to Recurrent Neural Network](/publications/papers/cvpr17.pdf) [[Project](http://research.nvidia.com/publication/dynamic-facial-analysis-bayesian-filtering-recurrent-neural-networks)] [[Blog](https://devblogs.nvidia.com/ai-co-pilot-rnn-dynamic-facial-analysis/)]   
+[Dynamic Facial Analysis: From Bayesian Filtering to Recurrent Neural Network](/publications/papers/cvpr17.pdf) [[Blog](https://devblogs.nvidia.com/ai-co-pilot-rnn-dynamic-facial-analysis/)] [[Project](http://research.nvidia.com/publication/dynamic-facial-analysis-bayesian-filtering-recurrent-neural-networks)]    
 Jinwei Gu, Xiaodong Yang, Shalini De Mello, Jan Kautz   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017          
 
