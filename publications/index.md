@@ -9,41 +9,41 @@ My full publications can be found at [Google Scholar](http://scholar.google.com/
 
 **2018**
 
-**Making Convolutional Networks Recurrent for Visual Sequence Learning** [[Paper](/publications/papers/prernn-cvpr18.pdf)] [[Supp](/publications/papers/prernn-supp-cvpr18.pdf)]       
+[[Making Convolutional Networks Recurrent for Visual Sequence Learning](/publications/papers/prernn-cvpr18.pdf)] [[Supp](/publications/papers/prernn-supp-cvpr18.pdf)]       
 Xiaodong Yang, Pavlo Molchanov, Jan Kautz   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018        
 
-**PWC-Net: CNNs for Optical Flow using Pyramid, Warping and Cost Volume** [[Paper](/publications/papers/pwc-cvpr18.pdf)] [[Code](https://github.com/NVlabs/PWC-Net)] [[Supp](/publications/papers/pwc-supp-cvpr18.pdf)] [[Project](http://research.nvidia.com/publication/2018-02_PWC-Net%3A-CNNs-for)]      
+[[PWC-Net: CNNs for Optical Flow using Pyramid, Warping and Cost Volume](/publications/papers/pwc-cvpr18.pdf)] [[Code](https://github.com/NVlabs/PWC-Net)] [[Supp](/publications/papers/pwc-supp-cvpr18.pdf)] [[Project](http://research.nvidia.com/publication/2018-02_PWC-Net%3A-CNNs-for)]      
 Deqing Sun, Xiaodong Yang, Ming-Yu Liu, Jan Kautz   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 (Oral)        
 
-**MoCoGAN: Decomposing Motion and Content for Video Generation** [[Paper](/publications/papers/mocogan-cvpr18.pdf)] [[Code](https://github.com/sergeytulyakov/mocogan)] [[Project](https://github.com/sergeytulyakov/mocogan)]     
+[[MoCoGAN: Decomposing Motion and Content for Video Generation](/publications/papers/mocogan-cvpr18.pdf)] [[Code](https://github.com/sergeytulyakov/mocogan)] [[Project](https://github.com/sergeytulyakov/mocogan)]     
 Sergey Tulyakov, Ming-Yu Liu, Xiaodong Yang, Jan Kautz   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018           
 
-**Budget-Aware Activity Detection with A Recurrent Policy Network** [[Paper](/publications/papers/bmvc18.pdf)] [[Supp](/publications/papers/supp-bmvc18.pdf)]    
+[[Budget-Aware Activity Detection with A Recurrent Policy Network](/publications/papers/bmvc18.pdf)] [[Supp](/publications/papers/supp-bmvc18.pdf)]    
 Behrooz Mahasseni, Xiaodong Yang, Pavlo Molchanov, Jan Kautz   
 British Machine Vision Conference (BMVC), 2018 (Oral)          
 
-**Video You Only Look Once: Overall Temporal Convolutions for Action Recognition** [[Paper](/publications/papers/jvci18.pdf)]   
+[[Video You Only Look Once: Overall Temporal Convolutions for Action Recognition](/publications/papers/jvci18.pdf)]   
 Longlong Jing, Xiaodong Yang, Ying-Li Tian   
 Journal of Visual Communication and Image Representation (JVCI), 2018   
 
 **2017**
 
-**Super Normal Vector for Human Activity Recognition with Depth Cameras** [[Paper](/publications/papers/tpami17.pdf)] [[Code](https://github.com/xiaodongyang/SNV)]   
+[[Super Normal Vector for Human Activity Recognition with Depth Cameras](/publications/papers/tpami17.pdf)] [[Code](https://github.com/xiaodongyang/SNV)]   
 Xiaodong Yang, Ying-Li Tian   
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2017         
 
-**Dynamic Facial Analysis: From Bayesian Filtering to Recurrent Neural Network** [[Paper](/publications/papers/cvpr17.pdf)] [[Project](http://research.nvidia.com/publication/dynamic-facial-analysis-bayesian-filtering-recurrent-neural-networks)]   
+[[Dynamic Facial Analysis: From Bayesian Filtering to Recurrent Neural Network](/publications/papers/cvpr17.pdf)] [[Project](http://research.nvidia.com/publication/dynamic-facial-analysis-bayesian-filtering-recurrent-neural-networks)]   
 Jinwei Gu, Xiaodong Yang, Shalini De Mello, Jan Kautz   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017          
 
-**Evaluation of Low-Level Features for Real-World Surveillance Event Detection** [[Paper](/publications/papers/tcsvt17.pdf)] [[Code](https://github.com/xiaodongyang/ActionHOG)]    
+[[Evaluation of Low-Level Features for Real-World Surveillance Event Detection](/publications/papers/tcsvt17.pdf)] [[Code](https://github.com/xiaodongyang/ActionHOG)]    
 Yang Xian, Xuejian Rong, Xiaodong Yang, Ying-Li Tian   
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2017         
 
-**3D Convolutional Neural Network with Multi-Model Framework for Action Recognition** [[Paper](/publications/papers/icip17.pdf)]   
+[[3D Convolutional Neural Network with Multi-Model Framework for Action Recognition](/publications/papers/icip17.pdf)]   
 Longlong Jing, Yuancheng Ye, Xiaodong Yang, Ying-Li Tian   
 IEEE International Conference on Image Processing (ICIP), 2017 (Oral)          
 
