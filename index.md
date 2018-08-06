@@ -21,4 +21,4 @@ Xiaodong Yang is a Senior Research Scientist at NVIDIA Research. His research in
 
 > One paper accepted by TPAMI on action recognition. 
 
-> [More Archived](/news)
+> [More](/news)
