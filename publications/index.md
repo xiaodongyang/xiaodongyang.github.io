@@ -29,7 +29,7 @@ British Machine Vision Conference (BMVC), 2018 (Oral)
 Longlong Jing, Xiaodong Yang, Ying-Li Tian   
 Journal of Visual Communication and Image Representation (JVCI), 2018   
 
-[Models Matter, So Does Training: An Empirical Study of CNNs for Optical Flow Estimation](/publications/papers/arxiv180905571.pdf)     
+[Models Matter, So Does Training: An Empirical Study of CNNs for Optical Flow Estimation](https://arxiv.org/abs/1809.05571)     
 Deqing Sun, Xiaodong Yang, Ming-Yu Liu, Jan Kautz     
 arXiv:1809.05571
 
