@@ -17,7 +17,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018
 Deqing Sun, Xiaodong Yang, Ming-Yu Liu, Jan Kautz   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 (Oral)        
 
-[MoCoGAN: Decomposing Motion and Content for Video Generation](/publications/papers/mocogan-cvpr18.pdf) [[Code](https://github.com/sergeytulyakov/mocogan)] [[Project](https://github.com/sergeytulyakov/mocogan)]     
+[MoCoGAN: Decomposing Motion and Content for Video Generation](/publications/papers/mocogan-cvpr18.pdf) [[Code](https://github.com/sergeytulyakov/mocogan)]      
 Sergey Tulyakov, Ming-Yu Liu, Xiaodong Yang, Jan Kautz   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018           
 
