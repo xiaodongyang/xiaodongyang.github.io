@@ -6,6 +6,8 @@ comments: no
 
 ## Honors and Awards
 
+First Place on Optical Flow Competition of CVPR18 Robust Vision Challenge, 2018
+
 Best Paper Award, Journal of Visual Communication and Image Representation, 2015
 
 First Place on TRECVID Semantic Localization, 2015
@@ -30,7 +32,7 @@ Research Intern at [AT&T Labs Research](http://www.research.att.com), Middletown
 
 ## Professional Services
 
-I am a reviewer for various conferences and journals including CVPR, ICCV, ECCV, NIPS, SIGGRAPH, SIGGRAPH Asia, TPAMI, IJCV, etc. 
+I am a reviewer for various conferences and journals including CVPR, ICCV, ECCV, NIPS, TPAMI, IJCV, SIGGRAPH, SIGGRAPH Asia, etc. 
 <br><br>
 
 ## Contact
