@@ -31,7 +31,7 @@ Journal of Visual Communication and Image Representation (JVCI), 2018
 
 [Models Matter, So Does Training: An Empirical Study of CNNs for Optical Flow Estimation](https://arxiv.org/abs/1809.05571)     
 Deqing Sun, Xiaodong Yang, Ming-Yu Liu, Jan Kautz     
-arXiv:1809.05571
+arXiv:1809.05571, 2018
 
 **2017**
 
