@@ -197,4 +197,7 @@ US9778750 Issued on Oct. 3, 2017
 US Patent App. 15/402128, 2017  
 
 [Fusing Multilayer and Multimodal Deep Neural Networks for Video Classification](/publications/papers/15-660719.pdf)   
-US Patent App. 15/660719, 2018    
+US Patent App. 15/660719, 2018   
+
+[System and Method for Content and Motion Controlled Action Video Generation](/publications/papers/15-939098.pdf)   
+US Patent App. 15/939098, 2018   
