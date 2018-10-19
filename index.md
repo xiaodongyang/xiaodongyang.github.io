@@ -17,7 +17,7 @@ Xiaodong Yang is a Senior Research Scientist at NVIDIA Research. His research in
 
 > Our paper on 3D action recognition wins [JVCI Best Paper Award](/publications/papers/jvci-best-paper-award.pdf)!
 
-> One full (oral) paper accepted by ACM Multimedia 2016 on video classification.
+> One full (oral) paper accepted by ACM Multimedia 2016 on video action recognition.
 
 > One paper accepted by TPAMI on action recognition. 
 
