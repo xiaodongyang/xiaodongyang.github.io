@@ -33,6 +33,10 @@ Journal of Visual Communication and Image Representation (JVCI), 2018
 Deqing Sun, Xiaodong Yang, Ming-Yu Liu, Jan Kautz     
 arXiv:1809.05571, 2018
 
+[Discovering Spatio-Temporal Action Tubes](https://arxiv.org/abs/1811.12248)     
+Yuancheng Ye, Xiaodong Yang, Ying-Li Tian   
+arXiv:1811.12248, 2018
+
 **2017**
 
 [Super Normal Vector for Human Activity Recognition with Depth Cameras](/publications/papers/tpami17.pdf) [[Code](https://github.com/xiaodongyang/SNV)]   
