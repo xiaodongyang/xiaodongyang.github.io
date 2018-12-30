@@ -197,8 +197,8 @@ US9354711 Issued on May 31, 2016
 [Hand Gesture based Region of Interest Localization](/publications/papers/9778750.pdf)   
 US9778750 Issued on Oct. 3, 2017 
 
-[Online Detection and Classification of Dynamic Gestures with Recurrent Convolutional Neural Networks](/publications/papers/15-402128.pdf)   
-US Patent App. 15/402128, 2017  
+[Online Detection and Classification of Dynamic Gestures with Recurrent Convolutional Neural Networks](/publications/papers/10157309.pdf)   
+US10157309 Issued on Dec. 18, 2018   
 
 [Fusing Multilayer and Multimodal Deep Neural Networks for Video Classification](/publications/papers/15-660719.pdf)   
 US Patent App. 15/660719, 2018   
