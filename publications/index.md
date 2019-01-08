@@ -203,8 +203,11 @@ US10157309 Issued on Dec. 18, 2018
 [Fusing Multilayer and Multimodal Deep Neural Networks for Video Classification](/publications/papers/15-660719.pdf)   
 US Patent App. 15/660719, 2018   
 
+[Transforming Convolutional Neural Networks for Visual Sequence Learning](/publications/papers/15-880472.pdf)   
+US Patent App. 15/880472, 2018
+
 [System and Method for Content and Motion Controlled Action Video Generation](/publications/papers/15-939098.pdf)   
 US Patent App. 15/939098, 2018   
 
 [System and Method for Optical Flow Estimation](/publications/papers/15-942213.pdf)   
-US Patent App. 15/942213, 2018   
+US Patent App. 15/942213, 2018
