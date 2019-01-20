@@ -9,6 +9,8 @@ Xiaodong Yang is a Senior Research Scientist at NVIDIA Research. His research in
 
 > Co-organizing the [AI City Challenge](https://www.aicitychallenge.org) at CVPR 2019. 
 
+> One paper accepted by TPAMI on optical flow estimation. 
+
 > Our PWC-Net wins the first place on the optical flow competition of [CVPR 2018 Robust Vision Challenge](http://www.robustvision.net/leaderboard.php?benchmark=flow)!
 
 > Three papers accepted by CVPR 2018 on recurrent networks, optical flow estimation, and video generation. 
@@ -20,7 +22,5 @@ Xiaodong Yang is a Senior Research Scientist at NVIDIA Research. His research in
 > Our paper on 3D action recognition wins [JVCI Best Paper Award](/publications/papers/jvci-best-paper-award.pdf)!
 
 > One full (oral) paper accepted by ACM Multimedia 2016 on video action recognition.
-
-> One paper accepted by TPAMI on action recognition. 
 
 > [More](/news)
