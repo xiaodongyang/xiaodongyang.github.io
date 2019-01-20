@@ -4,6 +4,8 @@ title: Archived News
 comments: no
 ---
 
+> One paper accepted by TPAMI on action recognition. 
+
 > One paper accepted by CVPR 2016 on dynamic hand gesture recognition.
 
 > Our team CCNY wins the first place on TRECVID Semantic Localization 2015.
