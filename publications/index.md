@@ -7,6 +7,16 @@ comments: no
 My full publications can be found at [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en).
 <br>
 
+**2019**
+
+[Models Matter, So Does Training: An Empirical Study of CNNs for Optical Flow Estimation](https://arxiv.org/abs/1809.05571)     
+Deqing Sun, Xiaodong Yang, Ming-Yu Liu, Jan Kautz     
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019   
+
+[Discovering Spatio-Temporal Action Tubes](/publications/papers/jvci19.pdf)     
+Yuancheng Ye, Xiaodong Yang, Ying-Li Tian   
+Journal of Visual Communication and Image Representation (JVCI), 2019   
+
 **2018**
 
 [Making Convolutional Networks Recurrent for Visual Sequence Learning](/publications/papers/prernn-cvpr18.pdf) [[Supp](/publications/papers/prernn-supp-cvpr18.pdf)]       
@@ -28,14 +38,6 @@ British Machine Vision Conference (BMVC), 2018 (Oral)
 [Video You Only Look Once: Overall Temporal Convolutions for Action Recognition](/publications/papers/jvci18.pdf)   
 Longlong Jing, Xiaodong Yang, Ying-Li Tian   
 Journal of Visual Communication and Image Representation (JVCI), 2018   
-
-[Models Matter, So Does Training: An Empirical Study of CNNs for Optical Flow Estimation](https://arxiv.org/abs/1809.05571)     
-Deqing Sun, Xiaodong Yang, Ming-Yu Liu, Jan Kautz     
-arXiv:1809.05571, 2018
-
-[Discovering Spatio-Temporal Action Tubes](https://arxiv.org/abs/1811.12248)     
-Yuancheng Ye, Xiaodong Yang, Ying-Li Tian   
-arXiv:1811.12248, 2018
 
 **2017**
 
