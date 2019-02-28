@@ -37,8 +37,6 @@ I am a reviewer for various conferences and journals including CVPR, ICCV, ECCV,
 
 ## Contact
 
-Tel: (408) 486-8614
-
 Email: xiaodongy -at- nvidia.com
 
-Office: 2701 San Tomas Expressway, Santa Clara, CA 95050
+Office: 2788 San Tomas Expressway, Santa Clara, CA 95051
