@@ -7,7 +7,7 @@ Xiaodong Yang is a Senior Research Scientist at NVIDIA Research. His research in
 
 ## News
 
-> Three papers accepted by CVPR 2019 on person re-id, action detection, and vehicle tracking and re-id. 
+> Three papers accepted by CVPR 2019 on person re-id, action detection, and multi-target multi-camera tracking. 
 
 > Co-organizing the [AI City Challenge](https://www.aicitychallenge.org) at CVPR 2019. 
 
