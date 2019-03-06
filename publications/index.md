@@ -9,15 +9,15 @@ My full publications can be found at [Google Scholar](http://scholar.google.com/
 
 **2019**
 
-Joint Discriminative and Generative Learning for Person Re-Identification    
+[Joint Discriminative and Generative Learning for Person Re-Identification](/publications/papers/)    
 Zhedong Zheng, Xiaodong Yang, Zhiding Yu, Liang Zheng, Yi Yang, Jan Kautz     
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019 (Oral)   
 
-STEP: Spatio-Temporal Progressive Learning for Video Action Detection     
+[STEP: Spatio-Temporal Progressive Learning for Video Action Detection](/publications/papers/)     
 Xitong Yang, Xiaodong Yang, Ming-Yu Liu, Fanyi Xiao, Larry Davis, Jan Kautz    
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019 (Oral)   
 
-CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification
+[CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification](/publications/papers/)
 Zheng Tang, Milind Naphade, Ming-Yu Liu, Xiaodong Yang, Stan Birchfield, Shuo Wang, Ratnesh Kumar, David Anastasiu, Jenq-Neng Hwang     
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019 (Oral)
 
