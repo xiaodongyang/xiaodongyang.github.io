@@ -4,6 +4,8 @@ title: Archived News
 comments: no
 ---
 
+> One full (oral) paper accepted by ACM Multimedia 2016 on video action recognition.
+
 > One paper accepted by TPAMI on action recognition. 
 
 > One paper accepted by CVPR 2016 on dynamic hand gesture recognition.
