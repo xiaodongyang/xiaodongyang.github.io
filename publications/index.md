@@ -10,7 +10,7 @@ My full publications can be found at [Google Scholar](http://scholar.google.com/
 **2019**
 
 Joint Discriminative and Generative Learning for Person Re-identification    
-Zhedong Zheng, Xiaodong Yang, Zhiding Yu, Liang Zheng, Yi Yang, Jan Kautz
+Zhedong Zheng, Xiaodong Yang, Zhiding Yu, Liang Zheng, Yi Yang, Jan Kautz     
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019 (Oral)   
 
 STEP: Spatio-Temporal Progressive Learning for Video Action Detection     
