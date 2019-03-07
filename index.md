@@ -3,9 +3,7 @@ layout: home
 avatar: yes
 ---
 
-<font size="4">Senior Research Scientist</font>    
-
-<font size="4">NVIDIA Research</font>        
+Xiaodong Yang is a Senior Research Scientist at NVIDIA Research. His research interests include computer vision, machine learning, deep learning, and multimedia. He has been working on image and video understanding, activity recognition and detection, face and gesture analytics, target re-identification, generative models for image and video generation and understanding, etc.        
 
 ## News
 
