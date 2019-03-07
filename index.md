@@ -3,8 +3,8 @@ layout: home
 avatar: yes
 ---
 
-<font size="4">Senior Research Scientist&nbsp
-Learning and Perception Research Group&nbsp
+<font size="4">Senior Research Scientist  
+Learning and Perception Research Group  
 NVIDIA Research</font>
 
 ## News
