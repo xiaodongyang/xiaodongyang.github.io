@@ -3,8 +3,8 @@ layout: home
 avatar: yes
 ---
 
-<font size="4">Senior Research Scientist    </font>
-<font size="4">NVIDIA Research    </font>    
+<font size="4">Senior Research Scientist</font>    
+<font size="4">NVIDIA Research</font>        
 
 ## News
 
