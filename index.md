@@ -3,9 +3,9 @@ layout: home
 avatar: yes
 ---
 
-### Senior Research Scientist
-### Learning and Perception Research Group
-### NVIDIA Research
+Senior Research Scientist
+Learning and Perception Research Group
+NVIDIA Research
 
 ## News
 
