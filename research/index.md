@@ -16,7 +16,7 @@ comments: no
 
 [ActionHOG](https://github.com/xiaodongyang/ActionHOG): C++ implementation of an efficient local spatio-temporal feature for activity recognition.    
 
-[DMM-HOG](/code/dmm-hog): MATLAB implementation of depth motion maps feature for human action and hand gesture recognition.    
+[DMM-HOG](/code/dmm-hog): MATLAB implementation of depth motion maps for action and gesture recognition.    
 <br>
 
 ## Dataset
