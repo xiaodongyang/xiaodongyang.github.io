@@ -8,6 +8,8 @@ comments: no
 
 [PWC-Net](https://github.com/NVlabs/PWC-Net): PyTorch and Caffe implementation of accurate and fast optical flow.  
 
+[MoCoGAN](https://github.com/sergeytulyakov/mocogan): PyTorch implementation for motion and content decomposed video generation.   
+
 [SNV](https://github.com/xiaodongyang/SNV): C++/MATLAB implementation of super normal vector for activity recognition.    
 
 [SSCV](https://github.com/xiaodongyang/SSCV): MATLAB implementation of super sparse coding vector for action recognition.    
