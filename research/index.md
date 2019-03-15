@@ -3,9 +3,7 @@ layout: page
 title: Research
 comments: no
 ---
-###    
-
-## Code
+## Code    
 
 [PWC-Net](https://github.com/NVlabs/PWC-Net): PyTorch and Caffe implementation of accurate and fast optical flow.  
 
