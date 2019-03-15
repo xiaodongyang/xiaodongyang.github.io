@@ -3,7 +3,7 @@ layout: page
 title: Research
 comments: no
 ---
-## Code    
+### Code    
 
 [PWC-Net](https://github.com/NVlabs/PWC-Net): PyTorch and Caffe implementation of accurate and fast optical flow.  
 
@@ -20,7 +20,7 @@ comments: no
 [DMM-HOG](/code/dmm-hog): MATLAB implementation of depth motion maps for action and gesture recognition.    
 <br>
 
-## Dataset
+### Datasets
 
 [SynHead](https://research.nvidia.com/publication/dynamic-facial-analysis-bayesian-filtering-recurrent-neural-networks) is a large-scale synthetic dataset for video-based head pose estimation with over 500K frames of 10 head models and 70 motion tracks.     
 
