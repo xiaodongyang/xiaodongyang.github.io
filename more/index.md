@@ -4,7 +4,7 @@ title: More
 comments: no
 ---
 
-## Honors and Awards
+### Honors and Awards
 
 First Place on Optical Flow Competition of CVPR18 Robust Vision Challenge, 2018
 
@@ -19,7 +19,7 @@ ACM Multimedia Travel Grant, 2011
 Special Recognition Award, Junior Scientist Conference, 2010
 <br><br>
 
-## Professional Experience
+### Professional Experience
 
 Senior Research Scientist at [NVIDIA Research](https://research.nvidia.com), Santa Clara, CA, from 04/2018
 
@@ -30,12 +30,12 @@ Research Intern at [Xerox PARC](http://www.parc.com), Webster, NY, 06/2014-08/20
 Research Intern at [AT&T Labs Research](http://www.research.att.com), Middletown, NJ, 06/2013-08/2013
 <br><br>
 
-## Professional Services
+### Professional Services
 
 I am a reviewer for various conferences and journals including CVPR, ICCV, ECCV, NIPS, TPAMI, IJCV, SIGGRAPH, SIGGRAPH Asia, etc. 
 <br><br>
 
-## Contact
+### Contact
 
 Email: xiaodongy -at- nvidia.com
 
