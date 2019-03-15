@@ -199,7 +199,7 @@ ACM Multimedia, 2010
 Xiaodong Yang, Ying-Li Tian   
 IEEE CVPR Workshop on Computer Vision Applications for Visually Impaired, 2010   
 
-**Patents**
+### Patents
 
 [Dynamic Hand Gesture based Region of Interest Localization](/publications/papers/9354711.pdf)   
 US9354711 Issued on May 31, 2016   
