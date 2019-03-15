@@ -197,7 +197,8 @@ ACM Multimedia, 2010
 
 [Robust Door Detection in Unfamiliar Environments by Combining Edge and Corner Features](/publications/papers/cvprw10.pdf)   
 Xiaodong Yang, Ying-Li Tian   
-IEEE CVPR Workshop on Computer Vision Applications for Visually Impaired, 2010   
+IEEE CVPR Workshop on Computer Vision Applications for Visually Impaired, 2010
+<br>
 
 ### Patents
 
