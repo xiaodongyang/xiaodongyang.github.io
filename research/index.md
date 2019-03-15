@@ -10,7 +10,7 @@ comments: no
 
 [SSCV](https://github.com/xiaodongyang/SSCV): MATLAB implementation of super sparse coding vector for action recognition.    
 
-[CascadeSVMs](https://github.com/xiaodongyang/CascadeSVMs): C++ implementation of our proposed CascadeSVMs algorithm to handle highly imbalanced large-scale data learning.    
+[CascadeSVMs](https://github.com/xiaodongyang/CascadeSVMs): C++ implementation of an algorithm to handle highly imbalanced large-scale data learning.    
 
 [ActionHOG](https://github.com/xiaodongyang/ActionHOG): C++ implementation of an efficient local spatio-temporal feature for activity recognition.    
 
