@@ -135,19 +135,11 @@ IEEE Transactions on Human-Machine Systems (THMS), 2014
 Yang Xian, Xuejian Rong, Xiaodong Yang, Ying-Li Tian   
 NIST TREC Video Retrieval Evaluation (TRECVID), 2014   
 
-[Polynormal Fisher Vector for Activity Recognition from Depth Sequences](/publications/papers/.pdf)   
-Xiaodong Yang, Ying-Li Tian     
-SIGGRAPH ASIA Workshop on Autonomous Virtual Humans and Social Robots, 2014   
-
 **2013**
 
 [Histogram of 3D Facets: A Characteristic Descriptor for Hand Gesture Recognition](/publications/papers/fg13.pdf)   
 Chenyang Zhang, Xiaodong Yang, Ying-Li Tian   
-IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2013 (Oral)   
-
-[Texture Representations Using Subspace Embeddings](/publications/papers/prl13.pdf)   
-Xiaodong Yang, Ying-Li Tian   
-Pattern Recognition Letters (PRL), 2013   
+IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2013 (Oral)    
 
 [Feature Representations for Scene Text Character Recognition: A Comparative Study](/publications/papers/icdar13.pdf)   
 Chucai Yi, Xiaodong Yang, Ying-Li Tian   
@@ -156,6 +148,10 @@ International Conference on Document Analysis and Recognition (ICDAR), 2013
 [AT&T Research at TRECVID 2013: Surveillance Event Detection](/publications/papers/trecvid13.pdf)   
 Xiaodong Yang, Zhu Liu, Eric Zavesky, David Gibbon, Behzad Shahraray, Ying-Li Tian   
 NIST TREC Video Retrieval Evaluation (TRECVID), 2013   
+
+[Texture Representations Using Subspace Embeddings](/publications/papers/prl13.pdf)   
+Xiaodong Yang, Ying-Li Tian   
+Pattern Recognition Letters (PRL), 2013  
 
 [Visual Speech Learning Using Dynamic Lip Movement based Video Segmentation and Comparison](/publications/papers/bibm13.pdf)   
 Carol Mazuera, Xiaodong Yang, Ying-Li Tian   
