@@ -6,7 +6,7 @@ comments: no
 
 ## Code
 
-[SNV](https://github.com/xiaodongyang/SNV): MATLAB/C++ implementation of super normal vector for activity recognition.    
+[SNV](https://github.com/xiaodongyang/SNV): C++/MATLAB implementation of super normal vector for activity recognition.    
 
 [SSCV](https://github.com/xiaodongyang/SSCV): MATLAB implementation of super sparse coding vector for action recognition.    
 
