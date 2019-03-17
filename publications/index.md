@@ -91,7 +91,7 @@ IEEE Intelligent Vehicles Symposium (IVS), 2016
 
 [Feature Representations for Human Activity Recognition in Color and Depth Sequences](/publications/papers/dissertation15.pdf)   
 Xiaodong Yang   
-Dissertation for Ph.D. Degree, 2015   
+Ph.D. Dissertation, 2015   
 
 [Discriminative Hierarchical K-Means Tree for Large-Scale Image Classification](/publications/papers/tnnls15.pdf)   
 Shizhi Chen, Xiaodong Yang, Ying-Li Tian   
