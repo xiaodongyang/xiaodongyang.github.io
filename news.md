@@ -4,6 +4,8 @@ title: Archived News
 comments: no
 ---
 
+> Our paper on 3D action recognition wins [JVCI Best Paper Award](/publications/papers/jvci-best-paper-award.pdf)!
+
 > One full (oral) paper accepted by ACM Multimedia 2016 on video action recognition.
 
 > One paper accepted by TPAMI on action recognition. 
