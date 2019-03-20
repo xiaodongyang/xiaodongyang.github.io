@@ -7,7 +7,7 @@ Xiaodong Yang is a Senior Research Scientist at NVIDIA Research. His research in
 
 ## News
 
-> Giving a tutorial on recurrent networks for video analytics at [GTC 2019](https://www.nvidia.com/en-us/gtc/).    
+> Giving a tutorial on recurrent neural networks for video analytics at [GTC 2019](https://www.nvidia.com/en-us/gtc/).    
 
 > Three papers accepted by CVPR 2019 on person re-id, action detection, and multi-target multi-camera tracking. 
 
