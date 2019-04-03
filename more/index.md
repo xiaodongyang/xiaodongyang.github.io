@@ -21,6 +21,8 @@ Special Recognition Award, Junior Scientist Conference, 2010
 
 ### Professional Experience
 
+See my curriculum vitae [here]().
+
 Senior Research Scientist at [NVIDIA Research](https://research.nvidia.com), Santa Clara, CA, from 04/2018
 
 Research Scientist at [NVIDIA Research](https://research.nvidia.com), Santa Clara, CA, 05/2015-03/2018
