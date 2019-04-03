@@ -22,14 +22,6 @@ Special Recognition Award, Junior Scientist Conference, 2010
 ### Professional Experience
 
 See my curriculum vitae [here](/publications/cv/).
-
-Senior Research Scientist at [NVIDIA Research](https://research.nvidia.com), Santa Clara, CA, from 04/2018
-
-Research Scientist at [NVIDIA Research](https://research.nvidia.com), Santa Clara, CA, 05/2015-03/2018
-
-Research Intern at [Xerox PARC](http://www.parc.com), Webster, NY, 06/2014-08/2014
-
-Research Intern at [AT&T Labs Research](http://www.research.att.com), Middletown, NJ, 06/2013-08/2013
 <br><br>
 
 ### Professional Services
