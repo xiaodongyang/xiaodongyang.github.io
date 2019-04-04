@@ -4,8 +4,7 @@ title: More
 comments: no
 ---
 
-### [CV](/publications/cv/).
-<br><br>
+### [CV](/publications/cv/)
 
 ### Honors and Awards
 
