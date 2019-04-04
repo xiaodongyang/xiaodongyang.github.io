@@ -4,7 +4,7 @@ title: More
 comments: no
 ---
 
-### [CV](/publications/cv/)
+See my curriculum vitae [here](/publications/cv/).    
 
 ### Honors and Awards
 
