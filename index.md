@@ -5,7 +5,7 @@ avatar: yes
 
 Xiaodong Yang is a Senior Research Scientist at NVIDIA Research. His research interests include computer vision, machine learning, deep learning, and multimedia. He has been working on image and video understanding, activity recognition and detection, face and gesture analytics, target re-identification, image and video generation, etc.        
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Email](mailto:xiaodongy@nvidia.com) / [CV](/publications/papers/cv.pdf) / [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;[Email](mailto:xiaodongy@nvidia.com) / [CV](/publications/papers/cv.pdf) / [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en)
 ## News
 
 > Giving a tutorial on recurrent neural networks for video analytics at [GTC 2019](https://www.nvidia.com/en-us/gtc/).    
