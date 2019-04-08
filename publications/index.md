@@ -17,7 +17,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019 (Oral)
 Xitong Yang, Xiaodong Yang, Ming-Yu Liu, Fanyi Xiao, Larry Davis, Jan Kautz    
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019 (Oral)   
 
-[CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification](/publications/papers/cityflow-cvpr19.pdf) [[Supp](/publications/papers/cityflow-supp-cvpr19.pdf)]    
+[CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification](/publications/papers/cityflow-cvpr19.pdf) [[Supp](/publications/papers/cityflow-supp-cvpr19.pdf)] [[Data](https://www.aicitychallenge.org)]    
 Zheng Tang, Milind Naphade, Ming-Yu Liu, Xiaodong Yang, Stan Birchfield, Shuo Wang, Ratnesh Kumar, David Anastasiu, Jenq-Neng Hwang     
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019 (Oral)
 
