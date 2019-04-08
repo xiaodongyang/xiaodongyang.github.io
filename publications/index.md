@@ -4,9 +4,6 @@ title: Publications
 comments: no
 ---
 
-My full publications can be found at [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en).
-<br>
-
 **2019**
 
 [Joint Discriminative and Generative Learning for Person Re-Identification](/publications/papers/dgnet-cvpr19.pdf) [[Supp](/publications/papers/dgnet-supp-cvpr19.pdf)]    
