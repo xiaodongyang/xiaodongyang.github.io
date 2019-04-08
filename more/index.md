@@ -33,10 +33,3 @@ Research Intern at [AT&T Labs Research](http://www.research.att.com), Middletown
 ### Professional Services
 
 I am a reviewer for various conferences and journals including CVPR, ICCV, ECCV, NeurIPS, TPAMI, IJCV, SIGGRAPH, SIGGRAPH Asia, and many more. 
-<br><br>
-
-### Contact
-
-Email: xiaodongy -at- nvidia.com
-
-Office: 2788 San Tomas Expressway, Santa Clara, CA 95051
