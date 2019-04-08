@@ -24,7 +24,7 @@ comments: no
 
 [AICity](https://www.aicitychallenge.org) is a city-scale benchmark for multi-target multi-camera vehicle tracking and re-identification. 
 
-[SynHead](https://research.nvidia.com/publication/dynamic-facial-analysis-bayesian-filtering-recurrent-neural-networks) is a large-scale synthetic dataset for video-based head pose estimation with over 500K frames of 10 head models and 70 motion tracks.     
+[SynHead](https://research.nvidia.com/publication/dynamic-facial-analysis-bayesian-filtering-recurrent-neural-networks) is a large-scale synthetic dataset for video-based head pose estimation.     
 
 [NVGesture](https://research.nvidia.com/publication/online-detection-and-classification-dynamic-hand-gestures-recurrent-3d-convolutional) is a multi-modal (color, depth, optical flow and stereo-IR) dataset for online detection and classification of dynamic hand gestures.    
 
