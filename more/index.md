@@ -4,8 +4,7 @@ title: More
 comments: no
 ---
 
-See my curriculum vitae [here](/publications/cv/).
-<br>
+[Email](mailto:xiaodongy@nvidia.com) / [CV](/publications/papers/cv.pdf) / [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en)
 
 ### Honors and Awards
 
