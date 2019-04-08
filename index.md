@@ -5,7 +5,7 @@ avatar: yes
 
 Xiaodong Yang is a Senior Research Scientist at NVIDIA Research. His research interests include computer vision, machine learning, deep learning, and multimedia. He has been working on image and video understanding, activity recognition and detection, face and gesture analytics, target re-identification, generative models for image and video generation and understanding, etc.        
 
-&nbsp &nbsp &nbsp &nbsp &nbsp[Email](mailto:xiaodongy@nvidia.com) / [CV](/publications/papers/cv.pdf) / [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en)
+[Email](mailto:xiaodongy@nvidia.com) / [CV](/publications/papers/cv.pdf) / [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en)
 
 ## News
 
