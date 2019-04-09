@@ -22,7 +22,7 @@ comments: no
 
 ### Datasets
 
-[AICity](https://www.aicitychallenge.org) is a city-scale benchmark for multi-target multi-camera vehicle tracking and re-identification. 
+[CityFlow](https://www.aicitychallenge.org) is a city-scale benchmark for multi-target multi-camera vehicle tracking and re-identification. 
 
 [SynHead](https://research.nvidia.com/publication/dynamic-facial-analysis-bayesian-filtering-recurrent-neural-networks) is a large-scale synthetic dataset for video-based head pose estimation.     
 
