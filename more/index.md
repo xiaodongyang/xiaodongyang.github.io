@@ -32,6 +32,6 @@ Research Intern at [AT&T Labs Research](http://www.research.att.com), Middletown
 
 ### Professional Services
 
-Organizer: AI City Challenge Workshop at CVPR 2019 
+Organizer: AI City Challenge Workshop at CVPR 2019    
 Tutorial: PreRNN and BandRNN for Video Understanding at GTC 2019    
 I review for various conferences and journals including CVPR, ICCV, ECCV, NeurIPS, TPAMI, IJCV, SIGGRAPH, SIGGRAPH Asia, and many more. 
