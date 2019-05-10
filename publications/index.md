@@ -7,7 +7,7 @@ comments: no
 **2019**
 
 [Joint Discriminative and Generative Learning for Person Re-Identification](/publications/papers/dgnet-cvpr19.pdf) [[Supp](/publications/papers/dgnet-supp-cvpr19.pdf)]    
-Zhedong Zheng, Xiaodong Yang, Zhiding Yu, Liang Zheng, Yi Yang, Jan Kautz     
+Z. Zheng, X. Yang, Z. Yu, L. Zheng, Y. Yang, J. Kautz     
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019 (Oral)   
 
 [STEP: Spatio-Temporal Progressive Learning for Video Action Detection](/publications/papers/step-cvpr19.pdf) [[Supp](/publications/papers/step-supp-cvpr19.pdf)]     
