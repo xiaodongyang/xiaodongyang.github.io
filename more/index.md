@@ -6,6 +6,8 @@ comments: no
 
 ### Honors and Awards
 
+CVPR Outstanding Reviewer, 2019
+
 First Place on Optical Flow Competition of CVPR18 Robust Vision Challenge, 2018
 
 Best Paper Award, Journal of Visual Communication and Image Representation, 2015
