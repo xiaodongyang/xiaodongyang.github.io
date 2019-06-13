@@ -221,3 +221,6 @@ US Patent App. 15/939098, 2018
 
 [System and Method for Optical Flow Estimation](/publications/papers/15-942213.pdf)   
 US Patent App. 15/942213, 2018
+
+[Budget-Aware Method for Detecting Activity in Video](/publications/papers/16-202703.pdf)   
+US Patent App. 16/202703, 2018
