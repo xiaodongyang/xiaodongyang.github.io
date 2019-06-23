@@ -9,6 +9,8 @@ Xiaodong Yang is a Senior Research Scientist at NVIDIA Research. His research in
 
 ## News
 
+> Recognized as an outstanding reviewer at CVPR 2019.    
+
 > Giving a tutorial on recurrent neural networks for video analytics at [GTC 2019](https://www.nvidia.com/en-us/gtc/).    
 
 > Three papers accepted by CVPR 2019 on person re-id, action detection, and multi-target multi-camera tracking. 
@@ -22,7 +24,5 @@ Xiaodong Yang is a Senior Research Scientist at NVIDIA Research. His research in
 > Three papers accepted by CVPR 2018 on recurrent networks, optical flow estimation, and video generation. 
 
 > Our dynamic facial analysis work, part of NVIDIA AI Co-Pilot, featured in [NVIDIA Blog](https://devblogs.nvidia.com/parallelforall/ai-co-pilot-rnn-dynamic-facial-analysis/).
-
-> One paper accepted by CVPR 2017 on face alignment and head pose estimation. 
 
 > [More](/news)
