@@ -207,11 +207,11 @@ US9778750 Issued on Oct. 3, 2017
 [Online Detection and Classification of Dynamic Gestures with Recurrent Convolutional Neural Networks](/publications/papers/10157309.pdf)   
 US10157309 Issued on Dec. 18, 2018   
 
-[Iterative Spatio-Temporal Action Detection in Video](/publications/papers/16-152303.pdf)      
-US Patent App. 16/152303, 2018  
-
 [Fusing Multilayer and Multimodal Deep Neural Networks for Video Classification](/publications/papers/15-660719.pdf)   
-US Patent App. 15/660719, 2018   
+US Patent App. 15/660719, 2017    
+
+[Systems and Methods for Dynamic Facial Analysis Using A Recurrent Neural Network](/publications/papers/15-836549.pdf)
+US Patent App. 15/836549, 2017    
 
 [Transforming Convolutional Neural Networks for Visual Sequence Learning](/publications/papers/15-880472.pdf)   
 US Patent App. 15/880472, 2018
@@ -221,6 +221,9 @@ US Patent App. 15/939098, 2018
 
 [System and Method for Optical Flow Estimation](/publications/papers/15-942213.pdf)   
 US Patent App. 15/942213, 2018
+
+[Iterative Spatio-Temporal Action Detection in Video](/publications/papers/16-152303.pdf)      
+US Patent App. 16/152303, 2018   
 
 [Budget-Aware Method for Detecting Activity in Video](/publications/papers/16-202703.pdf)   
 US Patent App. 16/202703, 2018
