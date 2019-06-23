@@ -72,7 +72,7 @@ IEEE International Conference on Image Processing (ICIP), 2017 (Oral)
 X. Yang, P. Molchanov, J. Kautz   
 ACM Multimedia, 2016 (Oral)   
 
-[Online Detection and Classification of Dynamic Hand Gestures with Recurrent 3D Convolutional Neural Networks](/publications/papers/cvpr16.pdf) [[Project](http://research.nvidia.com/publication/online-detection-and-classification-dynamic-hand-gestures-recurrent-3d-convolutional)]    
+[Online Detection and Classification of Dynamic Hand Gestures with Recurrent 3D Convolutional Neural Networks](/publications/papers/cvpr16.pdf) [[Data](https://docs.google.com/a/nvidia.com/forms/d/e/1FAIpQLSc7ZcohjasKVwKszhISAH7DHWi8ElounQd1oZwORkSFzrdKbg/viewform)] [[Project](http://research.nvidia.com/publication/online-detection-and-classification-dynamic-hand-gestures-recurrent-3d-convolutional)]    
 P. Molchanov, X. Yang, S. Gupta, K. Kim, S. Tyree, J. Kautz   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016      
 
