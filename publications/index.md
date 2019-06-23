@@ -210,7 +210,7 @@ US10157309 Issued on Dec. 18, 2018
 [Fusing Multilayer and Multimodal Deep Neural Networks for Video Classification](/publications/papers/15-660719.pdf)   
 US Patent App. 15/660719, 2017    
 
-[Systems and Methods for Dynamic Facial Analysis Using A Recurrent Neural Network](/publications/papers/15-836549.pdf)
+[Systems and Methods for Dynamic Facial Analysis Using A Recurrent Neural Network](/publications/papers/15-836549.pdf)    
 US Patent App. 15/836549, 2017    
 
 [Transforming Convolutional Neural Networks for Visual Sequence Learning](/publications/papers/15-880472.pdf)   
