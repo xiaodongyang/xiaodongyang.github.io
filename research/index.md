@@ -5,6 +5,8 @@ comments: no
 ---
 ### Code    
 
+[DG-Net](https://github.com/NVlabs/DG-Net): PyTorch implementation of joint discriminative and generative learning for person re-id.
+
 [PWC-Net](https://github.com/NVlabs/PWC-Net): PyTorch and Caffe implementation of accurate and fast optical flow.  
 
 [MoCoGAN](https://github.com/sergeytulyakov/mocogan): PyTorch implementation for motion and content decomposed video generation.   
