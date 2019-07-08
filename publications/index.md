@@ -6,7 +6,7 @@ comments: no
 
 **2019**
 
-[Joint Discriminative and Generative Learning for Person Re-Identification](/publications/papers/dgnet-cvpr19.pdf) [[Code](https://github.com/NVlabs/DG-Net)] [[Supp](/publications/papers/dgnet-supp-cvpr19.pdf)] [[Video](https://www.youtube.com/watch?v=ubCrEAIpQs4&t=3s)]    
+[Joint Discriminative and Generative Learning for Person Re-Identification](/publications/papers/dgnet-cvpr19.pdf) [[Code](https://github.com/NVlabs/DG-Net)] [[Video](https://www.youtube.com/watch?v=ubCrEAIpQs4&t=3s)] [[Supp](/publications/papers/dgnet-supp-cvpr19.pdf)]     
 Z. Zheng, X. Yang, Z. Yu, L. Zheng, Y. Yang, J. Kautz     
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019 (Oral)   
 
