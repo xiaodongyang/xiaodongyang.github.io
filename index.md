@@ -5,9 +5,11 @@ avatar: yes
 
 Xiaodong Yang is a Senior Research Scientist at NVIDIA Research. His research interests include computer vision, machine learning, deep learning, and multimedia. He has been working on image and video understanding, activity recognition and detection, face and gesture analytics, target re-identification, image and video generation, etc.        
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;[Email](mailto:yangxd.hust@gmail.com) / [CV](/publications/papers/cv.pdf) / [LinkedIn](https://www.linkedin.com/in/xiaodong-yang-79a44134/) / [GitHub](https://github.com/xiaodongyang) / [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;[Email](mailto:yangxd.hust@gmail.com) / [CV](/publications/papers/cv.pdf) / [LinkedIn](https://www.linkedin.com/in/xiaodong-yang-79a44134/) / [Google Scholar](http://scholar.google.com/citations?user=yWsMg_gAAAAJ&hl=en)
 
 ## News
+
+> Two papers accepted by ICCV 2019 on video object detection and vehicle re-id. 
 
 > Recognized as an outstanding reviewer at CVPR 2019.    
 
@@ -22,7 +24,5 @@ Xiaodong Yang is a Senior Research Scientist at NVIDIA Research. His research in
 > Our PWC-Net wins the first place on the optical flow competition of [CVPR 2018 Robust Vision Challenge](http://www.robustvision.net/leaderboard.php?benchmark=flow)!
 
 > Three papers accepted by CVPR 2018 on recurrent networks, optical flow estimation, and video generation. 
-
-> Our dynamic facial analysis work, part of NVIDIA AI Co-Pilot, featured in [NVIDIA Blog](https://devblogs.nvidia.com/parallelforall/ai-co-pilot-rnn-dynamic-facial-analysis/).
 
 > [More](/news)
