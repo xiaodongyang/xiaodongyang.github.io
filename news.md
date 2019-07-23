@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archived News
+title: News
 comments: no
 ---
 
