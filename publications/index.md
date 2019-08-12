@@ -207,11 +207,11 @@ US9778750 Issued on Oct. 3, 2017
 [Online Detection and Classification of Dynamic Gestures with Recurrent Convolutional Neural Networks](/publications/papers/10157309.pdf)   
 US10157309 Issued on Dec. 18, 2018   
 
-[Fusing Multilayer and Multimodal Deep Neural Networks for Video Classification](/publications/papers/15-660719.pdf)   
-US Patent App. 15/660719, 2017    
+[Systems and Methods for Dynamic Facial Analysis Using A Recurrent Neural Network](/publications/papers/10373332.pdf)    
+US10373332 Issued on Aug. 6, 2019   
 
-[Systems and Methods for Dynamic Facial Analysis Using A Recurrent Neural Network](/publications/papers/15-836549.pdf)    
-US Patent App. 15/836549, 2017    
+[Fusing Multilayer and Multimodal Deep Neural Networks for Video Classification](/publications/papers/15-660719.pdf)   
+US Patent App. 15/660719, 2017     
 
 [Transforming Convolutional Neural Networks for Visual Sequence Learning](/publications/papers/15-880472.pdf)   
 US Patent App. 15/880472, 2018
