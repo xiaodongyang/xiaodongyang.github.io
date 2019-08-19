@@ -13,15 +13,15 @@ comments: no
 
 [MoCoGAN](https://github.com/sergeytulyakov/mocogan): PyTorch implementation for motion and content decomposed video generation.   
 
-[SNV](https://github.com/xiaodongyang/SNV): C++/MATLAB implementation of super normal vector for activity recognition.    
+[SNV](https://github.com/xiaodongyang/SNV): C++/Matlab implementation of super normal vector for activity recognition.    
 
-[SSCV](https://github.com/xiaodongyang/SSCV): MATLAB implementation of super sparse coding vector for action recognition.    
+[SSCV](https://github.com/xiaodongyang/SSCV): Matlab implementation of super sparse coding vector for action recognition.    
 
 [CascadeSVMs](https://github.com/xiaodongyang/CascadeSVMs): C++ implementation of an algorithm to handle highly imbalanced large-scale data learning.    
 
 [ActionHOG](https://github.com/xiaodongyang/ActionHOG): C++ implementation of an efficient local spatio-temporal feature for activity recognition.    
 
-[DMM-HOG](/code/dmm-hog): MATLAB implementation of depth motion maps for action and gesture recognition.    
+[DMM-HOG](/code/dmm-hog): Matlab implementation of depth motion maps for action and gesture recognition.    
 <br>
 
 ### Datasets
