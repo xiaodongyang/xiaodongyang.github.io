@@ -18,6 +18,14 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019 (Oral)
 Z. Tang, M. Naphade, M.-Y. Liu, X. Yang, S. Birchfield, S. Wang, R. Kumar, D. Anastasiu, J.-N. Hwang     
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019 (Oral)
 
+[A Delay Metric for Video Object Detection: What Average Precision Fails to Tell](/publications/papers/average-delay-iccv19.pdf)    
+H. Mao, X. Yang, W. Dally    
+IEEE International Conference in Computer Vision (ICCV), 2019    
+
+[PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data](/publications/papers/pamtri-iccv19.pdf)    
+Z. Tang, M. Naphade, S. Birchfield, J. Tremblay, W. Hodge, R. Kumar, S. Wang, X Yang    
+IEEE International Conference in Computer Vision (ICCV), 2019    
+
 [Models Matter, So Does Training: An Empirical Study of CNNs for Optical Flow Estimation](https://arxiv.org/abs/1809.05571) [[Code](https://github.com/NVlabs/PWC-Net)]     
 D. Sun, X. Yang, M.-Y. Liu, J. Kautz     
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019   
