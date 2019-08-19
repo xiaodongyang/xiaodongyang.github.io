@@ -36,13 +36,13 @@ Journal of Visual Communication and Image Representation (JVCI), 2019
 
 **2018**
 
-[Making Convolutional Networks Recurrent for Visual Sequence Learning](/publications/papers/prernn-cvpr18.pdf) [[Supp](/publications/papers/prernn-supp-cvpr18.pdf)]       
-X. Yang, P. Molchanov, J. Kautz   
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018        
-
 [PWC-Net: CNNs for Optical Flow using Pyramid, Warping and Cost Volume](/publications/papers/pwc-cvpr18.pdf) [[Code](https://github.com/NVlabs/PWC-Net)] [[Supp](/publications/papers/pwc-supp-cvpr18.pdf)] [[Project](http://research.nvidia.com/publication/2018-02_PWC-Net%3A-CNNs-for)]      
 D. Sun, X. Yang, M.-Y. Liu, J. Kautz   
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 (Oral)        
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 (Oral)  
+
+[Making Convolutional Networks Recurrent for Visual Sequence Learning](/publications/papers/prernn-cvpr18.pdf) [[Supp](/publications/papers/prernn-supp-cvpr18.pdf)]       
+X. Yang, P. Molchanov, J. Kautz   
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018              
 
 [MoCoGAN: Decomposing Motion and Content for Video Generation](/publications/papers/mocogan-cvpr18.pdf) [[Code](https://github.com/sergeytulyakov/mocogan)]      
 S. Tulyakov, M.-Y. Liu, X. Yang, J. Kautz   
