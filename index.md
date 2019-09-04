@@ -9,6 +9,8 @@ Xiaodong Yang is a Senior Research Scientist at NVIDIA Research. His research in
 
 ## News
 
+> One paper accepted by NeurIPS 2019 on music to dance generation. 
+
 > Two papers accepted by ICCV 2019 on video object detection and vehicle re-id. 
 
 > Recognized as an outstanding reviewer at CVPR 2019.    
