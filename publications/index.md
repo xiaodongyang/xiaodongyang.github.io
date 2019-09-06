@@ -6,6 +6,10 @@ comments: no
 
 **2019**
 
+[Dance to Music](/publications/papers/)     
+H.-Y. Lee, X. Yang, M.-Y. Liu, T.-C. Wang, Y.-D. Lu, M.-H. Yang, J. Kautz         
+Neural Information Processing Systems (NeurIPS), 2019    
+
 [Joint Discriminative and Generative Learning for Person Re-Identification](/publications/papers/dgnet-cvpr19.pdf) [[Code](https://github.com/NVlabs/DG-Net)] [[Video](https://www.youtube.com/watch?v=ubCrEAIpQs4&t=3s)] [[Supp](/publications/papers/dgnet-supp-cvpr19.pdf)]     
 Z. Zheng, X. Yang, Z. Yu, L. Zheng, Y. Yang, J. Kautz     
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019 (Oral)   
@@ -16,11 +20,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019 (Oral)
 
 [CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification](/publications/papers/cityflow-cvpr19.pdf) [[Supp](/publications/papers/cityflow-supp-cvpr19.pdf)] [[Data](https://www.aicitychallenge.org)]    
 Z. Tang, M. Naphade, M.-Y. Liu, X. Yang, S. Birchfield, S. Wang, R. Kumar, D. Anastasiu, J.-N. Hwang     
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019 (Oral)
-
-[Dance to Music](/publications/papers/)     
-H.-Y. Lee, X. Yang, M.-Y. Liu, T.-C. Wang, Y.-D. Lu, M.-H. Yang, J. Kautz         
-Neural Information Processing Systems (NeurIPS), 2019   
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019 (Oral)  
 
 [A Delay Metric for Video Object Detection: What Average Precision Fails to Tell](/publications/papers/average-delay-iccv19.pdf) [[Code](https://github.com/RalphMao/VMetrics)]    
 H. Mao, X. Yang, W. Dally    
@@ -40,13 +40,13 @@ Journal of Visual Communication and Image Representation (JVCI), 2019
 
 **2018**
 
-[PWC-Net: CNNs for Optical Flow using Pyramid, Warping and Cost Volume](/publications/papers/pwc-cvpr18.pdf) [[Code](https://github.com/NVlabs/PWC-Net)] [[Supp](/publications/papers/pwc-supp-cvpr18.pdf)] [[Project](http://research.nvidia.com/publication/2018-02_PWC-Net%3A-CNNs-for)]      
-D. Sun, X. Yang, M.-Y. Liu, J. Kautz   
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 (Oral)  
-
 [Making Convolutional Networks Recurrent for Visual Sequence Learning](/publications/papers/prernn-cvpr18.pdf) [[Supp](/publications/papers/prernn-supp-cvpr18.pdf)]       
 X. Yang, P. Molchanov, J. Kautz   
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018              
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018    
+
+[PWC-Net: CNNs for Optical Flow using Pyramid, Warping and Cost Volume](/publications/papers/pwc-cvpr18.pdf) [[Code](https://github.com/NVlabs/PWC-Net)] [[Supp](/publications/papers/pwc-supp-cvpr18.pdf)] [[Project](http://research.nvidia.com/publication/2018-02_PWC-Net%3A-CNNs-for)]      
+D. Sun, X. Yang, M.-Y. Liu, J. Kautz   
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 (Oral)               
 
 [MoCoGAN: Decomposing Motion and Content for Video Generation](/publications/papers/mocogan-cvpr18.pdf) [[Code](https://github.com/sergeytulyakov/mocogan)]      
 S. Tulyakov, M.-Y. Liu, X. Yang, J. Kautz   
