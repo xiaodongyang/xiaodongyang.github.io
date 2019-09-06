@@ -18,7 +18,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019 (Oral)
 Z. Tang, M. Naphade, M.-Y. Liu, X. Yang, S. Birchfield, S. Wang, R. Kumar, D. Anastasiu, J.-N. Hwang     
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019 (Oral)
 
-Dance to Music     
+[Dance to Music](/publications/papers/)     
 H.-Y. Lee, X. Yang, M.-Y. Liu, T.-C. Wang, Y.-D. Lu, M.-H. Yang, J. Kautz         
 Neural Information Processing Systems (NeurIPS), 2019   
 
