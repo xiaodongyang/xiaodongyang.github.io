@@ -27,7 +27,7 @@ H. Mao, X. Yang, W. Dally
 IEEE International Conference in Computer Vision (ICCV), 2019    
 
 [PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Randomized Synthetic Data](/publications/papers/pamtri-iccv19.pdf)    
-Z. Tang, M. Naphade, S. Birchfield, J. Tremblay, W. Hodge, R. Kumar, S. Wang, X Yang    
+Z. Tang, M. Naphade, S. Birchfield, J. Tremblay, W. Hodge, R. Kumar, S. Wang, X. Yang    
 IEEE International Conference in Computer Vision (ICCV), 2019    
 
 [Models Matter, So Does Training: An Empirical Study of CNNs for Optical Flow Estimation](https://arxiv.org/abs/1809.05571) [[Code](https://github.com/NVlabs/PWC-Net)]     
