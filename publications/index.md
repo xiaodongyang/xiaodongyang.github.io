@@ -14,7 +14,7 @@ Neural Information Processing Systems (NeurIPS), 2019
 Z. Zheng, X. Yang, Z. Yu, L. Zheng, Y. Yang, J. Kautz     
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019 (Oral)   
 
-[STEP: Spatio-Temporal Progressive Learning for Video Action Detection](/publications/papers/step-cvpr19.pdf) [[Code]](https://github.com/NVlabs/STEP) [[Supp](/publications/papers/step-supp-cvpr19.pdf)]     
+[STEP: Spatio-Temporal Progressive Learning for Video Action Detection](/publications/papers/step-cvpr19.pdf) [[Code](https://github.com/NVlabs/STEP)] [[Supp](/publications/papers/step-supp-cvpr19.pdf)]     
 X. Yang, X. Yang, M.-Y. Liu, F. Xiao, L. Davis, J. Kautz    
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019 (Oral)   
 
