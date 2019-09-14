@@ -5,25 +5,25 @@ comments: no
 ---
 ### Code    
 
-[DG-Net](https://github.com/NVlabs/DG-Net): PyTorch implementation of joint discriminative and generative learning for person re-id.
+[DG-Net](https://github.com/NVlabs/DG-Net): PyTorch implementation of joint discriminative and generative learning for person re-id
 
-[STEP](https://github.com/NVlabs/STEP): PyTorch implementation of a fully end-to-end action detector with no need on extra person detection.  
+[STEP](https://github.com/NVlabs/STEP): PyTorch implementation of a fully end-to-end action detector with no need on extra person detection
 
-[AD](https://github.com/RalphMao/VMetrics): Python implementation of a delay metric to measure video object detection delay.  
+[AD](https://github.com/RalphMao/VMetrics): Python implementation of a delay metric to measure video object detection delay  
 
-[PWC-Net](https://github.com/NVlabs/PWC-Net): PyTorch and Caffe implementation of accurate and fast optical flow.  
+[PWC-Net](https://github.com/NVlabs/PWC-Net): PyTorch and Caffe implementation of accurate and fast optical flow  
 
-[MoCoGAN](https://github.com/sergeytulyakov/mocogan): PyTorch implementation for motion and content decomposed video generation.   
+[MoCoGAN](https://github.com/sergeytulyakov/mocogan): PyTorch implementation for motion and content decomposed video generation   
 
-[SNV](https://github.com/xiaodongyang/SNV): C++/Matlab implementation of super normal vector for activity recognition.    
+[SNV](https://github.com/xiaodongyang/SNV): C++/Matlab implementation of super normal vector for activity recognition    
 
-[SSCV](https://github.com/xiaodongyang/SSCV): Matlab implementation of super sparse coding vector for action recognition.    
+[SSCV](https://github.com/xiaodongyang/SSCV): Matlab implementation of super sparse coding vector for action recognition    
 
-[CascadeSVMs](https://github.com/xiaodongyang/CascadeSVMs): C++ implementation of an algorithm to handle highly imbalanced large-scale data learning.    
+[CascadeSVMs](https://github.com/xiaodongyang/CascadeSVMs): C++ implementation of an algorithm to handle highly imbalanced large-scale data learning    
 
-[ActionHOG](https://github.com/xiaodongyang/ActionHOG): C++ implementation of an efficient local spatio-temporal feature for activity recognition.    
+[ActionHOG](https://github.com/xiaodongyang/ActionHOG): C++ implementation of an efficient local spatio-temporal feature for activity recognition    
 
-[DMM-HOG](/code/dmm-hog): Matlab implementation of depth motion maps for action and gesture recognition.    
+[DMM-HOG](/code/dmm-hog): Matlab implementation of depth motion maps for action and gesture recognition    
 <br>
 
 ### Datasets
