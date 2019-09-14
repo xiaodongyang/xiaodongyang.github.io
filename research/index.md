@@ -7,7 +7,7 @@ comments: no
 
 [DG-Net](https://github.com/NVlabs/DG-Net): PyTorch implementation of joint discriminative and generative learning for person re-id.
 
-[STEP](https://github.com/NVlabs/STEP): PyTorch implementation of a fully end-to-end action detector without relying on an extra person detector.  
+[STEP](https://github.com/NVlabs/STEP): PyTorch implementation of a fully end-to-end action detector without relying on extra person detection.  
 
 [AD](https://github.com/RalphMao/VMetrics): Python implementation of a delay metric to measure video object detection delay.  
 
