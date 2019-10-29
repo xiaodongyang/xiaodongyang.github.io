@@ -32,7 +32,9 @@ Research Intern at [Xerox PARC](http://www.parc.com), Webster, NY, 06/2014-08/20
 Research Intern at [AT&T Labs Research](http://www.research.att.com), Middletown, NJ, 06/2013-08/2013
 <br><br>
 
-### Professional Services
+### Professional Service
+
+Talk: Temporal Modeling and Data Synthesis for Visual Understanding at [CMU VASC Seminar](https://www.ri.cmu.edu/event/temporal-modeling-and-data-synthesis-for-visual-understanding/)
 
 Organizer: [AI City Challenge](https://www.aicitychallenge.org) at CVPR 2019    
 
