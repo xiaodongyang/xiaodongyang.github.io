@@ -6,7 +6,7 @@ comments: no
 
 **2019**
 
-[Dance to Music](/publications/papers/)     
+[Dance to Music](/publications/papers/dance2music-neurips19.pdf) [[Code](https://github.com/NVlabs/Dance2Music)] [[Data](https://github.com/NVlabs/Dance2Music)] [[Supp](/publications/papers/dance2music-supp-neurips19.pdf)]     
 H.-Y. Lee, X. Yang, M.-Y. Liu, T.-C. Wang, Y.-D. Lu, M.-H. Yang, J. Kautz         
 Neural Information Processing Systems (NeurIPS), 2019    
 
