@@ -226,7 +226,10 @@ US10373332 Issued on Aug. 6, 2019
 US10402697 Issued on Sep. 3, 2019     
 
 [System and Method for Optical Flow Estimation](/publications/papers/10424069.pdf)   
-US10424069 Issued on Sep. 24, 2019    
+US10424069 Issued on Sep. 24, 2019  
+
+[System and Method for Optical Flow Estimation](/publications/papers/10467763.pdf)   
+US10467763 Issued on Nov. 5, 2019  
 
 [Transforming Convolutional Neural Networks for Visual Sequence Learning](/publications/papers/15-880472.pdf)   
 US Patent App. 15/880472, 2018
