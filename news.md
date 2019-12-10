@@ -4,7 +4,7 @@ title: News
 comments: no
 ---
 
-> Our dynamic facial analysis work, part of NVIDIA AI Co-Pilot, featured in [NVIDIA Blog](https://devblogs.nvidia.com/parallelforall/ai-co-pilot-rnn-dynamic-facial-analysis/).
+> Our dynamic facial analysis work, part of NVIDIA AI Co-Pilot, is featured in [NVIDIA Blog](https://devblogs.nvidia.com/parallelforall/ai-co-pilot-rnn-dynamic-facial-analysis/).
 
 > One paper accepted by CVPR 2017 on face alignment and head pose estimation. 
 
