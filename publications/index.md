@@ -231,11 +231,11 @@ US10424069 Issued on Sep. 24, 2019
 [System and Method for Optical Flow Estimation](/publications/papers/10467763.pdf)   
 US10467763 Issued on Nov. 5, 2019  
 
+[System and Method for Content and Motion Controlled Action Video Generation](/publications/papers/10595039.pdf)   
+US10595039 Issued on Mar. 17, 2020   
+
 [Transforming Convolutional Neural Networks for Visual Sequence Learning](/publications/papers/15-880472.pdf)   
 US Patent App. 15/880472, 2018
-
-[System and Method for Content and Motion Controlled Action Video Generation](/publications/papers/15-939098.pdf)   
-US Patent App. 15/939098, 2018   
 
 [Iterative Spatio-Temporal Action Detection in Video](/publications/papers/16-152303.pdf)      
 US Patent App. 16/152303, 2018   
