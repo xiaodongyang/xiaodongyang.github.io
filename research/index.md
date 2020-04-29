@@ -5,6 +5,8 @@ comments: no
 ---
 ### Code    
 
+[Dancing2Music](https://github.com/NVlabs/Dancing2Music): PyTorch implementation of a cross-modality generative model that synthesizes dance from music
+
 [DG-Net](https://github.com/NVlabs/DG-Net): PyTorch implementation of joint discriminative and generative learning for person re-id
 
 [STEP](https://github.com/NVlabs/STEP): PyTorch implementation of a fully end-to-end action detector with no need on extra person detection
