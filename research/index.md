@@ -30,7 +30,7 @@ comments: no
 [DMM-HOG](/code/dmm-hog): Matlab implementation of depth motion maps for action and gesture recognition    
 <br>
 
-### Datasets
+### Data
 
 [CityFlow](https://www.aicitychallenge.org) is a city-scale benchmark for multi-target multi-camera vehicle tracking and re-identification. 
 
