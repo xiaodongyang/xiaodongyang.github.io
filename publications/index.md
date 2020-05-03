@@ -26,7 +26,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019 (Oral)
 H. Mao, X. Yang, W. Dally    
 IEEE International Conference in Computer Vision (ICCV), 2019    
 
-[PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Randomized Synthetic Data](/publications/papers/pamtri-iccv19.pdf)    
+[PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Randomized Synthetic Data](/publications/papers/pamtri-iccv19.pdf) [[Code](https://github.com/NVlabs/PAMTRI)]    
 Z. Tang, M. Naphade, S. Birchfield, J. Tremblay, W. Hodge, R. Kumar, S. Wang, X. Yang    
 IEEE International Conference in Computer Vision (ICCV), 2019    
 
