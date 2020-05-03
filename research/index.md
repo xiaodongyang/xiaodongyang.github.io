@@ -11,6 +11,8 @@ comments: no
 
 [STEP](https://github.com/NVlabs/STEP): PyTorch implementation of a fully end-to-end action detector with no need on extra person detection
 
+[PAMTRI](https://github.com/NVlabs/PAMTRI): PyTorch implementation of multi-task learning for vehicle re-id using randomized synthetic data 
+
 [AD](https://github.com/RalphMao/VMetrics): Python implementation of a delay metric to measure video object detection delay  
 
 [PWC-Net](https://github.com/NVlabs/PWC-Net): PyTorch and Caffe implementation of accurate and fast optical flow  
