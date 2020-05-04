@@ -38,7 +38,7 @@ Research Intern at [AT&T Labs Research](http://www.research.att.com), Middletown
 
 Talk: Temporal Modeling and Data Synthesis for Visual Understanding at [CMU VASC Seminar](https://www.ri.cmu.edu/event/temporal-modeling-and-data-synthesis-for-visual-understanding/)
 
-Organizer: [AI City Challenge](https://www.aicitychallenge.org) at CVPR 2019    
+Organizer: [AI City Challenge](https://www.aicitychallenge.org) at CVPR 2019, 2020    
 
 Tutorial: [PreRNN and BandRNN for Video Understanding](/publications/papers/tutorial-gtc19.pdf) at GTC 2019    
 
