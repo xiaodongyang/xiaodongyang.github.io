@@ -6,6 +6,8 @@ comments: no
 
 ### Honors and Awards
 
+AI2000 Most Influential Scholar Honorable Mention, 2020
+
 CVPR Outstanding Reviewer, 2019
 
 First Place on Optical Flow Competition of CVPR18 Robust Vision Challenge, 2018
