@@ -36,7 +36,7 @@ Research Intern at [AT&T Labs Research](http://www.research.att.com), Middletown
 
 ### Professional Services
 
-Talk: [CMU VASC Seminar](https://www.ri.cmu.edu/event/temporal-modeling-and-data-synthesis-for-visual-understanding/), Tsinghua University, Peking University, CAS Institute of Computing Technology, CAS Institute of Automation, CAS Institute of Information Engineering    
+Talk: [CMU](https://www.ri.cmu.edu/event/temporal-modeling-and-data-synthesis-for-visual-understanding/), Tsinghua University, Peking University, CAS Institute of Computing Technology, CAS Institute of Automation, CAS Institute of Information Engineering    
 
 Organizer: [AI City Challenge](https://www.aicitychallenge.org) at CVPR 2019, 2020    
 
