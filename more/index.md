@@ -36,10 +36,10 @@ Research Intern at [AT&T Labs Research](http://www.research.att.com), Middletown
 
 ### Professional Services
 
-Talk: [CMU](https://www.ri.cmu.edu/event/temporal-modeling-and-data-synthesis-for-visual-understanding/), Tsinghua University, Peking University, CAS Institute of Computing Technology, CAS Institute of Automation, CAS Institute of Information Engineering    
+**Talk:** [CMU](https://www.ri.cmu.edu/event/temporal-modeling-and-data-synthesis-for-visual-understanding/), Tsinghua University, Peking University, CAS Institute of Computing Technology, CAS Institute of Automation, CAS Institute of Information Engineering    
 
-Organizer: [AI City Challenge](https://www.aicitychallenge.org) at CVPR 2019, 2020    
+**Organizer:** [AI City Challenge](https://www.aicitychallenge.org) at CVPR 2019, 2020    
 
-Tutorial: [PreRNN and BandRNN for Video Understanding](/publications/papers/tutorial-gtc19.pdf) at GTC 2019    
+**Tutorial:** [PreRNN and BandRNN for Video Understanding](/publications/papers/tutorial-gtc19.pdf) at GTC 2019    
 
 I review for various conferences and journals including CVPR, ICCV, ECCV, NeurIPS, TPAMI, IJCV, SIGGRAPH, SIGGRAPH Asia, and many more. 
