@@ -4,6 +4,14 @@ title: News
 comments: no
 ---
 
+> Co-organizing the [AI City Challenge](https://www.aicitychallenge.org) at CVPR 2019. 
+
+> One paper accepted by TPAMI on optical flow estimation. 
+
+> Our PWC-Net wins the first place on the optical flow competition of [CVPR 2018 Robust Vision Challenge](http://www.robustvision.net/leaderboard.php?benchmark=flow)!
+
+> Three papers accepted by CVPR 2018 on recurrent networks, optical flow estimation, and video generation. 
+
 > Our dynamic facial analysis work, part of NVIDIA AI Co-Pilot, is featured on [NVIDIA Blog](https://devblogs.nvidia.com/parallelforall/ai-co-pilot-rnn-dynamic-facial-analysis/).
 
 > One paper accepted by CVPR 2017 on face alignment and head pose estimation. 
