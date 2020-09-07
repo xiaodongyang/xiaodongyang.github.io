@@ -4,6 +4,28 @@ title: Publications
 comments: no
 ---
 
+**2020**
+
+[Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification](/publications/papers/dgnetpp-eccv20.pdf) [[Code](https://github.com/NVlabs/DG-Net-PP)] [[Supp](/publications/papers/dgnetpp-supp-eccv20.pdf)]    
+Y. Zou, X. Yang, Z. Yu, V. Kumar, J. Kautz    
+European Conference on Computer Vision (ECCV), 2020 (Oral)    
+
+[Contrastive Learning for Weakly Supervised Phrase Grounding](/publications/papers/info-ground-eccv20.pdf) [[Code](https://github.com/BigRedT/info-ground)] [[Project](http://tanmaygupta.info/info-ground/#a-detailed-look-)]     
+T. Gupta, A. Vahdat, G. Checkik, X. Yang, J. Kautz, D. Hoiem    
+European Conference on Computer Vision (ECCV), 2020 (Spotlight)   
+
+[UFO^2: A Unified Framework towards Omni-supervised Object Detection](/publications/papers/ufo2-eccv20.pdf) [[Code](https://github.com/NVlabs/wetectron)] [[Project](https://jason718.github.io/project/ufoo/main.html)] [[Supp](/publications/papers/ufo2-supp-eccv20.pdf)]    
+Z. Ren, Z. Yu, X. Yang, M.-Y. Liu, A. Schwing, J. Kautz     
+European Conference on Computer Vision (ECCV), 2020   
+
+[Simulating Content Consistent Vehicle Datasets with Attribute Descent](/publications/papers/vehiclex-eccv20.pdf) [[Code](https://github.com/yorkeyao/VehicleX)] [[Demo](https://simmer.io/@yorkeyao/vehiclex-demo-s)]    
+Y. Yao, L. Zhang, X. Yang, M. Naphade, T. Gedeon    
+European Conference on Computer Vision (ECCV), 2020
+
+[Instance-Aware, Context-Focused, and Memory-Efficient Weakly Supervised Object Detection](/publications/papers/wsod-cvpr20.pdf) [[Code](https://github.com/NVlabs/wetectron)] [[Project](https://jason718.github.io/project/wsod/main.html)]   
+Z. Ren, Z. Yu, X. Yang, M.-Y. Liu, Y. J. Lee, A. Schwing, J. Kautz    
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020    
+
 **2019**
 
 [Dancing to Music](/publications/papers/dance2music-neurips19.pdf) [[Code](https://github.com/NVlabs/Dance2Music)] [[Data](http://vllab.ucmerced.edu/hylee/Dancing2Music/script.txt)] [[Blog](https://news.developer.nvidia.com/nvidia-dance-to-music-neurips/)] [[Supp](/publications/papers/dance2music-supp-neurips19.pdf)]     
