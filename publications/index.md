@@ -14,7 +14,7 @@ European Conference on Computer Vision (ECCV), 2020 (Oral)
 T. Gupta, A. Vahdat, G. Checkik, X. Yang, J. Kautz, D. Hoiem    
 European Conference on Computer Vision (ECCV), 2020 (Spotlight)   
 
-[UFO^2: A Unified Framework towards Omni-supervised Object Detection](/publications/papers/ufo2-eccv20.pdf) [[Code](https://github.com/NVlabs/wetectron)] [[Project](https://jason718.github.io/project/ufoo/main.html)] [[Supp](/publications/papers/ufo2-supp-eccv20.pdf)]    
+[UFO<sup>2</sup>: A Unified Framework towards Omni-supervised Object Detection](/publications/papers/ufo2-eccv20.pdf) [[Code](https://github.com/NVlabs/wetectron)] [[Project](https://jason718.github.io/project/ufoo/main.html)] [[Supp](/publications/papers/ufo2-supp-eccv20.pdf)]    
 Z. Ren, Z. Yu, X. Yang, M.-Y. Liu, A. Schwing, J. Kautz     
 European Conference on Computer Vision (ECCV), 2020   
 
