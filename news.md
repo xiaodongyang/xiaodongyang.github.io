@@ -8,7 +8,7 @@ comments: no
 
 > One paper accepted by TPAMI on optical flow estimation. 
 
-> Our PWC-Net wins the first place on the optical flow competition of [CVPR 2018 Robust Vision Challenge](http://www.robustvision.net/leaderboard.php?benchmark=flow)!
+Our PWC-Net wins the first place on the optical flow competition of [CVPR 2018 Robust Vision Challenge](http://www.robustvision.net/leaderboard.php?benchmark=flow)!    
 
 > Three papers accepted by CVPR 2018 on recurrent networks, optical flow estimation, and video generation. 
 
