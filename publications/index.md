@@ -256,11 +256,14 @@ US10467763 Issued on Nov. 5, 2019
 [System and Method for Content and Motion Controlled Action Video Generation](/publications/papers/10595039.pdf)   
 US10595039 Issued on Mar. 17, 2020   
 
+[Budget-Aware Method for Detecting Activity in Video](/publications/papers/10860859.pdf)   
+US10860859 Issued on Dec. 8, 2020 
+
 [Transforming Convolutional Neural Networks for Visual Sequence Learning](/publications/papers/15-880472.pdf)   
 US Patent App. 15/880472, 2018
 
 [Iterative Spatio-Temporal Action Detection in Video](/publications/papers/16-152303.pdf)      
 US Patent App. 16/152303, 2018   
 
-[Budget-Aware Method for Detecting Activity in Video](/publications/papers/16-202703.pdf)   
-US Patent App. 16/202703, 2018
+[Weakly-Supervised Object Detection Using One or More Neural Networks](/publications/papers/16-443346.pdf)   
+US Patent App. 16/443346, 2019    
