@@ -5,7 +5,9 @@ comments: no
 ---
 ### Code    
 
-[DG-Net++](https://github.com/NVlabs/DG-Net-PP): PyTorch implementation of joint disentangling and adaptation for unsupervised cross-domain person re-id 
+[DG-Net++](https://github.com/NVlabs/DG-Net-PP): PyTorch implementation of joint disentangling and adaptation for cross-domain person re-id    
+
+[Wetectron](https://github.com/nvlabs/wetectron/): A platform for weakly-supervised object detection
 
 [Dance2Music](https://github.com/NVlabs/Dancing2Music): PyTorch implementation of a generative model that synthesizes dance from music
 
