@@ -5,7 +5,7 @@ comments: no
 ---
 ### Code    
 
-[DG-Net++](https://github.com/NVlabs/DG-Net-PP): PyTorch implementation of unsupervised cross-domain person re-id 
+[DG-Net++](https://github.com/NVlabs/DG-Net-PP): PyTorch implementation of joint disentangling and adaptation for unsupervised cross-domain person re-id 
 
 [Dance2Music](https://github.com/NVlabs/Dancing2Music): PyTorch implementation of a generative model that synthesizes dance from music
 
