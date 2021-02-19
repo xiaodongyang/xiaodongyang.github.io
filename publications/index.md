@@ -6,7 +6,7 @@ comments: no
 
 **2020**
 
-[Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification](/publications/papers/dgnetpp-eccv20.pdf) [[Code](https://github.com/NVlabs/DG-Net-PP)] [[Video](https://www.youtube.com/watch?v=7o3MLq8BUlg)] [[Supp](/publications/papers/dgnetpp-supp-eccv20.pdf)]    
+[Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification](/publications/papers/dgnetpp-eccv20.pdf) [[Code](https://github.com/NVlabs/DG-Net-PP)] [[Slides](/publications/papers/dgnetpp-slides-eccv20.pdf)] [[Supp](/publications/papers/dgnetpp-supp-eccv20.pdf)]    
 Y. Zou, X. Yang, Z. Yu, V. Kumar, J. Kautz    
 European Conference on Computer Vision (ECCV), 2020 (Oral)    
 
