@@ -10,7 +10,7 @@ comments: no
 Y. Zou, X. Yang, Z. Yu, V. Kumar, J. Kautz    
 European Conference on Computer Vision (ECCV), 2020 (Oral)    
 
-[Contrastive Learning for Weakly Supervised Phrase Grounding](/publications/papers/info-ground-eccv20.pdf) [[Code](https://github.com/BigRedT/info-ground)] [[Project](http://tanmaygupta.info/info-ground/#a-detailed-look-)]     
+[Contrastive Learning for Weakly Supervised Phrase Grounding](/publications/papers/info-ground-eccv20.pdf) [[Code](https://github.com/BigRedT/info-ground)] [[Project](http://tanmaygupta.info/info-ground/#a-detailed-look-)] [[Video](https://www.youtube.com/watch?v=tRkUnqfNCMs&feature=emb_logo)]     
 T. Gupta, A. Vahdat, G. Checkik, X. Yang, J. Kautz, D. Hoiem    
 European Conference on Computer Vision (ECCV), 2020 (Spotlight)   
 
