@@ -18,7 +18,7 @@ European Conference on Computer Vision (ECCV), 2020 (Spotlight)
 Z. Ren, Z. Yu, X. Yang, M.-Y. Liu, A. Schwing, J. Kautz     
 European Conference on Computer Vision (ECCV), 2020   
 
-[Simulating Content Consistent Vehicle Datasets with Attribute Descent](/publications/papers/vehiclex-eccv20.pdf) [[Code](https://github.com/yorkeyao/VehicleX)] [[Demo](https://simmer.io/@yorkeyao/vehiclex-demo-s)]    
+[Simulating Content Consistent Vehicle Datasets with Attribute Descent](/publications/papers/vehiclex-eccv20.pdf) [[Code](https://github.com/yorkeyao/VehicleX)] [[Demo](http://vehiclex-demo.yaoy.cc:9610)]    
 Y. Yao, L. Zhang, X. Yang, M. Naphade, T. Gedeon    
 European Conference on Computer Vision (ECCV), 2020
 
