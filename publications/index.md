@@ -268,5 +268,5 @@ US Patent App. 16/152303, 2018
 [Weakly-Supervised Object Detection Using One or More Neural Networks](/publications/papers/16-443346.pdf)   
 US Patent App. 16/443346, 2019   
 
-[Joint Representation Learning from Images and Text](/publications/papers/17-000048.pdf)   
+[Joint Representation Learning from Images and Text](/publications/papers/17-000048.pdf)    
 US Patent App. 17/000048, 2020    
