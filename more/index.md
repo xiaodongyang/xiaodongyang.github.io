@@ -6,19 +6,19 @@ comments: no
 
 ### Honors and Awards
 
-AI2000 Most Influential Scholar Honorable Mention, 2020
+AI2000 Most Influential Scholar Honorable Mention by AMiner, 2020
 
 CVPR Outstanding Reviewer, 2019
 
-First Place on Optical Flow Competition of CVPR18 Robust Vision Challenge, 2018
+Winner on Optical Flow Competition of CVPR Robust Vision Challenge, 2018
 
-Best Paper Award, Journal of Visual Communication and Image Representation, 2015
+Best Paper Award Runner-Up, Journal of Visual Communication and Image Representation, 2015
 
-First Place on TRECVID Semantic Localization, 2015
+Winner on TRECVID Semantic Localization, 2015
 
-First Place on TRECVID Surveillance Event Detection, 2013
+Winner on TRECVID Surveillance Event Detection, 2013
 
-ACM Multimedia Travel Grant, 2011
+ACM Multimedia Travel Award, 2011
 
 Special Recognition Award, Junior Scientist Conference, 2010
 <br><br>
@@ -38,7 +38,7 @@ Research Intern at [AT&T Labs Research](http://www.research.att.com), Middletown
 
 **Talk:** [CMU](https://www.ri.cmu.edu/event/temporal-modeling-and-data-synthesis-for-visual-understanding/), [Peking University](https://www.icst.pku.edu.cn/xwgg/jzxx/1321264.htm), Tsinghua University, [CAS Institute of Computing Technology](https://vipl.ict.ac.cn/view_news.php?id=165), CAS Institute of Automation, CAS Institute of Information Engineering    
 
-**Organizer:** [AI City Challenge](https://www.aicitychallenge.org) at CVPR 2019, 2020    
+**Organizer:** [AI City Challenge](https://www.aicitychallenge.org) at CVPR 2019, 2020, 2021    
 
 **Tutorial:** [PreRNN and BandRNN for Video Understanding](/publications/papers/tutorial-gtc19.pdf) at GTC 2019    
 
