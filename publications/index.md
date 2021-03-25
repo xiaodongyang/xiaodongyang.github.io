@@ -30,7 +30,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020
 
 [Dancing to Music](/publications/papers/dance2music-neurips19.pdf) [[Code](https://github.com/NVlabs/Dance2Music)] [[Data](http://vllab.ucmerced.edu/hylee/Dancing2Music/script.txt)] [[Blog](https://news.developer.nvidia.com/nvidia-dance-to-music-neurips/)] [[Supp](/publications/papers/dance2music-supp-neurips19.pdf)]     
 H.-Y. Lee, X. Yang, M.-Y. Liu, T.-C. Wang, Y.-D. Lu, M.-H. Yang, J. Kautz         
-Neural Information Processing Systems (NeurIPS), 2019    
+Advances in Neural Information Processing Systems (NeurIPS), 2019    
 
 [Joint Discriminative and Generative Learning for Person Re-Identification](/publications/papers/dgnet-cvpr19.pdf) [[Code](https://github.com/NVlabs/DG-Net)] [[Video](https://www.youtube.com/watch?v=ubCrEAIpQs4&t=3s)] [[Supp](/publications/papers/dgnet-supp-cvpr19.pdf)]     
 Z. Zheng, X. Yang, Z. Yu, L. Zheng, Y. Yang, J. Kautz     
