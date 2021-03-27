@@ -268,5 +268,18 @@ US Patent App. 16/152303, 2018
 [Weakly-Supervised Object Detection Using One or More Neural Networks](/publications/papers/16-443346.pdf)   
 US Patent App. 16/443346, 2019   
 
+[Neural Architecture for Self-Supervised Event Learning and Anomaly Detection](/publications/papers/16-453913.pdf)    
+US Patent App. 16/453913, 2019   
+
+[Cross-Domain Image Processing for Object Re-Identification](/publications/papers/16-998890.pdf)    
+US Patent App. 16/998890, 2020  
+
+[Self-Supervised Hierarchical Motion Learning for Video Action Recognition](/publications/papers/16-998914.pdf)    
+US Patent App. 16/998914, 2020  
+
 [Joint Representation Learning from Images and Text](/publications/papers/17-000048.pdf)    
-US Patent App. 17/000048, 2020    
+US Patent App. 17/000048, 2020   
+
+
+
+
