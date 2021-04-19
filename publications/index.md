@@ -265,6 +265,9 @@ US Patent App. 15/880472, 2018
 [Iterative Spatio-Temporal Action Detection in Video](/publications/papers/16-152303.pdf)      
 US Patent App. 16/152303, 2018   
 
+[Image Identification Using Neural Networks](/publications/papers/16-357047.pdf)   
+US Patent App. 16/357047, 2019   
+
 [Weakly-Supervised Object Detection Using One or More Neural Networks](/publications/papers/16-443346.pdf)   
 US Patent App. 16/443346, 2019   
 
