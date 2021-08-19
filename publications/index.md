@@ -116,7 +116,7 @@ ACM International Conference on Multimedia Retrieval (ICMR), 2016
 
 [Towards Selecting Robust Hand Gestures for Automotive Interfaces](/publications/papers/ivs16.pdf)   
 S. Gupta, P. Molchanov, X. Yang, K. Kim, S. Tyree, J. Kautz   
-IEEE Intelligent Vehicles Symposium (IVS), 2016   
+IEEE Intelligent Vehicles Symposium (IV), 2016   
 
 **2015**
 
@@ -152,7 +152,7 @@ European Conference on Computer Vision (ECCV), 2014
 
 [Effective 3D Action Recognition Using EigenJoints](/publications/papers/jvci14.pdf)   
 X. Yang, Y. Tian   
-Journal of Visual Communication and Image Representation (JVCI), 2014 (Best Paper Award)   
+Journal of Visual Communication and Image Representation (JVCI), 2014 (Best Paper Award Runner-Up)   
 
 [Scene Text Recognition in Multiple Frames based on Text Tracking](/publications/papers/icme14.pdf)   
 X. Rong, C. Yi, X. Yang, Y. Tian   
@@ -182,11 +182,7 @@ NIST TREC Video Retrieval Evaluation (TRECVID), 2013
 
 [Texture Representations Using Subspace Embeddings](/publications/papers/prl13.pdf)   
 X. Yang, Y. Tian   
-Pattern Recognition Letters (PRL), 2013  
-
-[Visual Speech Learning Using Dynamic Lip Movement based Video Segmentation and Comparison](/publications/papers/bibm13.pdf)   
-C. Mazuera, X. Yang, Y. Tian   
-IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2013 (Oral)   
+Pattern Recognition Letters (PRL), 2013   
 
 [Toward A Computer Vision based Wayfinding Aid for Blind Persons to Access Unfamiliar Indoor Environments](/publications/papers/mva13.pdf)   
 Y. Tian, X. Yang, C. Yi, A. Arditi   
@@ -233,37 +229,37 @@ IEEE CVPR Workshop on Computer Vision Applications for Visually Impaired, 2010
 **Patents**
 
 [Dynamic Hand Gesture based Region of Interest Localization](/publications/papers/9354711.pdf)   
-US9354711 Issued on May 31, 2016   
+US9354711 Issued on 2016/03/31   
 
 [Hand Gesture based Region of Interest Localization](/publications/papers/9778750.pdf)   
-US9778750 Issued on Oct. 3, 2017 
+US9778750 Issued on 2017/10/03 
 
 [Online Detection and Classification of Dynamic Gestures with Recurrent Convolutional Neural Networks](/publications/papers/10157309.pdf)   
-US10157309 Issued on Dec. 18, 2018   
+US10157309 Issued on 2018/12/18   
 
 [Systems and Methods for Dynamic Facial Analysis Using A Recurrent Neural Network](/publications/papers/10373332.pdf)    
-US10373332 Issued on Aug. 6, 2019   
+US10373332 Issued on 2019/08/06   
 
 [Fusing Multilayer and Multimodal Deep Neural Networks for Video Classification](/publications/papers/10402697.pdf)   
-US10402697 Issued on Sep. 3, 2019     
+US10402697 Issued on 2019/09/03     
 
 [System and Method for Optical Flow Estimation](/publications/papers/10424069.pdf)   
-US10424069 Issued on Sep. 24, 2019  
+US10424069 Issued on 2019/09/24  
 
 [System and Method for Optical Flow Estimation](/publications/papers/10467763.pdf)   
-US10467763 Issued on Nov. 5, 2019  
+US10467763 Issued on 2019/11/05  
 
 [System and Method for Content and Motion Controlled Action Video Generation](/publications/papers/10595039.pdf)   
-US10595039 Issued on Mar. 17, 2020   
+US10595039 Issued on 2020/03/17   
 
 [Budget-Aware Method for Detecting Activity in Video](/publications/papers/10860859.pdf)   
-US10860859 Issued on Dec. 8, 2020 
+US10860859 Issued on 2020/12/08 
 
-[Transforming Convolutional Neural Networks for Visual Sequence Learning](/publications/papers/15-880472.pdf)   
-US Patent App. 15/880472, 2018
+[Iterative Spatio-Temporal Action Detection in Video](/publications/papers/11017556pdf)      
+US11017556 Issued on 2021/05/25
 
-[Iterative Spatio-Temporal Action Detection in Video](/publications/papers/16-152303.pdf)      
-US Patent App. 16/152303, 2018   
+[Transforming Convolutional Neural Networks for Visual Sequence Learning](/publications/papers/11049018.pdf)   
+US11049018 Issued on 2021/06/29       
 
 [Image Identification Using Neural Networks](/publications/papers/16-357047.pdf)   
 US Patent App. 16/357047, 2019   
