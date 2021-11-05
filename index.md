@@ -17,7 +17,7 @@ Xiaodong Yang is a Senior Research Scientist at NVIDIA Research. His research in
 
 > Our dancing to music work is featured on [NVIDIA Blog](https://news.developer.nvidia.com/nvidia-dance-to-music-neurips/).
 
-> Giving a talk on temporal modeling and data synthesis at [CMU VASC Seminar](https://www.ri.cmu.edu/event/temporal-modeling-and-data-synthesis-for-visual-understanding/).
+> Giving a talk on temporal modeling and data synthesis at [CMU](https://www.ri.cmu.edu/event/temporal-modeling-and-data-synthesis-for-visual-understanding/).
 
 > One paper accepted by NeurIPS 2019 on music to dance generation. 
 
