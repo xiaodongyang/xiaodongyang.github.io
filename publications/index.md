@@ -255,7 +255,7 @@ US10595039 Issued on 2020/03/17
 [Budget-Aware Method for Detecting Activity in Video](/publications/papers/10860859.pdf)   
 US10860859 Issued on 2020/12/08 
 
-[Iterative Spatio-Temporal Action Detection in Video](/publications/papers/11017556pdf)      
+[Iterative Spatio-Temporal Action Detection in Video](/publications/papers/11017556.pdf)      
 US11017556 Issued on 2021/05/25
 
 [Transforming Convolutional Neural Networks for Visual Sequence Learning](/publications/papers/11049018.pdf)   
