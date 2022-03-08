@@ -277,7 +277,10 @@ US Patent App. 16/998890, 2020
 US Patent App. 16/998914, 2020  
 
 [Joint Representation Learning from Images and Text](/publications/papers/17-000048.pdf)    
-US Patent App. 17/000048, 2020   
+US Patent App. 17/000048, 2020  
+
+[Method and Apparatus for Generating Interactive Scenario, and Electronic Device](/publications/papers/17-032726.pdf)    
+US Patent App. 17/032726, 2020  
 
 
 
