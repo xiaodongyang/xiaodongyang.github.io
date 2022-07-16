@@ -261,6 +261,9 @@ US11017556 Issued on 2021/05/25
 [Transforming Convolutional Neural Networks for Visual Sequence Learning](/publications/papers/11049018.pdf)   
 US11049018 Issued on 2021/06/29       
 
+[Cross-Domain Image Processing for Object Re-Identification](/publications/papers/11367268.pdf)    
+US11367268 Issued on 2022/06/21 
+
 [Image Identification Using Neural Networks](/publications/papers/16-357047.pdf)   
 US Patent App. 16/357047, 2019   
 
@@ -269,9 +272,6 @@ US Patent App. 16/443346, 2019
 
 [Neural Architecture for Self-Supervised Event Learning and Anomaly Detection](/publications/papers/16-453913.pdf)    
 US Patent App. 16/453913, 2019   
-
-[Cross-Domain Image Processing for Object Re-Identification](/publications/papers/16-998890.pdf)    
-US Patent App. 16/998890, 2020  
 
 [Self-Supervised Hierarchical Motion Learning for Video Action Recognition](/publications/papers/16-998914.pdf)    
 US Patent App. 16/998914, 2020  
