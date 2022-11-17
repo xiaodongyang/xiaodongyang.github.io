@@ -282,7 +282,7 @@ US Patent App. 17/000048, 2020
 [Method and Apparatus for Generating Interactive Scenario, and Electronic Device](/publications/papers/17-032726.pdf)    
 US Patent App. 17/032726, 2020  
 
-[Method and System for Self-Supervised Learning of Pillar Motion for Autonomous Driving](/publications/papers/17-231271.pdf)
+[Method and System for Self-Supervised Learning of Pillar Motion for Autonomous Driving](/publications/papers/17-231271.pdf)    
 US Patent App. 17/231271, 2022  
 
 
