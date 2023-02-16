@@ -285,4 +285,5 @@ US Patent App. 17/032726, 2020
 [Method and System for Self-Supervised Learning of Pillar Motion for Autonomous Driving](/publications/papers/17-231271.pdf)    
 US Patent App. 17/231271, 2022  
 
-
+[System and Method for 3D Multi-Object Tracking in LiDAR Point Clouds](/publications/papers/17-395626.pdf)    
+US Patent App. 17/395626, 2023  
