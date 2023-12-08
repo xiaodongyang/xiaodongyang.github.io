@@ -42,4 +42,4 @@ Research Intern at [AT&T Labs Research](http://www.research.att.com), Middletown
 
 **Tutorial:** [PreRNN and BandRNN for Video Understanding](/publications/papers/tutorial-gtc19.pdf) at GTC 2019    
 
-I review for various conferences and journals including CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, TPAMI, IJCV, SIGGRAPH, SIGGRAPH Asia, and many more. 
+I review for various conferences and journals including CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, TPAMI, IJCV, SIGGRAPH, SIGGRAPH Asia, and many [more](/publications/papers/cv.pdf). 
